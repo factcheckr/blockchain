@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 06:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 07:02:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체이널리시스, “해커들, 가상자산 탈취 위해 ‘멀웨어’ 이용”]]></title>
+            <link>https://n.news.naver.com/article/138/0002119155</link>
+            <guid>https://n.news.naver.com/article/138/0002119155</guid>
+            <pubDate>Thu, 17 Feb 2022 07:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/17/2119155.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕증권거래소도 NFT 시장 진출…대세되는 NFT]]></title>
             <link>https://n.news.naver.com/article/138/0002119129</link>
             <guid>https://n.news.naver.com/article/138/0002119129</guid>
             <pubDate>Thu, 17 Feb 2022 02:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/17/2119129.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002119001</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고위드, 법인카드 발급 서비스 전면 개편]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002118991</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ESG 경영에 꽂힌 두나무, 산림청과 '탄소중립' 협약]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002118882</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸, ‘출금 가능’ 거래소에 바이낸스 포함할 듯…“적극 검토 중”]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002118857</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인원, 이용자 보호 전담부서 신설]]></title>
@@ -122,7 +130,7 @@
             <link>https://n.news.naver.com/article/138/0002118773</link>
             <guid>https://n.news.naver.com/article/138/0002118773</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118773.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -139,14 +147,14 @@
             <guid>https://n.news.naver.com/article/138/0002118753</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118753.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드의 '토큰 소각', 위믹스 가격에 영향 줄까]]></title>
             <link>https://n.news.naver.com/article/138/0002118691</link>
             <guid>https://n.news.naver.com/article/138/0002118691</guid>
             <pubDate>Wed, 16 Feb 2022 12:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/10/2118691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코빗, 모바일 웹 UI·UX 전면 업데이트]]></title>
@@ -219,14 +227,6 @@
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118405.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레이튼 기반 ‘P2E 게임’ 러시…글로벌화도 주목]]></title>
-            <link>https://n.news.naver.com/article/138/0002118403</link>
-            <guid>https://n.news.naver.com/article/138/0002118403</guid>
-            <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118403.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
