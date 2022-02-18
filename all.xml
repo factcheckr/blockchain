@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 00:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:56:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 지갑 품은 넷마블, 왜 ‘코인어스’일까 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119191</link>
+            <guid>https://n.news.naver.com/article/138/0002119191</guid>
+            <pubDate>Fri, 18 Feb 2022 01:56:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/18/2119191.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체이널리시스, “해커들, 가상자산 탈취 위해 ‘멀웨어’ 이용” (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119155</link>
             <guid>https://n.news.naver.com/article/138/0002119155</guid>
             <pubDate>Thu, 17 Feb 2022 07:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/17/2119155.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002119129</link>
             <guid>https://n.news.naver.com/article/138/0002119129</guid>
             <pubDate>Thu, 17 Feb 2022 02:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/17/2119129.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002119006</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트 이어 빗썸도 ‘유니콘’ 기업 등극 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002119001</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고위드, 법인카드 발급 서비스 전면 개편 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -83,7 +91,7 @@
             <link>https://n.news.naver.com/article/138/0002118931</link>
             <guid>https://n.news.naver.com/article/138/0002118931</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118931.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002118899</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['데스티니 차일드'도 NFT로…더 샌드박스와 협업 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002118882</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸, ‘출금 가능’ 거래소에 바이낸스 포함할 듯…“적극 검토 중” (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -114,7 +122,7 @@
             <link>https://n.news.naver.com/article/138/0002118833</link>
             <guid>https://n.news.naver.com/article/138/0002118833</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -139,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002118767</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 샌드박스 '랜드' 산 구찌, 명품 업계에 어떤 바람 일으킬까 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -147,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002118753</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118753.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드의 '토큰 소각', 위믹스 가격에 영향 줄까 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -161,7 +169,7 @@
             <link>https://n.news.naver.com/article/138/0002118635</link>
             <guid>https://n.news.naver.com/article/138/0002118635</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/10/2118635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -219,14 +227,6 @@
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118481.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인의 가상자산 링크, 라인페이 가맹점서 쓴다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002118405</link>
-            <guid>https://n.news.naver.com/article/138/0002118405</guid>
-            <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118405.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
