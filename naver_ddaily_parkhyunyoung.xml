@@ -4,7 +4,7 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 07:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 08:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002119239</link>
             <guid>https://n.news.naver.com/article/138/0002119239</guid>
             <pubDate>Fri, 18 Feb 2022 09:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/18/2119239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -75,7 +75,7 @@
             <link>https://n.news.naver.com/article/138/0002118991</link>
             <guid>https://n.news.naver.com/article/138/0002118991</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,7 +83,7 @@
             <link>https://n.news.naver.com/article/138/0002118986</link>
             <guid>https://n.news.naver.com/article/138/0002118986</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -146,7 +146,7 @@
             <link>https://n.news.naver.com/article/138/0002118773</link>
             <guid>https://n.news.naver.com/article/138/0002118773</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.11.</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이브·YG 엔터, NFT 사업 본격화…두나무 람다256에 투자]]></title>
