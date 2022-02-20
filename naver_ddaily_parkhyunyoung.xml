@@ -4,9 +4,17 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 02:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 03:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 블록체인] 코인 거래소 지각변동…‘5대 거래소’부터 ‘유니콘 기업’까지]]></title>
+            <link>https://n.news.naver.com/article/138/0002119280</link>
+            <guid>https://n.news.naver.com/article/138/0002119280</guid>
+            <pubDate>Sun, 20 Feb 2022 03:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>17분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/20/2119280.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테라-SEC 법적 공방 지속…뉴욕 법원 "권도형 대표, SEC 소환 응해야"]]></title>
             <link>https://n.news.naver.com/article/138/0002119239</link>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002119065</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/16/2119065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위믹스, 시장 유통량 아닌 보유분 소각하는 이유는?…장현국 “장기 성장용 플랜”]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002119046</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/16/2119046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고팍스, 전북은행 실명계좌 확보…원화취급 코인 거래소 5곳으로]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002118965</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온더, 컴플라이언스 총괄로 율촌 출신 목영훈 미국변호사 영입]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002118931</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118931.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["SW 개발자 세분화해 양성해야"…디지털 교육 혁신 토론회 개최]]></title>
@@ -130,7 +138,7 @@
             <link>https://n.news.naver.com/article/138/0002118812</link>
             <guid>https://n.news.naver.com/article/138/0002118812</guid>
             <pubDate>Sat, 19 Feb 2022 16:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/13/2118812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -139,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002118780</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118780.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 美 ‘비트코인 현물 ETF’ 승인될까?]]></title>
@@ -147,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002118773</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.11.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118773.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이브·YG 엔터, NFT 사업 본격화…두나무 람다256에 투자]]></title>
@@ -219,14 +227,6 @@
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118532.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프렌즈게임즈 골프게임, 보라 블록체인 기반 P2E 게임으로 나온다]]></title>
-            <link>https://n.news.naver.com/article/138/0002118488</link>
-            <guid>https://n.news.naver.com/article/138/0002118488</guid>
-            <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118488.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
