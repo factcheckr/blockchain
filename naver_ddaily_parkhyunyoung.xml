@@ -4,7 +4,7 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 01:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 02:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -130,7 +130,7 @@
             <link>https://n.news.naver.com/article/138/0002118857</link>
             <guid>https://n.news.naver.com/article/138/0002118857</guid>
             <pubDate>Sun, 20 Feb 2022 10:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -146,7 +146,7 @@
             <link>https://n.news.naver.com/article/138/0002118812</link>
             <guid>https://n.news.naver.com/article/138/0002118812</guid>
             <pubDate>Sat, 19 Feb 2022 16:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.13.</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[흥국생명·흥국화재, 각각 임형준·임규준 대표이사 내정]]></title>
