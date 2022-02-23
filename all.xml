@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 05:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 이어 SM도 바이낸스와 협업…P2E 아닌 P2C 만든다 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=231948</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=231948</guid>
+            <pubDate>Wed, 23 Feb 2022 05:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] YG엔터테인먼트에 이어 SM엔터테인먼트도 세계 최대 가상자산 거래소 바이낸스와 손을 잡았다. 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업을 본격화하고, ‘플레이 투 언(Play to Earn, P2E)’이 아닌 ‘플레이 투 크리에이트(Play to Create, P2C)’ 문화를 조성하겠다는 취지다. 23…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[큐브엔터, 애니모카브랜즈와 'NFT 사업용' 합작법인 설립 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=231897</link>
@@ -104,13 +111,6 @@
             <guid>https://www.ddaily.co.kr/news/article.html?no=231402</guid>
             <pubDate>Wed, 23 Feb 2022 04:04:02 GMT</pubDate>
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 고팍스가 전북은행으로부터 실명확인 입출금계정(실명계좌)을 확보했다. 이로써 원화와 가상자산 간 거래가 가능한 원화마켓 운영 거래소는 총 5곳이 됐다. 15일 고팍스는 전북은행과의 실명계좌 서비스 계약을 완료, 계좌 발급 확인서를 받았다고 밝혔다. 그동안 국내에서는 업비트, 빗썸, 코인원, 코빗 등…]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[업비트 이어 빗썸도 ‘유니콘’ 기업 등극 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=231396</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=231396</guid>
-            <pubDate>Wed, 23 Feb 2022 04:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 기업가치가 1조원 이상인 국내 ‘유니콘’ 기업이 지난해 말 기준 역대 최다인 18개사로 조사됐다. 18개사에는 국내 최대 가상자산 거래소 업비트를 운영하는 두나무와 점유율 2위 거래소인 빗썸도 포함됐다. 15일 중소벤처기업부에 따르면 유니콘 기업은 2020년 말 13개에서 지난해 7개가 추가됐다. 추가된 기업은 ▲두…]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[큐브엔터, 애니모카브랜즈와 'NFT 사업용' 합작법인 설립 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -235,7 +235,7 @@
             <link>https://n.news.naver.com/article/138/0002118965</link>
             <guid>https://n.news.naver.com/article/138/0002118965</guid>
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
