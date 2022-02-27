@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 12:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 13:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[주간 블록체인] 러시아‧우크라 전쟁이 비트코인에 미치는 영향 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119710</link>
-            <guid>https://n.news.naver.com/article/138/0002119710</guid>
-            <pubDate>Sun, 27 Feb 2022 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/27/2119710.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[코인대선] 법인의 가상자산 투자, 국내 시장 변곡점 될까 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119697</link>
@@ -30,6 +22,14 @@
             <pubDate>Fri, 25 Feb 2022 01:58:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/25/2119618.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NFT에 꽂힌 SM…더 샌드박스에 'SM타운 랜드' 조성 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119575</link>
+            <guid>https://n.news.naver.com/article/138/0002119575</guid>
+            <pubDate>Sun, 27 Feb 2022 13:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119575.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해시드, 종합 NFT 플랫폼 '레어서클즈'에 투자 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
