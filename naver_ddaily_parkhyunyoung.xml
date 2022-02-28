@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 23:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 00:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 구찌‧SM도 택한 메타버스 ‘더 샌드박스’, 한국 사업 속도 내는 이유는?]]></title>
+            <link>https://n.news.naver.com/article/138/0002119728</link>
+            <guid>https://n.news.naver.com/article/138/0002119728</guid>
+            <pubDate>Mon, 28 Feb 2022 00:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119728.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[코인대선] 법인의 가상자산 투자, 국내 시장 변곡점 될까]]></title>
             <link>https://n.news.naver.com/article/138/0002119697</link>
             <guid>https://n.news.naver.com/article/138/0002119697</guid>
             <pubDate>Sun, 27 Feb 2022 01:57:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/27/2119697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118965.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온더, 컴플라이언스 총괄로 율촌 출신 목영훈 미국변호사 영입]]></title>
-            <link>https://n.news.naver.com/article/138/0002118931</link>
-            <guid>https://n.news.naver.com/article/138/0002118931</guid>
-            <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118931.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
