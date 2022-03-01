@@ -5,7 +5,7 @@ entrySelector = "div.m01_ara dl"
 titleSelector = "dt a"
 linkSelector = "dt a"
 contentSelector = "dd a"
-waitUntil = "networkidle"
+waitForSelector = "div.m01_ara dl"
 
 [naver_ddaily_parkhyunyoung]
 title = "디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스"
