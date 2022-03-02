@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 03:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 04:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정주, 가상자산 업계서도 ‘선구자’…시대 앞서간 행보 재조명 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=232369</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=232369</guid>
+            <pubDate>Wed, 02 Mar 2022 04:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 넥슨 창업자인 김정주 NXC 이사의 별세 소식에 그의 가상자산 관련 행보도 재조명받고 있다. 인터넷 벤처 산업, 게임 산업의 선구자인 동시에 가상자산 분야에도 일찌감치 관심을 보였던 만큼, 가상자산 업계에서도 추모의 물결이 일고 있다. 김정주 이사는 지난 2016년 국내 최초 가상자산 거래소 ‘코빗’을 인수하며 가상…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=232354</link>
@@ -106,11 +113,12 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] (여자)아이들, 비투비 등이 소속된 큐브엔터테인먼트(이하 큐브엔터)가 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업 진출을 위해 애니모카브랜즈와 합작법인을 설립했다고 22일 밝혔다. 애니모카브랜즈는 ‘더 샌드박스’를 자회사로 두고 있는 글로벌 블록체인 게임사다. 큐브엔터와 애니모카…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘뿌링클 할인쿠폰’도 NFT로…KB국민카드-BHC, ‘쿠폰형 NFT’ 지급 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=231836</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=231836</guid>
-            <pubDate>Tue, 01 Mar 2022 05:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] KB국민카드 ‘리브메이트(Liiv Mate)’ 애플리케이션에서 BHC 할인쿠폰을 다운받은 사용자는 대체불가능한 토큰(Non-Fungible Token, 이하 NFT)을 지급받을 수 있다. 블록체인 전문기업 블로코XYZ는 KB국민카드, BHC의 ‘쿠폰형 NFT’ 사업에 기술을 지원한다고 22일 밝혔다. KB국민카드와 bh…]]></content:encoded>
+            <title><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119862</link>
+            <guid>https://n.news.naver.com/article/138/0002119862</guid>
+            <pubDate>Wed, 02 Mar 2022 04:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119862.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핑거·마이크레딧체인, 금융메타버스 '독도버스' 박차…토큰 상장 완료 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -303,14 +311,6 @@
             <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119006.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트 이어 빗썸도 ‘유니콘’ 기업 등극 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119001</link>
-            <guid>https://n.news.naver.com/article/138/0002119001</guid>
-            <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
