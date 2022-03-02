@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 코인시장, ‘탑4 거래소’ 비중 95%…중소 사업자 어쩌나 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=232377</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=232377</guid>
+            <pubDate>Wed, 02 Mar 2022 06:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 국내 가상자산 시장이 원화마켓을 운영하는 ‘4대 거래소’ 중심으로 재편된 것으로 나타났다.2일 금융정보분석원(FIU)은 특정금융정보법(특금법)에 따라 사업자 신고를 완료한 29개 사업자에 대해 실태조사를 실시했다고 밝혔다. ◆‘탑 4’ 중심 코인 시장, 중소 고충 가중될 듯 이번 조사에서 확인된 국내 가상자산 시장…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김정주, 가상자산 업계서도 ‘선구자’…시대 앞서간 행보 재조명 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=232369</link>
@@ -106,18 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] YG엔터테인먼트에 이어 SM엔터테인먼트도 세계 최대 가상자산 거래소 바이낸스와 손을 잡았다. 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업을 본격화하고, ‘플레이 투 언(Play to Earn, P2E)’이 아닌 ‘플레이 투 크리에이트(Play to Create, P2C)’ 문화를 조성하겠다는 취지다. 23…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[큐브엔터, 애니모카브랜즈와 'NFT 사업용' 합작법인 설립 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=231897</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=231897</guid>
-            <pubDate>Tue, 01 Mar 2022 05:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] (여자)아이들, 비투비 등이 소속된 큐브엔터테인먼트(이하 큐브엔터)가 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업 진출을 위해 애니모카브랜즈와 합작법인을 설립했다고 22일 밝혔다. 애니모카브랜즈는 ‘더 샌드박스’를 자회사로 두고 있는 글로벌 블록체인 게임사다. 큐브엔터와 애니모카…]]></content:encoded>
+            <title><![CDATA[김정주, 가상자산 업계서도 ‘선구자’…시대 앞서간 행보 재조명 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119873</link>
+            <guid>https://n.news.naver.com/article/138/0002119873</guid>
+            <pubDate>Wed, 02 Mar 2022 06:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119873.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119862</link>
             <guid>https://n.news.naver.com/article/138/0002119862</guid>
             <pubDate>Wed, 02 Mar 2022 04:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119862.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -165,7 +173,7 @@
             <link>https://n.news.naver.com/article/138/0002119575</link>
             <guid>https://n.news.naver.com/article/138/0002119575</guid>
             <pubDate>Mon, 28 Feb 2022 22:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119575.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -173,7 +181,7 @@
             <link>https://n.news.naver.com/article/138/0002119569</link>
             <guid>https://n.news.naver.com/article/138/0002119569</guid>
             <pubDate>Thu, 24 Feb 2022 06:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -197,7 +205,7 @@
             <link>https://n.news.naver.com/article/138/0002119489</link>
             <guid>https://n.news.naver.com/article/138/0002119489</guid>
             <pubDate>Wed, 23 Feb 2022 06:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/23/2119489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,14 +311,6 @@
             <pubDate>Tue, 22 Feb 2022 13:11:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/16/2119040.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고팍스, 전북은행 실명계좌 확보…원화취급 코인 거래소 5곳으로 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119006</link>
-            <guid>https://n.news.naver.com/article/138/0002119006</guid>
-            <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

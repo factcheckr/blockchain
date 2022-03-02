@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정주, 가상자산 업계서도 ‘선구자’…시대 앞서간 행보 재조명]]></title>
+            <link>https://n.news.naver.com/article/138/0002119873</link>
+            <guid>https://n.news.naver.com/article/138/0002119873</guid>
+            <pubDate>Wed, 02 Mar 2022 06:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119873.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로]]></title>
             <link>https://n.news.naver.com/article/138/0002119862</link>
             <guid>https://n.news.naver.com/article/138/0002119862</guid>
             <pubDate>Wed, 02 Mar 2022 04:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119862.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/138/0002119575</link>
             <guid>https://n.news.naver.com/article/138/0002119575</guid>
             <pubDate>Mon, 28 Feb 2022 22:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119575.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/138/0002119569</link>
             <guid>https://n.news.naver.com/article/138/0002119569</guid>
             <pubDate>Thu, 24 Feb 2022 06:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002119489</link>
             <guid>https://n.news.naver.com/article/138/0002119489</guid>
             <pubDate>Wed, 23 Feb 2022 06:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/23/2119489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,14 +206,6 @@
             <pubDate>Tue, 22 Feb 2022 13:11:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/16/2119040.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고팍스, 전북은행 실명계좌 확보…원화취급 코인 거래소 5곳으로]]></title>
-            <link>https://n.news.naver.com/article/138/0002119006</link>
-            <guid>https://n.news.naver.com/article/138/0002119006</guid>
-            <pubDate>Wed, 16 Feb 2022 07:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
