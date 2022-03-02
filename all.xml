@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 02:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 03:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=232354</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=232354</guid>
+            <pubDate>Wed, 02 Mar 2022 03:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공으로 세계의 눈과 귀가 현장에 쏠려 있다. 전쟁은 비극적이지만 국가와 국가 간 대립의 최종적 형태인 전쟁을 통해 시대상 변화를 감지할 수도 있다. 이번 전쟁을 통해 실제 사상자와 물리적, 인적 피해가 발생하고 있지만 한편으로는 사이버 공격, 금융 결제망 제한, 가상자산을 통한 모금 및 탈 중앙 금융거래, IT기업의 비대칭 정…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[핑거·마이크레딧체인, 금융메타버스 '독도버스' 박차…토큰 상장 완료 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=232277</link>
@@ -106,13 +113,6 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] KB국민카드 ‘리브메이트(Liiv Mate)’ 애플리케이션에서 BHC 할인쿠폰을 다운받은 사용자는 대체불가능한 토큰(Non-Fungible Token, 이하 NFT)을 지급받을 수 있다. 블록체인 전문기업 블로코XYZ는 KB국민카드, BHC의 ‘쿠폰형 NFT’ 사업에 기술을 지원한다고 22일 밝혔다. KB국민카드와 bh…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독] 빗썸, 상장폐지 코인에 ‘개인지갑 출금’ 허용한다 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=231808</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=231808</guid>
-            <pubDate>Tue, 01 Mar 2022 05:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 개인 지갑에 대한 코인 출금을 전면 차단했던 빗썸이 상장폐지 코인에 한해서만 출금을 허용한다. 22일 관련 업계에 따르면 빗썸은 상장 폐지가 공지된 가상자산의 경우 개인 지갑으로 출금할 수 있도록 할 예정이다. 이번에 대상이 될 가상자산은 트루체인(TRUE), 이마이너(EM)다.이는 빗썸이 개인 지갑에 대한 출금을 전…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[핑거·마이크레딧체인, 금융메타버스 '독도버스' 박차…토큰 상장 완료 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119787</link>
             <guid>https://n.news.naver.com/article/138/0002119787</guid>
@@ -173,7 +173,7 @@
             <link>https://n.news.naver.com/article/138/0002119559</link>
             <guid>https://n.news.naver.com/article/138/0002119559</guid>
             <pubDate>Thu, 24 Feb 2022 04:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119559.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
