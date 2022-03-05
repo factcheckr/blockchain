@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-05T00:24:53.216Z</updated>
+    <updated>2022-03-05T02:34:26.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[IT’s대선]④ 핫이슈 파헤치기 : 가상자산 과세, 이대로 괜찮나]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=231827</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=231827"/>
+        <updated>2022-03-05T02:34:16.016Z</updated>
+        <content type="html"><![CDATA[20대 대통령 선거가 오는 3월9일 열린다. 이에 앞서 주요 대선후보들 모두 대한민국의 비전을 담은 공약들을 하나 둘 발표하고 있다. 우리가 주목하는 것은 그 중에서도 우리나라의 미래 기반이 될 정보기술(IT) 산업에 대한 공약이다. 각 후보들이 내세우는 IT 분야 공약들은 천차만별로 갈라지고 있다. 이 가운데서는 다소 현실성이 부족해보이는 공약들…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IT’s대선]④ 핫이슈 파헤치기 : 원화마켓 코인 거래소, 5개면 된다?]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=231862</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=231862"/>
+        <updated>2022-03-05T02:34:16.017Z</updated>
+        <content type="html"><![CDATA[20대 대통령 선거가 오는 3월9일 열린다. 이에 앞서 주요 대선후보들 모두 대한민국의 비전을 담은 공약들을 하나 둘 발표하고 있다. 우리가 주목하는 것은 그 중에서도 우리나라의 미래 기반이 될 정보기술(IT) 산업에 대한 공약이다. 각 후보들이 내세우는 IT 분야 공약들은 천차만별로 갈라지고 있다. 이 가운데서는 다소 현실성이 부족해보이는 공약들…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해시드, 웹 3.0 커뮤니케이션 플랫폼 '노티파이'에 투자]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=232557</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=232268"/>
         <updated>2022-03-01T05:26:35.088Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 코빗이 비트코인, 이더리움 등 가상자산을 자동 구매하는 ‘스마투’ 서비스를 출시했다고 28일 밝혔다.스마투는 ‘스마트한 투자 방법’의 줄임말로, 코빗은 객관적인 데이터가 부족한 가상자산 업계에 투자자 편의성을 높이고자 이번 서비스를 고안했다. 테마별로 검증된 가상자산을 소개하며 투자자들…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코인대선] 누가 되든 ICO 허용, 국내 가상자산 시장 향방은?]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232230</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232230"/>
-        <updated>2022-03-01T05:26:35.088Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 오는 3월 9일 대선을 앞두고 각 후보들이 잇따라 공약집을 내놓은 가운데, 지지율이 가장 높은 세 후보가 모두 공약집에 가상자산공개(ICO) 허용 계획을 밝혀 눈길을 끈다. 이에 가상자산 업계에서도 ‘누가 되든 ICO 허용’이라는 여론이 퍼지면서 이미 ICO를 진행했거나 계획 중인 기업들이 어떤 선택을 할 것인지 귀추가…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 구찌‧SM도 택한 메타버스 ‘더 샌드박스’, 한국 사업 속도 내는 이유는?]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232139</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232139"/>
-        <updated>2022-03-01T05:26:35.090Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 최근 게임사, 엔터테인먼트사는 물론 패션 브랜드까지 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 산업에 뛰어드는 가운데, 유명 기업들은 자체 NFT를 제작하고 메타버스 플랫폼에서 사용하게끔 하고 있다. 이 때 기업들이 많이 사용하는 블록체인 기반 메타버스 플랫폼이 있다. 명품 브랜드 구찌도,…]]></content>
     </entry>
 </feed>
