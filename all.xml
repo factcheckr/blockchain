@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 22:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 03:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 블록체인] 대선 D-3…가상자산 공약 및 실현가능성 총정리 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=232617</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=232617</guid>
+            <pubDate>Sun, 06 Mar 2022 03:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.20대 대선이 3일 앞으로 다가왔습니다. 이번주에는 사전투표도 있었는데요. 사전투표율은 36.9%로 역대 최고치를 기록했습니다. 이번 대선의 특징 중 하나는 가상자산 관련 공약이 처음으로 등장했다는 것입니다. 비트코인(BTC)을 비롯한 가…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[IT’s대선]④ 핫이슈 파헤치기 : 가상자산 과세, 이대로 괜찮나 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=231827</link>
@@ -106,18 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 핀테크 기업 핑거가 NH농협은행, 마이크레딧체인과 함께 구축한 메타버스 '독도버스' 출시에 박차를 가한다. 이를 위해 마이크레딧체인의 MCC 토큰을 글로벌 가상자산 거래소 '엘뱅크'에 상장했다.28일 핑거는 오는 3월 2일부터 엘뱅크 테더(USDT)마켓에서 MCC 토큰을 거래할 수 있으며, 독도버스 내 기축통화인 '도…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“월급 10%는 비트코인에 자동이체”…코빗, ‘스마투’ 서비스 출시 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=232268</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=232268</guid>
-            <pubDate>Tue, 01 Mar 2022 05:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 코빗이 비트코인, 이더리움 등 가상자산을 자동 구매하는 ‘스마투’ 서비스를 출시했다고 28일 밝혔다.스마투는 ‘스마트한 투자 방법’의 줄임말로, 코빗은 객관적인 데이터가 부족한 가상자산 업계에 투자자 편의성을 높이고자 이번 서비스를 고안했다. 테마별로 검증된 가상자산을 소개하며 투자자들…]]></content:encoded>
+            <title><![CDATA[[주간 블록체인] 대선 D-3…가상자산 공약 및 실현가능성 총정리 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120113</link>
+            <guid>https://n.news.naver.com/article/138/0002120113</guid>
+            <pubDate>Sun, 06 Mar 2022 03:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>53분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/06/2120113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[IT’s대선]④ 핫이슈 파헤치기 : 원화마켓 코인 거래소, 5개면 된다? (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120097</link>
             <guid>https://n.news.naver.com/article/138/0002120097</guid>
             <pubDate>Sat, 05 Mar 2022 02:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/05/2120097.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002120094</link>
             <guid>https://n.news.naver.com/article/138/0002120094</guid>
             <pubDate>Sat, 05 Mar 2022 02:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/05/2120094.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002120034</link>
             <guid>https://n.news.naver.com/article/138/0002120034</guid>
             <pubDate>Fri, 04 Mar 2022 05:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -149,7 +157,7 @@
             <link>https://n.news.naver.com/article/138/0002120029</link>
             <guid>https://n.news.naver.com/article/138/0002120029</guid>
             <pubDate>Fri, 04 Mar 2022 05:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -229,7 +237,7 @@
             <link>https://n.news.naver.com/article/138/0002119728</link>
             <guid>https://n.news.naver.com/article/138/0002119728</guid>
             <pubDate>Mon, 28 Feb 2022 00:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -245,7 +253,7 @@
             <link>https://n.news.naver.com/article/138/0002119697</link>
             <guid>https://n.news.naver.com/article/138/0002119697</guid>
             <pubDate>Sun, 27 Feb 2022 01:57:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/27/2119697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,14 +311,6 @@
             <pubDate>Tue, 22 Feb 2022 09:03:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/22/2119443.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘뿌링클 할인쿠폰’도 NFT로…KB국민카드-BHC, ‘쿠폰형 NFT’ 지급 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119396</link>
-            <guid>https://n.news.naver.com/article/138/0002119396</guid>
-            <pubDate>Tue, 22 Feb 2022 01:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/22/2119396.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
