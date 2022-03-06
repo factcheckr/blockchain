@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 15:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 17:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,7 +117,7 @@
             <link>https://n.news.naver.com/article/138/0002120113</link>
             <guid>https://n.news.naver.com/article/138/0002120113</guid>
             <pubDate>Sun, 06 Mar 2022 03:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/06/2120113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -161,14 +161,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국내 대형 가상자산 거래소들, 러시아 제재 동참…"IP 차단한다" (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120015</link>
-            <guid>https://n.news.naver.com/article/138/0002120015</guid>
-            <pubDate>Thu, 03 Mar 2022 14:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2120015.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[해외송금 스타트업 모인, 172억원 규모 시리즈B 투자 유치 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119960</link>
             <guid>https://n.news.naver.com/article/138/0002119960</guid>
@@ -209,14 +201,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119887.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김정주, 가상자산 업계서도 ‘선구자’…시대 앞서간 행보 재조명 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119873</link>
-            <guid>https://n.news.naver.com/article/138/0002119873</guid>
-            <pubDate>Wed, 02 Mar 2022 06:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119873.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119862</link>
             <guid>https://n.news.naver.com/article/138/0002119862</guid>
@@ -231,6 +215,22 @@
             <pubDate>Mon, 28 Feb 2022 09:03:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119787.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“월급 10%는 비트코인에 자동이체”…코빗, ‘스마투’ 서비스 출시 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119777</link>
+            <guid>https://n.news.naver.com/article/138/0002119777</guid>
+            <pubDate>Sun, 06 Mar 2022 17:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119777.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코인대선] 누가 되든 ICO 허용, 국내 가상자산 시장 향방은? (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119749</link>
+            <guid>https://n.news.naver.com/article/138/0002119749</guid>
+            <pubDate>Sun, 06 Mar 2022 17:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 구찌‧SM도 택한 메타버스 ‘더 샌드박스’, 한국 사업 속도 내는 이유는? (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
