@@ -4,15 +4,31 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블, 자체 가상자산 ‘MBX’ 10억개 발행…수수료 50%는 소각]]></title>
+            <link>https://n.news.naver.com/article/138/0002120220</link>
+            <guid>https://n.news.naver.com/article/138/0002120220</guid>
+            <pubDate>Mon, 07 Mar 2022 09:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>17분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120220.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프로비트, 법무법인 광장과 제휴…"실명계좌 발급 속도"]]></title>
+            <link>https://n.news.naver.com/article/138/0002120200</link>
+            <guid>https://n.news.naver.com/article/138/0002120200</guid>
+            <pubDate>Mon, 07 Mar 2022 09:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120200.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이더리움 뛰어넘은 루나 ‘스테이킹’…시총 순위도 7위로 상승]]></title>
             <link>https://n.news.naver.com/article/138/0002120180</link>
             <guid>https://n.news.naver.com/article/138/0002120180</guid>
             <pubDate>Mon, 07 Mar 2022 05:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>41분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002120151</link>
             <guid>https://n.news.naver.com/article/138/0002120151</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002120138</link>
             <guid>https://n.news.naver.com/article/138/0002120138</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120138.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002120135</link>
             <guid>https://n.news.naver.com/article/138/0002120135</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +84,7 @@
             <link>https://n.news.naver.com/article/138/0002120054</link>
             <guid>https://n.news.naver.com/article/138/0002120054</guid>
             <pubDate>Fri, 04 Mar 2022 06:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +124,7 @@
             <link>https://n.news.naver.com/article/138/0002119902</link>
             <guid>https://n.news.naver.com/article/138/0002119902</guid>
             <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +132,7 @@
             <link>https://n.news.naver.com/article/138/0002119898</link>
             <guid>https://n.news.naver.com/article/138/0002119898</guid>
             <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119898.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +140,7 @@
             <link>https://n.news.naver.com/article/138/0002119887</link>
             <guid>https://n.news.naver.com/article/138/0002119887</guid>
             <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119887.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +156,7 @@
             <link>https://n.news.naver.com/article/138/0002119787</link>
             <guid>https://n.news.naver.com/article/138/0002119787</guid>
             <pubDate>Mon, 28 Feb 2022 09:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119787.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +164,7 @@
             <link>https://n.news.naver.com/article/138/0002119777</link>
             <guid>https://n.news.naver.com/article/138/0002119777</guid>
             <pubDate>Sun, 06 Mar 2022 17:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119777.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -190,22 +206,6 @@
             <pubDate>Fri, 25 Feb 2022 01:58:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/25/2119618.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT에 꽂힌 SM…더 샌드박스에 'SM타운 랜드' 조성]]></title>
-            <link>https://n.news.naver.com/article/138/0002119575</link>
-            <guid>https://n.news.naver.com/article/138/0002119575</guid>
-            <pubDate>Mon, 28 Feb 2022 22:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119575.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해시드, 종합 NFT 플랫폼 '레어서클즈'에 투자]]></title>
-            <link>https://n.news.naver.com/article/138/0002119569</link>
-            <guid>https://n.news.naver.com/article/138/0002119569</guid>
-            <pubDate>Thu, 24 Feb 2022 06:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
