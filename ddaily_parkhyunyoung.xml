@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-06T22:02:58.533Z</updated>
+    <updated>2022-03-07T02:03:13.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BC카드, 가상자산 금융 산업 진출…크립토닷컴‧비자와 협업]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=232657</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=232657"/>
+        <updated>2022-03-07T02:02:59.401Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] BC카드가 가상자산 결제 기업과 손잡고 블록체인 기반 금융 시장에 진출한다. 7일 BC카드는 크립토닷컴, 비자와 3사 간 업무협약(MOU)을 체결했다고 밝혔다. 크립토닷컴은 전 세계 1000만명의 사용자를 유치한 가상자산 결제 플랫폼이다. 비자와 협업해 가상자산 결제를 지원하는 신용카드를 출시, 세계 여러 국가에서…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 블록체인] 대선 D-3…가상자산 공약 및 실현가능성 총정리]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=232617</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=232354"/>
         <updated>2022-03-02T03:05:19.485Z</updated>
         <content type="html"><![CDATA[러시아의 우크라이나 침공으로 세계의 눈과 귀가 현장에 쏠려 있다. 전쟁은 비극적이지만 국가와 국가 간 대립의 최종적 형태인 전쟁을 통해 시대상 변화를 감지할 수도 있다. 이번 전쟁을 통해 실제 사상자와 물리적, 인적 피해가 발생하고 있지만 한편으로는 사이버 공격, 금융 결제망 제한, 가상자산을 통한 모금 및 탈 중앙 금융거래, IT기업의 비대칭 정…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑거·마이크레딧체인, 금융메타버스 '독도버스' 박차…토큰 상장 완료]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232277</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232277"/>
-        <updated>2022-03-01T05:26:35.078Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 핀테크 기업 핑거가 NH농협은행, 마이크레딧체인과 함께 구축한 메타버스 '독도버스' 출시에 박차를 가한다. 이를 위해 마이크레딧체인의 MCC 토큰을 글로벌 가상자산 거래소 '엘뱅크'에 상장했다.28일 핑거는 오는 3월 2일부터 엘뱅크 테더(USDT)마켓에서 MCC 토큰을 거래할 수 있으며, 독도버스 내 기축통화인 '도…]]></content>
     </entry>
 </feed>
