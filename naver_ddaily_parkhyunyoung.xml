@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 03:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 05:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이더리움 뛰어넘은 루나 ‘스테이킹’…시총 순위도 7위로 상승]]></title>
+            <link>https://n.news.naver.com/article/138/0002120180</link>
+            <guid>https://n.news.naver.com/article/138/0002120180</guid>
+            <pubDate>Mon, 07 Mar 2022 05:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>41분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120180.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BC카드, 가상자산 금융 산업 진출…크립토닷컴‧비자와 협업]]></title>
             <link>https://n.news.naver.com/article/138/0002120151</link>
             <guid>https://n.news.naver.com/article/138/0002120151</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002120138</link>
             <guid>https://n.news.naver.com/article/138/0002120138</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120138.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002120135</link>
             <guid>https://n.news.naver.com/article/138/0002120135</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002119960</link>
             <guid>https://n.news.naver.com/article/138/0002119960</guid>
             <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119960.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +172,7 @@
             <link>https://n.news.naver.com/article/138/0002119710</link>
             <guid>https://n.news.naver.com/article/138/0002119710</guid>
             <pubDate>Sat, 05 Mar 2022 16:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/27/2119710.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,14 +206,6 @@
             <pubDate>Thu, 24 Feb 2022 06:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119569.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022DB이노베이션] 한국오라클 "데이터 클라우드 이전,  ZDM이 도움"]]></title>
-            <link>https://n.news.naver.com/article/138/0002119559</link>
-            <guid>https://n.news.naver.com/article/138/0002119559</guid>
-            <pubDate>Thu, 24 Feb 2022 04:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119559.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-07T03:04:34.348Z</updated>
+    <updated>2022-03-07T05:03:17.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이더리움 뛰어넘은 루나 ‘스테이킹’…시총 순위도 7위로 상승]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=232676</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=232676"/>
+        <updated>2022-03-07T05:03:07.792Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 보유한 가상자산의 유동성을 묶어두고 보상을 받는 '스테이킹(Staking)'이 활성화되는 가운데, 국내 코인인 루나(LUNA)의 스테이킹 물량 규모가 이더리움(ETH)을 넘어 이목을 끌고 있다. 7일 데이터 분석 사이트 '스테이킹리워드'에 따르면 스테이킹된 루나 물량은 253억달러(한화 약 31조원)로, 241억달러(한화 약…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BC카드, 가상자산 금융 산업 진출…크립토닷컴‧비자와 협업]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=232657</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=232369"/>
         <updated>2022-03-02T04:06:07.001Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 넥슨 창업자인 김정주 NXC 이사의 별세 소식에 그의 가상자산 관련 행보도 재조명받고 있다. 인터넷 벤처 산업, 게임 산업의 선구자인 동시에 가상자산 분야에도 일찌감치 관심을 보였던 만큼, 가상자산 업계에서도 추모의 물결이 일고 있다. 김정주 이사는 지난 2016년 국내 최초 가상자산 거래소 ‘코빗’을 인수하며 가상…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232354</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232354"/>
-        <updated>2022-03-02T03:05:19.485Z</updated>
-        <content type="html"><![CDATA[러시아의 우크라이나 침공으로 세계의 눈과 귀가 현장에 쏠려 있다. 전쟁은 비극적이지만 국가와 국가 간 대립의 최종적 형태인 전쟁을 통해 시대상 변화를 감지할 수도 있다. 이번 전쟁을 통해 실제 사상자와 물리적, 인적 피해가 발생하고 있지만 한편으로는 사이버 공격, 금융 결제망 제한, 가상자산을 통한 모금 및 탈 중앙 금융거래, IT기업의 비대칭 정…]]></content>
     </entry>
 </feed>
