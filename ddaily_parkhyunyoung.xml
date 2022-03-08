@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-07T23:02:48.370Z</updated>
+    <updated>2022-03-08T06:07:33.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다날, 게임 NFT에도 눈독…조이시티 최대주주 '엔드림'에 100억 투자]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=232815</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=232815"/>
+        <updated>2022-03-08T06:07:24.530Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 통합결제 전문기업 다날이 게임 개발사 엔드림(NDREAM)에 100억원 규모의 전략적 투자를 단행했다고 8일 밝혔다.이번에 투자한 엔드림은 게임사 조이시티의 최대주주사다. ‘캐리비안의 해적: 전쟁의 물결’, ‘크로스파이어 워존’ 등을 개발한 바 있다. 특히 ‘캐리비안의 해적: 전쟁의 물결’은 170여개국에서 1…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘은 ‘세계 여성의 날’…가상자산 업계가 3월 8일을 기념하는 법]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=232814</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=232814"/>
+        <updated>2022-03-08T06:07:24.531Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 월드오브우먼(World of Women), 우먼오브크립토(Women of Crypto)….최근 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 시장에서 인기를 끌고 있는 NFT 컬렉션 프로젝트들이다. 이름도, 일러스트 형태도 다르지만 이들의 목표는 같다. 가상자산 시장에 여성 투자자 및 업계 종사자를 끌…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷마블, 자체 가상자산 ‘MBX’ 10억개 발행…수수료 50%는 소각]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=232725</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=232461"/>
         <updated>2022-03-03T03:09:21.049Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 핀테크 스타트업 ‘모인’이 172억원 규모 시리즈B 투자를 유치했다고 3일 밝혔다. 누적 투자 유치액은 총 260억원이다. 이번 투자에는 지난 2016년 모인에 첫 투자를 집행한 캡스톤파트너스를 비롯해 미국 스트롱 벤처스, 비에이파트너스, 어니스트벤처스, 코메스인베스트먼트, 인지소프트 등 기존 투자사가 후속 투자를…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 블록체인社 그라운드X, 신임 대표에 양주일 카카오 부사장]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232401</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232401"/>
-        <updated>2022-03-02T08:07:38.160Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 카카오의 블록체인 계열사 그라운드X의 신임 대표에 양주일 카카오 부사장이 내정됐다. 지난 2018년부터 그라운드X를 맡아온 한재선 대표는 3월 말을 끝으로 대표 자리에서 물러난다.2일 그라운드X는 양주일 현 카카오 부사장을 대표이사에 내정했다고 밝혔다. 양주일 내정자는 오는 3월 말로 예정된 주주총회를 거쳐 공…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코인대선] 양당 후보가 발행한 NFT, 어떤 블록체인 썼나]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232396</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232396"/>
-        <updated>2022-03-02T08:07:38.165Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 일주일 앞으로 다가온 올해 대선의 ‘핫 키워드’ 중 하나는 대체불가능한 토큰(Non-Fungible Token, 이하 NFT)이다. 특히 양당 후보들이 기념 NFT를 발행하는 것은 물론, 선거운동에도 NFT를 활용하면서 NFT가 주요 키워드로 자리잡은 모습이다. 이에 후보들이 발행한 NFT가 어떤 기업의 블록체인 기술…]]></content>
     </entry>
 </feed>
