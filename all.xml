@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 14:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 16:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,7 +117,7 @@
             <link>https://n.news.naver.com/article/138/0002120359</link>
             <guid>https://n.news.naver.com/article/138/0002120359</guid>
             <pubDate>Wed, 09 Mar 2022 05:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/09/2120359.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -201,14 +201,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 블록체인] 대선 D-3…가상자산 공약 및 실현가능성 총정리 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120113</link>
-            <guid>https://n.news.naver.com/article/138/0002120113</guid>
-            <pubDate>Sun, 06 Mar 2022 03:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/06/2120113.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[IT’s대선]④ 핫이슈 파헤치기 : 원화마켓 코인 거래소, 5개면 된다? (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120097</link>
             <guid>https://n.news.naver.com/article/138/0002120097</guid>
@@ -247,6 +239,14 @@
             <pubDate>Fri, 04 Mar 2022 05:03:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120029.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 대형 가상자산 거래소들, 러시아 제재 동참…"IP 차단한다" (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120015</link>
+            <guid>https://n.news.naver.com/article/138/0002120015</guid>
+            <pubDate>Wed, 09 Mar 2022 16:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2120015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해외송금 스타트업 모인, 172억원 규모 시리즈B 투자 유치 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
