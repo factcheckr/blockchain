@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 00:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 05:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두나무, 산불 피해 지역에 30억원 기부 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=232891</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=232891</guid>
+            <pubDate>Wed, 09 Mar 2022 05:04:27 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 블록체인 전문기업 두나무가 경북 울진∙강원 삼척 등 산불 피해 지역 이재민을 위해 희망브리지 전국재해구호협회에 30억원을 전달했다고 9일 밝혔다.두나무의 구호 성금은 이번 산불로 피해를 입은 이재민의 생계 지원과 지역 회복 사업에 사용될 예정이다.김형년 두나무 부회장은 “경북 울진∙강원 삼척 등지에서 발생…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[위메이드 ‘위믹스’, 해외 대형 거래소 후오비 상장 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=232849</link>
@@ -106,18 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 카카오의 블록체인 계열사 그라운드X가 설립 후 처음으로 수장을 바꾼다. 새 대표로는 양주일 카카오 부사장이 내정됐다. 그라운드X는 올해부터 블록체인 플랫폼 ‘클레이튼’ 사업을 싱가포르 법인 ‘크러스트’로 이관한 후, 클레이튼 기반 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에만 집중…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블록체인 기반 메타버스 '더 샌드박스', 알파 시즌 2 공개 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=232537</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=232537</guid>
-            <pubDate>Fri, 04 Mar 2022 05:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 블록체인 기반 메타버스 플랫폼 ‘더 샌드박스’가 알파 시즌2 버전을 오픈했다고 4일 밝혔다.올해 정식 버전 출시를 목표로 하는 더 샌드박스는 지난해 알파 시즌 1을 선보이며 전 세계 200만 명의 가입자를 확보한 바 있다. 이번 알파 시즌 2에선 시즌 1에 비해 더 풍성하고 새로운 게임 콘텐츠가 추가됐다. 더 샌드박스 회…]]></content:encoded>
+            <title><![CDATA[두나무, 산불 피해 지역에 30억원 기부 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120359</link>
+            <guid>https://n.news.naver.com/article/138/0002120359</guid>
+            <pubDate>Wed, 09 Mar 2022 05:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/09/2120359.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드 ‘위믹스’, 해외 대형 거래소 후오비 상장 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120328</link>
             <guid>https://n.news.naver.com/article/138/0002120328</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002120323</link>
             <guid>https://n.news.naver.com/article/138/0002120323</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002120321</link>
             <guid>https://n.news.naver.com/article/138/0002120321</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002120294</link>
             <guid>https://n.news.naver.com/article/138/0002120294</guid>
             <pubDate>Tue, 08 Mar 2022 06:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -149,7 +157,7 @@
             <link>https://n.news.naver.com/article/138/0002120293</link>
             <guid>https://n.news.naver.com/article/138/0002120293</guid>
             <pubDate>Tue, 08 Mar 2022 06:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -173,7 +181,7 @@
             <link>https://n.news.naver.com/article/138/0002120151</link>
             <guid>https://n.news.naver.com/article/138/0002120151</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -197,7 +205,7 @@
             <link>https://n.news.naver.com/article/138/0002120113</link>
             <guid>https://n.news.naver.com/article/138/0002120113</guid>
             <pubDate>Sun, 06 Mar 2022 03:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/06/2120113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -205,7 +213,7 @@
             <link>https://n.news.naver.com/article/138/0002120097</link>
             <guid>https://n.news.naver.com/article/138/0002120097</guid>
             <pubDate>Sat, 05 Mar 2022 02:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/05/2120097.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -213,7 +221,7 @@
             <link>https://n.news.naver.com/article/138/0002120094</link>
             <guid>https://n.news.naver.com/article/138/0002120094</guid>
             <pubDate>Sat, 05 Mar 2022 02:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/05/2120094.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,7 +229,7 @@
             <link>https://n.news.naver.com/article/138/0002120054</link>
             <guid>https://n.news.naver.com/article/138/0002120054</guid>
             <pubDate>Fri, 04 Mar 2022 06:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -229,7 +237,7 @@
             <link>https://n.news.naver.com/article/138/0002120034</link>
             <guid>https://n.news.naver.com/article/138/0002120034</guid>
             <pubDate>Fri, 04 Mar 2022 05:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -237,7 +245,7 @@
             <link>https://n.news.naver.com/article/138/0002120029</link>
             <guid>https://n.news.naver.com/article/138/0002120029</guid>
             <pubDate>Fri, 04 Mar 2022 05:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -245,7 +253,7 @@
             <link>https://n.news.naver.com/article/138/0002119960</link>
             <guid>https://n.news.naver.com/article/138/0002119960</guid>
             <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119960.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -253,7 +261,7 @@
             <link>https://n.news.naver.com/article/138/0002119957</link>
             <guid>https://n.news.naver.com/article/138/0002119957</guid>
             <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -285,7 +293,7 @@
             <link>https://n.news.naver.com/article/138/0002119873</link>
             <guid>https://n.news.naver.com/article/138/0002119873</guid>
             <pubDate>Tue, 08 Mar 2022 06:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119873.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -293,7 +301,7 @@
             <link>https://n.news.naver.com/article/138/0002119862</link>
             <guid>https://n.news.naver.com/article/138/0002119862</guid>
             <pubDate>Wed, 02 Mar 2022 04:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119862.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,14 +311,6 @@
             <pubDate>Mon, 28 Feb 2022 09:03:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119787.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“월급 10%는 비트코인에 자동이체”…코빗, ‘스마투’ 서비스 출시 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119777</link>
-            <guid>https://n.news.naver.com/article/138/0002119777</guid>
-            <pubDate>Sun, 06 Mar 2022 17:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119777.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

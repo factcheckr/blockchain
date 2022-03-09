@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-09T00:23:39.374Z</updated>
+    <updated>2022-03-09T05:04:36.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두나무, 산불 피해 지역에 30억원 기부]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=232891</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=232891"/>
+        <updated>2022-03-09T05:04:27.011Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 전문기업 두나무가 경북 울진∙강원 삼척 등 산불 피해 지역 이재민을 위해 희망브리지 전국재해구호협회에 30억원을 전달했다고 9일 밝혔다.두나무의 구호 성금은 이번 산불로 피해를 입은 이재민의 생계 지원과 지역 회복 사업에 사용될 예정이다.김형년 두나무 부회장은 “경북 울진∙강원 삼척 등지에서 발생…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위메이드 ‘위믹스’, 해외 대형 거래소 후오비 상장]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=232849</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=232531"/>
         <updated>2022-03-04T05:02:56.191Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 카카오의 블록체인 계열사 그라운드X가 설립 후 처음으로 수장을 바꾼다. 새 대표로는 양주일 카카오 부사장이 내정됐다. 그라운드X는 올해부터 블록체인 플랫폼 ‘클레이튼’ 사업을 싱가포르 법인 ‘크러스트’로 이관한 후, 클레이튼 기반 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에만 집중…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록체인 기반 메타버스 '더 샌드박스', 알파 시즌 2 공개]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232537</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232537"/>
-        <updated>2022-03-04T05:02:56.191Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 기반 메타버스 플랫폼 ‘더 샌드박스’가 알파 시즌2 버전을 오픈했다고 4일 밝혔다.올해 정식 버전 출시를 목표로 하는 더 샌드박스는 지난해 알파 시즌 1을 선보이며 전 세계 200만 명의 가입자를 확보한 바 있다. 이번 알파 시즌 2에선 시즌 1에 비해 더 풍성하고 새로운 게임 콘텐츠가 추가됐다. 더 샌드박스 회…]]></content>
     </entry>
 </feed>
