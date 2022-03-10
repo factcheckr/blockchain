@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안랩, 블록체인 기업 오지스 '오르빗 브릿지'에 검증인으로 합류 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=232966</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=232966</guid>
+            <pubDate>Thu, 10 Mar 2022 08:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 정보보안기업 안랩이 '오지스' 생태계에 합류한다.블록체인 기술기업 오지스는 안랩과 업무협약을 체결하고, 안랩이 오지스의 크로스체인 플랫폼 '오르빗 브릿지'의 검증인(Validator)으로 합류한다고 10일 밝혔다. 오르빗 브릿지는 서로 다른 블록체인 플랫폼 간 자산을 교환할 수 있도록 하는 크로스체인 플랫폼이다.…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[윤석열 시대 IT]⑤ 가상자산, 세금은 덜 내고 거래소는 늘어난다…업계 '기대' (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=232909</link>
@@ -106,18 +113,27 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.20대 대선이 3일 앞으로 다가왔습니다. 이번주에는 사전투표도 있었는데요. 사전투표율은 36.9%로 역대 최고치를 기록했습니다. 이번 대선의 특징 중 하나는 가상자산 관련 공약이 처음으로 등장했다는 것입니다. 비트코인(BTC)을 비롯한 가…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[IT’s대선]④ 핫이슈 파헤치기 : 가상자산 과세, 이대로 괜찮나 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=231827</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=231827</guid>
-            <pubDate>Sat, 05 Mar 2022 02:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[20대 대통령 선거가 오는 3월9일 열린다. 이에 앞서 주요 대선후보들 모두 대한민국의 비전을 담은 공약들을 하나 둘 발표하고 있다. 우리가 주목하는 것은 그 중에서도 우리나라의 미래 기반이 될 정보기술(IT) 산업에 대한 공약이다. 각 후보들이 내세우는 IT 분야 공약들은 천차만별로 갈라지고 있다. 이 가운데서는 다소 현실성이 부족해보이는 공약들…]]></content:encoded>
+            <title><![CDATA[안랩, 블록체인 기업 오지스 '오르빗 브릿지'에 검증인으로 합류 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120423</link>
+            <guid>https://n.news.naver.com/article/138/0002120423</guid>
+            <pubDate>Thu, 10 Mar 2022 08:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120423.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[윤석열 시대 IT]⑤ 가상자산, 세금은 덜 내고 거래소는 늘어난다…업계 '기대' (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120413</link>
+            <guid>https://n.news.naver.com/article/138/0002120413</guid>
+            <pubDate>Thu, 10 Mar 2022 08:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘컴투스 코인’ C2X, 첫 행선지는 FTX…IEO로 판매 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120392</link>
             <guid>https://n.news.naver.com/article/138/0002120392</guid>
             <pubDate>Thu, 10 Mar 2022 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120392.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +157,7 @@
             <link>https://n.news.naver.com/article/138/0002120323</link>
             <guid>https://n.news.naver.com/article/138/0002120323</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -149,7 +165,7 @@
             <link>https://n.news.naver.com/article/138/0002120321</link>
             <guid>https://n.news.naver.com/article/138/0002120321</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -181,7 +197,7 @@
             <link>https://n.news.naver.com/article/138/0002120200</link>
             <guid>https://n.news.naver.com/article/138/0002120200</guid>
             <pubDate>Mon, 07 Mar 2022 09:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120200.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -285,7 +301,7 @@
             <link>https://n.news.naver.com/article/138/0002119902</link>
             <guid>https://n.news.naver.com/article/138/0002119902</guid>
             <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -293,24 +309,8 @@
             <link>https://n.news.naver.com/article/138/0002119898</link>
             <guid>https://n.news.naver.com/article/138/0002119898</guid>
             <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119898.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 코인시장, ‘탑4 거래소’ 비중 95%…중소 사업자 어쩌나 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119887</link>
-            <guid>https://n.news.naver.com/article/138/0002119887</guid>
-            <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119887.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정주, 가상자산 업계서도 ‘선구자’…시대 앞서간 행보 재조명 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119873</link>
-            <guid>https://n.news.naver.com/article/138/0002119873</guid>
-            <pubDate>Tue, 08 Mar 2022 06:07:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119873.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119898.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
