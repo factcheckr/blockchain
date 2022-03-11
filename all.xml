@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 02:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비(非) 가상자산 기업도 인수한다는 바이낸스…크립토 기업 '영토 확장' 활발 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=233009</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=233009</guid>
+            <pubDate>Fri, 11 Mar 2022 05:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 세계 최대 가상자산 거래소 바이낸스가 비(非) 가상자산 기업들도 인수하겠다고 밝히면서 바이낸스의 사업 영역이 얼마나 확장될지 이목이 쏠린다. 또 바이낸스처럼 비 가상자산 기업에 투자하는 가상자산 기업들도 늘고 있어, 그간 가상자산이 도입되지 않았던 분야에도 '크립토(Crypto) 바람'이 불 것이란 전망이 나온다…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[안랩, 블록체인 기업 오지스 '오르빗 브릿지'에 검증인으로 합류 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=232966</link>
@@ -106,18 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] BC카드가 가상자산 결제 기업과 손잡고 블록체인 기반 금융 시장에 진출한다. 7일 BC카드는 크립토닷컴, 비자와 3사 간 업무협약(MOU)을 체결했다고 밝혔다. 크립토닷컴은 전 세계 1000만명의 사용자를 유치한 가상자산 결제 플랫폼이다. 비자와 협업해 가상자산 결제를 지원하는 신용카드를 출시, 세계 여러 국가에서…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[주간 블록체인] 대선 D-3…가상자산 공약 및 실현가능성 총정리 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=232617</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=232617</guid>
-            <pubDate>Sun, 06 Mar 2022 03:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.20대 대선이 3일 앞으로 다가왔습니다. 이번주에는 사전투표도 있었는데요. 사전투표율은 36.9%로 역대 최고치를 기록했습니다. 이번 대선의 특징 중 하나는 가상자산 관련 공약이 처음으로 등장했다는 것입니다. 비트코인(BTC)을 비롯한 가…]]></content:encoded>
+            <title><![CDATA[비(非) 가상자산 기업도 인수한다는 바이낸스…크립토 기업 '영토 확장' 활발 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120465</link>
+            <guid>https://n.news.naver.com/article/138/0002120465</guid>
+            <pubDate>Fri, 11 Mar 2022 05:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>35분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120465.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안랩, 블록체인 기업 오지스 '오르빗 브릿지'에 검증인으로 합류 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120423</link>
             <guid>https://n.news.naver.com/article/138/0002120423</guid>
             <pubDate>Thu, 10 Mar 2022 08:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120423.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002120413</link>
             <guid>https://n.news.naver.com/article/138/0002120413</guid>
             <pubDate>Thu, 10 Mar 2022 08:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002120392</link>
             <guid>https://n.news.naver.com/article/138/0002120392</guid>
             <pubDate>Thu, 10 Mar 2022 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120392.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002120359</link>
             <guid>https://n.news.naver.com/article/138/0002120359</guid>
             <pubDate>Wed, 09 Mar 2022 05:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/09/2120359.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -173,7 +181,7 @@
             <link>https://n.news.naver.com/article/138/0002120294</link>
             <guid>https://n.news.naver.com/article/138/0002120294</guid>
             <pubDate>Tue, 08 Mar 2022 06:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -181,7 +189,7 @@
             <link>https://n.news.naver.com/article/138/0002120293</link>
             <guid>https://n.news.naver.com/article/138/0002120293</guid>
             <pubDate>Tue, 08 Mar 2022 06:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -261,7 +269,7 @@
             <link>https://n.news.naver.com/article/138/0002120034</link>
             <guid>https://n.news.naver.com/article/138/0002120034</guid>
             <pubDate>Fri, 04 Mar 2022 05:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -285,7 +293,7 @@
             <link>https://n.news.naver.com/article/138/0002119960</link>
             <guid>https://n.news.naver.com/article/138/0002119960</guid>
             <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119960.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -293,7 +301,7 @@
             <link>https://n.news.naver.com/article/138/0002119957</link>
             <guid>https://n.news.naver.com/article/138/0002119957</guid>
             <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,14 +311,6 @@
             <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119902.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코인대선] 양당 후보가 발행한 NFT, 어떤 블록체인 썼나 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119898</link>
-            <guid>https://n.news.naver.com/article/138/0002119898</guid>
-            <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119898.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
