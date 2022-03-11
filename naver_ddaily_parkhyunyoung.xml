@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 07:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 12:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다"]]></title>
+            <link>https://n.news.naver.com/article/138/0002120494</link>
+            <guid>https://n.news.naver.com/article/138/0002120494</guid>
+            <pubDate>Fri, 11 Mar 2022 12:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120494.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비(非) 가상자산 기업도 인수한다는 바이낸스…크립토 기업 '영토 확장' 활발]]></title>
             <link>https://n.news.naver.com/article/138/0002120465</link>
             <guid>https://n.news.naver.com/article/138/0002120465</guid>
             <pubDate>Fri, 11 Mar 2022 05:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120465.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002120328</link>
             <guid>https://n.news.naver.com/article/138/0002120328</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/138/0002120323</link>
             <guid>https://n.news.naver.com/article/138/0002120323</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/138/0002120321</link>
             <guid>https://n.news.naver.com/article/138/0002120321</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002120220</link>
             <guid>https://n.news.naver.com/article/138/0002120220</guid>
             <pubDate>Mon, 07 Mar 2022 09:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120220.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,14 +206,6 @@
             <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119957.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 블록체인社 그라운드X, 신임 대표에 양주일 카카오 부사장]]></title>
-            <link>https://n.news.naver.com/article/138/0002119902</link>
-            <guid>https://n.news.naver.com/article/138/0002119902</guid>
-            <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

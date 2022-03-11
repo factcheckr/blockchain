@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 07:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 12:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다" (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=233027</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=233027</guid>
+            <pubDate>Fri, 11 Mar 2022 12:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 블록체인 플랫폼 스택스(Stacks)가 비트코인 생태계 육성을 위해 1억 6500만달러(한화 약 2034억) 규모 투자 펀드 ‘비트코인 오디세이(Bitcoin Odyssey)’를 조성했다고 11일 밝혔다.해당 펀드는 글로벌 가상자산 거래소 오케이코인이 주도해 조성했으며 스택스 재단, 디지털커런시그룹(DCG), GBV 캐피탈…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[비(非) 가상자산 기업도 인수한다는 바이낸스…크립토 기업 '영토 확장' 활발 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=233009</link>
@@ -106,18 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 보유한 가상자산의 유동성을 묶어두고 보상을 받는 '스테이킹(Staking)'이 활성화되는 가운데, 국내 코인인 루나(LUNA)의 스테이킹 물량 규모가 이더리움(ETH)을 넘어 이목을 끌고 있다. 7일 데이터 분석 사이트 '스테이킹리워드'에 따르면 스테이킹된 루나 물량은 253억달러(한화 약 31조원)로, 241억달러(한화 약…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BC카드, 가상자산 금융 산업 진출…크립토닷컴‧비자와 협업 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=232657</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=232657</guid>
-            <pubDate>Mon, 07 Mar 2022 02:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] BC카드가 가상자산 결제 기업과 손잡고 블록체인 기반 금융 시장에 진출한다. 7일 BC카드는 크립토닷컴, 비자와 3사 간 업무협약(MOU)을 체결했다고 밝혔다. 크립토닷컴은 전 세계 1000만명의 사용자를 유치한 가상자산 결제 플랫폼이다. 비자와 협업해 가상자산 결제를 지원하는 신용카드를 출시, 세계 여러 국가에서…]]></content:encoded>
+            <title><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다" (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120494</link>
+            <guid>https://n.news.naver.com/article/138/0002120494</guid>
+            <pubDate>Fri, 11 Mar 2022 12:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120494.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비(非) 가상자산 기업도 인수한다는 바이낸스…크립토 기업 '영토 확장' 활발 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120465</link>
             <guid>https://n.news.naver.com/article/138/0002120465</guid>
             <pubDate>Fri, 11 Mar 2022 05:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120465.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -157,7 +165,7 @@
             <link>https://n.news.naver.com/article/138/0002120328</link>
             <guid>https://n.news.naver.com/article/138/0002120328</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -165,7 +173,7 @@
             <link>https://n.news.naver.com/article/138/0002120323</link>
             <guid>https://n.news.naver.com/article/138/0002120323</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -173,7 +181,7 @@
             <link>https://n.news.naver.com/article/138/0002120321</link>
             <guid>https://n.news.naver.com/article/138/0002120321</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -197,7 +205,7 @@
             <link>https://n.news.naver.com/article/138/0002120220</link>
             <guid>https://n.news.naver.com/article/138/0002120220</guid>
             <pubDate>Mon, 07 Mar 2022 09:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120220.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,14 +311,6 @@
             <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119957.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 블록체인社 그라운드X, 신임 대표에 양주일 카카오 부사장 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119902</link>
-            <guid>https://n.news.naver.com/article/138/0002119902</guid>
-            <pubDate>Wed, 02 Mar 2022 08:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
