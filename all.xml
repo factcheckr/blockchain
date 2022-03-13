@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 23:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 02:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 블록체인] 바이든, '가상자산 행정명령'에 서명…시장에 어떤 영향? (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=233068</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=233068</guid>
+            <pubDate>Sun, 13 Mar 2022 02:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.이번주 국내에서는 제 20대 대통령이 탄생했습니다. 지난 9일 치러진 대선에서 윤석열 국민의힘 대선후보가 당선됐죠. 윤 당선인은 가상자산 과세 시점을 늦추고, 기존 250만원으로 매우 낮았던 비과세 한도를 5000만원까지 상향한다고 밝힌 바…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다" (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=233027</link>
@@ -106,13 +113,6 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 프로비트가 법무법인 광장과 전략적 제휴를 체결했다고 7일 밝혔다. 자금세탁방지(AML) 업무를 강화한다는 취지다. 양사는 프로비트의 자금세탁과 테러자금조달 차단 업무를 원활하게 추진하기 위해 협력하기로 했다. 구체적으로는 ▲프로비트의 전사적 내부통제 방안 ▲고객 위험평가 시스템 ▲의심거…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이더리움 뛰어넘은 루나 ‘스테이킹’…시총 순위도 7위로 상승 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=232676</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=232676</guid>
-            <pubDate>Mon, 07 Mar 2022 05:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 보유한 가상자산의 유동성을 묶어두고 보상을 받는 '스테이킹(Staking)'이 활성화되는 가운데, 국내 코인인 루나(LUNA)의 스테이킹 물량 규모가 이더리움(ETH)을 넘어 이목을 끌고 있다. 7일 데이터 분석 사이트 '스테이킹리워드'에 따르면 스테이킹된 루나 물량은 253억달러(한화 약 31조원)로, 241억달러(한화 약…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다" (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120494</link>
             <guid>https://n.news.naver.com/article/138/0002120494</guid>
@@ -157,7 +157,7 @@
             <link>https://n.news.naver.com/article/138/0002120359</link>
             <guid>https://n.news.naver.com/article/138/0002120359</guid>
             <pubDate>Wed, 09 Mar 2022 05:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/09/2120359.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,7 +221,7 @@
             <link>https://n.news.naver.com/article/138/0002120151</link>
             <guid>https://n.news.naver.com/article/138/0002120151</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -229,7 +229,7 @@
             <link>https://n.news.naver.com/article/138/0002120138</link>
             <guid>https://n.news.naver.com/article/138/0002120138</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120138.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -237,7 +237,7 @@
             <link>https://n.news.naver.com/article/138/0002120135</link>
             <guid>https://n.news.naver.com/article/138/0002120135</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -245,7 +245,7 @@
             <link>https://n.news.naver.com/article/138/0002120113</link>
             <guid>https://n.news.naver.com/article/138/0002120113</guid>
             <pubDate>Thu, 10 Mar 2022 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/06/2120113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -253,7 +253,7 @@
             <link>https://n.news.naver.com/article/138/0002120097</link>
             <guid>https://n.news.naver.com/article/138/0002120097</guid>
             <pubDate>Sat, 05 Mar 2022 02:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/05/2120097.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -261,7 +261,7 @@
             <link>https://n.news.naver.com/article/138/0002120094</link>
             <guid>https://n.news.naver.com/article/138/0002120094</guid>
             <pubDate>Sat, 05 Mar 2022 02:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/05/2120094.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
