@@ -4,9 +4,17 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 02:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 05:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 블록체인] 바이든, '가상자산 행정명령'에 서명…시장에 어떤 영향?]]></title>
+            <link>https://n.news.naver.com/article/138/0002120521</link>
+            <guid>https://n.news.naver.com/article/138/0002120521</guid>
+            <pubDate>Sun, 13 Mar 2022 05:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/13/2120521.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다"]]></title>
             <link>https://n.news.naver.com/article/138/0002120494</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002120465</link>
             <guid>https://n.news.naver.com/article/138/0002120465</guid>
             <pubDate>Fri, 11 Mar 2022 05:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120465.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002120392</link>
             <guid>https://n.news.naver.com/article/138/0002120392</guid>
             <pubDate>Thu, 10 Mar 2022 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120392.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002120294</link>
             <guid>https://n.news.naver.com/article/138/0002120294</guid>
             <pubDate>Tue, 08 Mar 2022 06:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002120293</link>
             <guid>https://n.news.naver.com/article/138/0002120293</guid>
             <pubDate>Tue, 08 Mar 2022 06:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,14 +206,6 @@
             <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119960.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 금융제재 변수 된 코인 거래소…추가 조치 나올까]]></title>
-            <link>https://n.news.naver.com/article/138/0002119957</link>
-            <guid>https://n.news.naver.com/article/138/0002119957</guid>
-            <pubDate>Thu, 03 Mar 2022 04:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
