@@ -4,7 +4,7 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 08:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 09:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@
             <link>https://n.news.naver.com/article/138/0002120328</link>
             <guid>https://n.news.naver.com/article/138/0002120328</guid>
             <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002120220</link>
             <guid>https://n.news.naver.com/article/138/0002120220</guid>
             <pubDate>Mon, 07 Mar 2022 09:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120220.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
