@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-14T03:07:36.764Z</updated>
+    <updated>2022-03-14T05:29:12.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스 속도내는 빗썸, 자회사 '빗썸메타' 설립]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233167</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233167"/>
+        <updated>2022-03-14T05:29:02.749Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 빗썸이 신사업 추진을 위해 자회사 '빗썸메타'를 설립했다고 14일 밝혔다.빗썸메타는 빗썸코리아가 170억원을 단독 출자해 설립했다. 초대 대표이사는 조현식 빗썸코리아 부사장이 맡았다. 조 대표는 ▲엔씨소프트 국내영업팀 사업기획팀장 ▲네이버 코어게임사업부장 ▲NHN 사업개발그룹 이사·그룹…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선발주자 넘어선 후발주자…BAYC는 어떻게 크립토펑크를 인수했을까]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233163</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233163"/>
+        <updated>2022-03-14T05:29:02.749Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 업계에서 후발주자가 선발주자를 인수하는 사례가 나왔다. NFT 컬렉션 프로젝트의 원조 격인 보어드에이프요트클럽(Bored Ape Yacht Club, 이하 BAYC)가 ‘진짜 원조’ 크립토펑크를 인수하면서, BAYC가 빠르게 성장한 배경도 함께 주목받고…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 블록체인] 바이든, '가상자산 행정명령'에 서명…시장에 어떤 영향?]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=233068</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=232814"/>
         <updated>2022-03-08T06:07:24.531Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 월드오브우먼(World of Women), 우먼오브크립토(Women of Crypto)….최근 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 시장에서 인기를 끌고 있는 NFT 컬렉션 프로젝트들이다. 이름도, 일러스트 형태도 다르지만 이들의 목표는 같다. 가상자산 시장에 여성 투자자 및 업계 종사자를 끌…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷마블, 자체 가상자산 ‘MBX’ 10억개 발행…수수료 50%는 소각]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232725</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232725"/>
-        <updated>2022-03-07T09:04:14.551Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 넷마블이 자체 가상자산 MBX의 공식 웹사이트를 오픈하고 백서를 공개했다고 7일 밝혔다. 백서에 따르면 넷마블은 총 10억개의 MBX를 발행한다. 이 중 10%가 토큰 세일을 통해 유통되고, 10%는 발행사 물량으로 분류된다. 또 5%는 에어드랍 이벤트 등 마케팅을 위한 물량으로 할당된다. 나머지 75%는 MBX 생태계 확장…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로비트, 법무법인 광장과 제휴…"실명계좌 발급 속도"]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232706</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232706"/>
-        <updated>2022-03-07T09:04:14.553Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 프로비트가 법무법인 광장과 전략적 제휴를 체결했다고 7일 밝혔다. 자금세탁방지(AML) 업무를 강화한다는 취지다. 양사는 프로비트의 자금세탁과 테러자금조달 차단 업무를 원활하게 추진하기 위해 협력하기로 했다. 구체적으로는 ▲프로비트의 전사적 내부통제 방안 ▲고객 위험평가 시스템 ▲의심거…]]></content>
     </entry>
 </feed>
