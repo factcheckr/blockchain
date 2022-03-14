@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-14T05:29:12.638Z</updated>
+    <updated>2022-03-14T07:09:21.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빗썸, 지난해 매출 1조 넘었다…비덴트 기업가치까지 ‘껑충’]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233199</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233199"/>
+        <updated>2022-03-14T07:09:13.573Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 빗썸이 지난해 매출 1조 108억원을 기록, 창립 이후 최대실적을 기록했다. 14일 빗썸 대주주 비덴트는 빗썸이 지난해 1조원대 매출을 기록했으며 기업가치도 유니콘 기업(기업가치 1조원 이상인 기업)으로 성장했다고 밝혔다. 빗썸의 성장으로 비덴트의 기업가치도 크게 뛰었다고 비덴트 측은 강조했다. 비…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다날핀테크, 금융투자본부 신설…"페이코인 가치 상승 이끈다"]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233195</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233195"/>
+        <updated>2022-03-14T07:09:13.576Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 결제 플랫폼 ‘페이코인’ 운영사인 다날핀테크가 금융투자본부를 신설하고 전문인력을 대거 영입했다고 14일 밝혔다.신설된 금융투자본부는 페이코인과의 시너지를 만들어낼 외부 투자 및 투자 유치를 담당한다. 이를 통해 페이코인 생태계를 확장하고 코인의 가치 상승도 이끌어낸다는 방침이다. 또 외부에서…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 속도내는 빗썸, 자회사 '빗썸메타' 설립]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=233167</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=232851"/>
         <updated>2022-03-08T08:07:59.964Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 코인원이 가상자산 명세서 서비스를 개편했다고 8일 밝혔다.코인원 가상자산 명세서는 가상자산별 사업계획과 프로젝트 핵심인력을 비롯해 토큰 발행량, 토큰 분배율, 로드맵 등 투자 판단에 참고할 수 있는 객관적 정보를 담는 자료다. 가상자산 프로젝트의 백서가 대부분 영어임을 고려해, 원문을 한글로…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다날, 게임 NFT에도 눈독…조이시티 최대주주 '엔드림'에 100억 투자]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232815</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232815"/>
-        <updated>2022-03-08T06:07:24.530Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 통합결제 전문기업 다날이 게임 개발사 엔드림(NDREAM)에 100억원 규모의 전략적 투자를 단행했다고 8일 밝혔다.이번에 투자한 엔드림은 게임사 조이시티의 최대주주사다. ‘캐리비안의 해적: 전쟁의 물결’, ‘크로스파이어 워존’ 등을 개발한 바 있다. 특히 ‘캐리비안의 해적: 전쟁의 물결’은 170여개국에서 1…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘은 ‘세계 여성의 날’…가상자산 업계가 3월 8일을 기념하는 법]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=232814</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=232814"/>
-        <updated>2022-03-08T06:07:24.531Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 월드오브우먼(World of Women), 우먼오브크립토(Women of Crypto)….최근 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 시장에서 인기를 끌고 있는 NFT 컬렉션 프로젝트들이다. 이름도, 일러스트 형태도 다르지만 이들의 목표는 같다. 가상자산 시장에 여성 투자자 및 업계 종사자를 끌…]]></content>
     </entry>
 </feed>
