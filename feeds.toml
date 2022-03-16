@@ -5,7 +5,7 @@ entrySelector = "div.section_12sub div dl"
 titleSelector = "dt a"
 linkSelector = "dt a"
 contentSelector = "dd a"
-waitUntil = "networkidle"
+waitForSelector = "div.section_12sub div dl"
 onFail = "stale"
 
 [naver_ddaily_parkhyunyoung]
