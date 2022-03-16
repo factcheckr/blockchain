@@ -1,11 +1,12 @@
 [ddaily_parkhyunyoung]
 title = "디지털데일리 ─ 박현영 기자"
 url = "https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81"
-entrySelector = "div.m01_ara dl"
+entrySelector = "div.section_12sub div dl"
 titleSelector = "dt a"
 linkSelector = "dt a"
 contentSelector = "dd a"
-waitForSelector = "div.m01_ara dl"
+waitUntil = "networkidle"
+onFail = "stale"
 
 [naver_ddaily_parkhyunyoung]
 title = "디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스"
@@ -16,3 +17,4 @@ linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
 waitUntil = "networkidle"
+onFail = "stale"
