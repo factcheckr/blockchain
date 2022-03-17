@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-17T04:07:51.627Z</updated>
+    <updated>2022-03-17T05:03:33.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“가상자산‧메타버스 중요”…인수위원회에 ‘디지털경제’ 전문가 포함]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233494</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233494"/>
+        <updated>2022-03-17T05:03:23.409Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 윤석열 대통령 당선인의 대통령직인수위원회(인수위)에 디지털 경제 전문가가 포함됐다. 김은혜 당선인 대변인은 17일 서울 여의도 국민의힘 중앙당사에서 브리핑을 열고 “인수위원 인선이 마무리됨에 따라 내일(18일) 오전 현판식을 하는 것을 목표로 하고 있다”고 말했다. 윤 당선인은 이날 인수위원 24명의 인선을 마…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["블록체인 게임에 대규모 투자금 유입…전망 밝다"-코빗·메사리]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233488</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233488"/>
+        <updated>2022-03-17T05:03:23.410Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 코빗 산하의 코빗 리서치센터가 ‘블록체인:게임 트렌드를 바꾸다’ 리포트를 발간했다고 17일 밝혔다. 리포트는 미국 가상자산 데이터분석 기업 메사리의 리서치 연구원인 메이슨 나이스트롬(Mason Nystrom)과 제리 선(Jerry Sun)이 작성했으며, 코빗 리서치센터가 번역했다. 리포트의 주요…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[간송 국보 산 ‘헤리티지DAO’는 어떤 곳?…코인 투자모임 아닌 ‘탈중앙화 자율조직’]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=233428</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=233163"/>
         <updated>2022-03-16T11:02:41.086Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 업계에서 후발주자가 선발주자를 인수하는 사례가 나왔다. NFT 컬렉션 프로젝트의 원조 격인 보어드에이프요트클럽(Bored Ape Yacht Club, 이하 BAYC)가 ‘진짜 원조’ 크립토펑크를 인수하면서, BAYC가 빠르게 성장한 배경도 함께 주목받고…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 블록체인] 바이든, '가상자산 행정명령'에 서명…시장에 어떤 영향?]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233068</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233068"/>
-        <updated>2022-03-16T11:02:41.087Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.이번주 국내에서는 제 20대 대통령이 탄생했습니다. 지난 9일 치러진 대선에서 윤석열 국민의힘 대선후보가 당선됐죠. 윤 당선인은 가상자산 과세 시점을 늦추고, 기존 250만원으로 매우 낮았던 비과세 한도를 5000만원까지 상향한다고 밝힌 바…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다"]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233027</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233027"/>
-        <updated>2022-03-16T11:02:41.088Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 플랫폼 스택스(Stacks)가 비트코인 생태계 육성을 위해 1억 6500만달러(한화 약 2034억) 규모 투자 펀드 ‘비트코인 오디세이(Bitcoin Odyssey)’를 조성했다고 11일 밝혔다.해당 펀드는 글로벌 가상자산 거래소 오케이코인이 주도해 조성했으며 스택스 재단, 디지털커런시그룹(DCG), GBV 캐피탈…]]></content>
     </entry>
 </feed>
