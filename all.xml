@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아카마이 "진화하는 API 공격, AAP로 대응해야" (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=233537</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=233537</guid>
+            <pubDate>Thu, 17 Mar 2022 08:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 최근 웹 애플리케이션에 대한 공격이 진화하는 가운데, API 공격은 가장 흔한 유형의 웹 애플리케이션 공격으로 간주되고 있다. 이에 API 공격에 대응할 수 있는 솔루션의 중요도도 높아지는 추세다. 17일 디지털데일리 웨비나 플랫폼 DD튜브에서 열린 ‘아카마이 엣지 클라우드 보안 전략’ 웨비나에서 강상진 아카마이 코…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[“가상자산‧메타버스 중요”…인수위원회에 ‘디지털경제’ 전문가 포함 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=233494</link>
@@ -106,18 +113,11 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 빗썸이 신사업 추진을 위해 자회사 '빗썸메타'를 설립했다고 14일 밝혔다.빗썸메타는 빗썸코리아가 170억원을 단독 출자해 설립했다. 초대 대표이사는 조현식 빗썸코리아 부사장이 맡았다. 조 대표는 ▲엔씨소프트 국내영업팀 사업기획팀장 ▲네이버 코어게임사업부장 ▲NHN 사업개발그룹 이사·그룹…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선발주자 넘어선 후발주자…BAYC는 어떻게 크립토펑크를 인수했을까 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233163</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233163</guid>
-            <pubDate>Wed, 16 Mar 2022 11:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 업계에서 후발주자가 선발주자를 인수하는 사례가 나왔다. NFT 컬렉션 프로젝트의 원조 격인 보어드에이프요트클럽(Bored Ape Yacht Club, 이하 BAYC)가 ‘진짜 원조’ 크립토펑크를 인수하면서, BAYC가 빠르게 성장한 배경도 함께 주목받고…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[“가상자산‧메타버스 중요”…인수위원회에 ‘디지털경제’ 전문가 포함 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120885</link>
             <guid>https://n.news.naver.com/article/138/0002120885</guid>
             <pubDate>Thu, 17 Mar 2022 04:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120885.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +125,7 @@
             <link>https://n.news.naver.com/article/138/0002120883</link>
             <guid>https://n.news.naver.com/article/138/0002120883</guid>
             <pubDate>Thu, 17 Mar 2022 04:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120883.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002120833</link>
             <guid>https://n.news.naver.com/article/138/0002120833</guid>
             <pubDate>Wed, 16 Mar 2022 09:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002120828</link>
             <guid>https://n.news.naver.com/article/138/0002120828</guid>
             <pubDate>Wed, 16 Mar 2022 09:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -173,7 +173,7 @@
             <link>https://n.news.naver.com/article/138/0002120711</link>
             <guid>https://n.news.naver.com/article/138/0002120711</guid>
             <pubDate>Tue, 15 Mar 2022 14:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/15/2120711.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -181,7 +181,7 @@
             <link>https://n.news.naver.com/article/138/0002120626</link>
             <guid>https://n.news.naver.com/article/138/0002120626</guid>
             <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120626.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -189,7 +189,7 @@
             <link>https://n.news.naver.com/article/138/0002120621</link>
             <guid>https://n.news.naver.com/article/138/0002120621</guid>
             <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120621.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -197,7 +197,7 @@
             <link>https://n.news.naver.com/article/138/0002120613</link>
             <guid>https://n.news.naver.com/article/138/0002120613</guid>
             <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -205,7 +205,7 @@
             <link>https://n.news.naver.com/article/138/0002120608</link>
             <guid>https://n.news.naver.com/article/138/0002120608</guid>
             <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120608.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -229,7 +229,7 @@
             <link>https://n.news.naver.com/article/138/0002120494</link>
             <guid>https://n.news.naver.com/article/138/0002120494</guid>
             <pubDate>Fri, 11 Mar 2022 12:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120494.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -245,7 +245,7 @@
             <link>https://n.news.naver.com/article/138/0002120423</link>
             <guid>https://n.news.naver.com/article/138/0002120423</guid>
             <pubDate>Thu, 10 Mar 2022 08:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120423.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
