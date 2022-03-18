@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 04:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 ‘트래블룰’ D-7…5대 거래소, 솔루션 연동 합의 완료]]></title>
+            <link>https://n.news.naver.com/article/138/0002120976</link>
+            <guid>https://n.news.naver.com/article/138/0002120976</guid>
+            <pubDate>Fri, 18 Mar 2022 05:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/18/2120976.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업비트 앱에서 NFT 거래한다]]></title>
             <link>https://n.news.naver.com/article/138/0002120932</link>
             <guid>https://n.news.naver.com/article/138/0002120932</guid>
             <pubDate>Thu, 17 Mar 2022 10:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120932.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002120930</link>
             <guid>https://n.news.naver.com/article/138/0002120930</guid>
             <pubDate>Thu, 17 Mar 2022 10:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002120927</link>
             <guid>https://n.news.naver.com/article/138/0002120927</guid>
             <pubDate>Thu, 17 Mar 2022 10:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120927.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://n.news.naver.com/article/138/0002120591</link>
             <guid>https://n.news.naver.com/article/138/0002120591</guid>
             <pubDate>Mon, 14 Mar 2022 05:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +148,7 @@
             <link>https://n.news.naver.com/article/138/0002120590</link>
             <guid>https://n.news.naver.com/article/138/0002120590</guid>
             <pubDate>Mon, 14 Mar 2022 05:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +164,7 @@
             <link>https://n.news.naver.com/article/138/0002120465</link>
             <guid>https://n.news.naver.com/article/138/0002120465</guid>
             <pubDate>Fri, 11 Mar 2022 05:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120465.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 09 Mar 2022 05:04:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/09/2120359.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 ‘위믹스’, 해외 대형 거래소 후오비 상장]]></title>
-            <link>https://n.news.naver.com/article/138/0002120328</link>
-            <guid>https://n.news.naver.com/article/138/0002120328</guid>
-            <pubDate>Tue, 08 Mar 2022 11:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
