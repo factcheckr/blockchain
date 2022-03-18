@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 ‘트래블룰’ D-7…5대 거래소, 솔루션 연동 합의 완료 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=233594</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=233594</guid>
+            <pubDate>Fri, 18 Mar 2022 03:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 ‘트래블룰’ 시행이 일주일 앞으로 다가온 가운데, 원화마켓을 운영하거나 운영할 예정인 ‘5대 거래소’는 트래블룰 솔루션 연동에 합의한 것으로 확인됐다. 당초 빗썸, 코인원, 코빗 3사와 업비트가 쓰는 트래블룰 솔루션이 달라 원활한 정보 교환이 어려울 수 있다는 지적이 있었으나, 최근 솔루션 개발사들끼…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[업비트 앱에서 NFT 거래한다 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=233541</link>
@@ -106,13 +113,6 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 카카오의 퍼블릭 블록체인 플랫폼 ‘클레이튼’을 기반으로 하는 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 생태계에 계열사들이 힘을 보태고 있다. 14일 카카오엔터프라이즈는 ‘클레이 에이프 클럽’과 NFT 및 메타버스 플랫폼 개발을 위한 업무협약(MOU)을 체결했다고 밝혔다. ‘클레이 에이…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빗썸, 지난해 매출 1조 넘었다…비덴트 기업가치까지 ‘껑충’ (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233199</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233199</guid>
-            <pubDate>Wed, 16 Mar 2022 11:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 빗썸이 지난해 매출 1조 108억원을 기록, 창립 이후 최대실적을 기록했다. 14일 빗썸 대주주 비덴트는 빗썸이 지난해 1조원대 매출을 기록했으며 기업가치도 유니콘 기업(기업가치 1조원 이상인 기업)으로 성장했다고 밝혔다. 빗썸의 성장으로 비덴트의 기업가치도 크게 뛰었다고 비덴트 측은 강조했다. 비…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[업비트 앱에서 NFT 거래한다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120932</link>
             <guid>https://n.news.naver.com/article/138/0002120932</guid>
@@ -141,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002120885</link>
             <guid>https://n.news.naver.com/article/138/0002120885</guid>
             <pubDate>Thu, 17 Mar 2022 04:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120885.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
