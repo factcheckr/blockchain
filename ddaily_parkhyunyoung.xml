@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-18T07:04:02.548Z</updated>
+    <updated>2022-03-18T08:04:06.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국뇌연구원, 블록체인 기반 전자연구노트 '구노' 도입]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233617</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233617"/>
+        <updated>2022-03-18T08:03:57.672Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 한국뇌연구원이 블록체인 기반 전자연구노트를 활용한다.블록체인 기반 전자연구노트 개발 기업 레드윗은 한국뇌연구원에 전자연구노트 솔루션 '구노'를 도입한다고 18일 밝혔다.'구노'는 블록체인 기반의 이중암호화 기술을 적용해 보안성을 보장한다. Docs, hwp, PDF 등 다양한 문서 포맷을 지원하며 관리자 모드…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['넷마블 토큰' MBX, 클레이스왑 상장 하루만에 190억원치 거래]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233610</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233610"/>
+        <updated>2022-03-18T08:03:57.673Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 넷마블의 가상자산 MBX가 탈중앙화거래소(DEX) 클레이스왑에서 거래된 지 하루만에 거래량 약 190억원을 달성했다. 넷마블은 지난 17일 공식적으로 MBX 유통을 시작했다. 카카오의 퍼블릭 블록체인 플랫폼 '클레이튼'을 기반으로 하는 DEX 클레이스왑에서 거래를 시작했으며, 거래 시작 당일 최고가는 약 6만원을 기…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상자산 ‘트래블룰’ D-7…5대 거래소, 솔루션 연동 합의 완료]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=233594</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=233231"/>
         <updated>2022-03-16T11:02:41.069Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 코인원이 사세 확장으로 사옥을 이전했다고 15일 밝혔다. 코인원은 여의도의 랜드마크로 떠오른 파크원 타워로 이전을 완료했다. 파크원 타워1의 45층, 46층 두 개 층을 업무공간으로 사용한다. 단, 오프라인 고객센터는 기존 용산구에 계속 위치하게끔 함으로써 방문고객 혼선을 최소화한다.신규 오피스는…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐셔레스트, 상장 검증절차 강화로 '책임경영' 돌입]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233212</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233212"/>
-        <updated>2022-03-16T11:02:41.071Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 캐셔레스트가 상장 검증 절차를 강화했다고 14일 밝혔다. 더 안전한 투자 환경을 조성하겠다는 취지다. 캐셔레스트는 객관적이고 공신력 있는 평가를 위해 외부상장평가기관의 프로젝트 평가 보고서를 활용한다. 교수, 변호사 등 가상자산 관련 업계 전문가로 구성된 외부상장평가위원회는 지난 2020년부…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오엔터프라이즈, 클레이에이프클럽과 메타버스 구축]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233210</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233210"/>
-        <updated>2022-03-16T11:02:41.073Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 카카오의 퍼블릭 블록체인 플랫폼 ‘클레이튼’을 기반으로 하는 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 생태계에 계열사들이 힘을 보태고 있다. 14일 카카오엔터프라이즈는 ‘클레이 에이프 클럽’과 NFT 및 메타버스 플랫폼 개발을 위한 업무협약(MOU)을 체결했다고 밝혔다. ‘클레이 에이…]]></content>
     </entry>
 </feed>
