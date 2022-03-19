@@ -4,7 +4,7 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 15:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 16:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 17 Mar 2022 04:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120885.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["블록체인 게임에 대규모 투자금 유입…전망 밝다"-코빗·메사리]]></title>
-            <link>https://n.news.naver.com/article/138/0002120883</link>
-            <guid>https://n.news.naver.com/article/138/0002120883</guid>
-            <pubDate>Sat, 19 Mar 2022 03:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120883.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간송 국보 산 ‘헤리티지DAO’는 어떤 곳?…코인 투자모임 아닌 ‘탈중앙화 자율조직’]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Mon, 14 Mar 2022 05:29:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120590.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 바이든, '가상자산 행정명령'에 서명…시장에 어떤 영향?]]></title>
+            <link>https://n.news.naver.com/article/138/0002120521</link>
+            <guid>https://n.news.naver.com/article/138/0002120521</guid>
+            <pubDate>Sat, 19 Mar 2022 16:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/13/2120521.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다"]]></title>
