@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 04:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 05:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’ 개막…‘블록체인‧웹 3.0’에 초점 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=233729</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=233729</guid>
+            <pubDate>Mon, 21 Mar 2022 05:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스 ‘GDC(Game Developer Conference 2022’가 21일(현지시간)부터 25일까지 미국 샌프란시스코에서 개최된다. 지난 2년은 온라인으로 열렸으나, 올해는 오프라인과 온라인을 병행해 열린다. 올해 GDC에서 가장 두드러지는 점은 블록체인 및 대체불가…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[주간 블록체인] 상장사 휩쓴 블록체인‧NFT…신사업일까 ‘주총 시즌’ 마케팅일까? (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=233670</link>
@@ -104,13 +111,6 @@
             <guid>https://www.ddaily.co.kr/news/article.html?no=233370</guid>
             <pubDate>Wed, 16 Mar 2022 11:02:41 GMT</pubDate>
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 상장사들이 주주총회를 여는 ‘주총 시즌’이 도래한 가운데, 다수의 기업들이 사업목적에 블록체인 개발, 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업을 추가하고 있다. 그동안 사업 진출을 예고해왔던 게임사나 미디어 기업들은 물론 철강업체, 조명업체까지 업종에 상관없이 블록체인 산업에 뛰…]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자회사부터 관계사까지…'메타버스 왕국' 세우는 빗썸 패밀리 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233287</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233287</guid>
-            <pubDate>Wed, 16 Mar 2022 11:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 빗썸의 대주주, 관계사를 포함한 일명 ‘빗썸 패밀리’가 메타버스 신사업을 확장한다. 빗썸코리아(빗썸) 본사부터 최대주주인 비덴트, 관계사인 버킷스튜디오까지 전 계열사가 메타버스 사업에 몰입하는 모습이다. 버킷스튜디오는 빗썸 지배구조 상단에 있는 관계사다. 빗썸 최대주주인 비덴트를 강지연…]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국뇌연구원, 블록체인 기반 전자연구노트 '구노' 도입 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>

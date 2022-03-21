@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-21T04:07:08.736Z</updated>
+    <updated>2022-03-21T05:03:20.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’ 개막…‘블록체인‧웹 3.0’에 초점]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233729</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233729"/>
+        <updated>2022-03-21T05:03:11.896Z</updated>
+        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스 ‘GDC(Game Developer Conference 2022’가 21일(현지시간)부터 25일까지 미국 샌프란시스코에서 개최된다. 지난 2년은 온라인으로 열렸으나, 올해는 오프라인과 온라인을 병행해 열린다. 올해 GDC에서 가장 두드러지는 점은 블록체인 및 대체불가…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 블록체인] 상장사 휩쓴 블록체인‧NFT…신사업일까 ‘주총 시즌’ 마케팅일까?]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=233670</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=233370"/>
         <updated>2022-03-16T11:02:41.064Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 상장사들이 주주총회를 여는 ‘주총 시즌’이 도래한 가운데, 다수의 기업들이 사업목적에 블록체인 개발, 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업을 추가하고 있다. 그동안 사업 진출을 예고해왔던 게임사나 미디어 기업들은 물론 철강업체, 조명업체까지 업종에 상관없이 블록체인 산업에 뛰…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자회사부터 관계사까지…'메타버스 왕국' 세우는 빗썸 패밀리]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233287</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233287"/>
-        <updated>2022-03-16T11:02:41.066Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 빗썸의 대주주, 관계사를 포함한 일명 ‘빗썸 패밀리’가 메타버스 신사업을 확장한다. 빗썸코리아(빗썸) 본사부터 최대주주인 비덴트, 관계사인 버킷스튜디오까지 전 계열사가 메타버스 사업에 몰입하는 모습이다. 버킷스튜디오는 빗썸 지배구조 상단에 있는 관계사다. 빗썸 최대주주인 비덴트를 강지연…]]></content>
     </entry>
 </feed>
