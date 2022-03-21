@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 05:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 06:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,6 +113,14 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 상장사들이 주주총회를 여는 ‘주총 시즌’이 도래한 가운데, 다수의 기업들이 사업목적에 블록체인 개발, 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업을 추가하고 있다. 그동안 사업 진출을 예고해왔던 게임사나 미디어 기업들은 물론 철강업체, 조명업체까지 업종에 상관없이 블록체인 산업에 뛰…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’ 개막…‘블록체인‧웹 3.0’에 초점 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121094</link>
+            <guid>https://n.news.naver.com/article/138/0002121094</guid>
+            <pubDate>Mon, 21 Mar 2022 06:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>59분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/21/2121094.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국뇌연구원, 블록체인 기반 전자연구노트 '구노' 도입 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120992</link>
             <guid>https://n.news.naver.com/article/138/0002120992</guid>
@@ -181,7 +189,7 @@
             <link>https://n.news.naver.com/article/138/0002120805</link>
             <guid>https://n.news.naver.com/article/138/0002120805</guid>
             <pubDate>Wed, 16 Mar 2022 09:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120805.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -189,7 +197,7 @@
             <link>https://n.news.naver.com/article/138/0002120797</link>
             <guid>https://n.news.naver.com/article/138/0002120797</guid>
             <pubDate>Wed, 16 Mar 2022 09:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120797.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,14 +303,6 @@
             <pubDate>Thu, 10 Mar 2022 08:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120423.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 시대 IT]⑤ 가상자산, 세금은 덜 내고 거래소는 늘어난다…업계 '기대' (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120413</link>
-            <guid>https://n.news.naver.com/article/138/0002120413</guid>
-            <pubDate>Thu, 10 Mar 2022 08:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
