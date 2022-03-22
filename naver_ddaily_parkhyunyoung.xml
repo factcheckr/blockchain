@@ -4,15 +4,31 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 23:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 00:26:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[GDC 2022] 홍채 혈관까지 구현한 ‘디지털 인류’ 탄생…유니티, ‘에너미’ 공개]]></title>
+            <link>https://n.news.naver.com/article/138/0002121145</link>
+            <guid>https://n.news.naver.com/article/138/0002121145</guid>
+            <pubDate>Tue, 22 Mar 2022 00:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>27분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/22/2121145.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[GDC 2022] 닻 올린 GDC…게임 업계, 3년 만에 오프라인서 모였다]]></title>
+            <link>https://n.news.naver.com/article/138/0002121143</link>
+            <guid>https://n.news.naver.com/article/138/0002121143</guid>
+            <pubDate>Tue, 22 Mar 2022 00:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>49분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/22/2121143.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’ 개막…‘블록체인‧웹 3.0’에 초점]]></title>
             <link>https://n.news.naver.com/article/138/0002121094</link>
             <guid>https://n.news.naver.com/article/138/0002121094</guid>
             <pubDate>Mon, 21 Mar 2022 06:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/21/2121094.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +132,7 @@
             <link>https://n.news.naver.com/article/138/0002120646</link>
             <guid>https://n.news.naver.com/article/138/0002120646</guid>
             <pubDate>Fri, 18 Mar 2022 00:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/15/2120646.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 11 Mar 2022 12:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120494.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비(非) 가상자산 기업도 인수한다는 바이낸스…크립토 기업 '영토 확장' 활발]]></title>
-            <link>https://n.news.naver.com/article/138/0002120465</link>
-            <guid>https://n.news.naver.com/article/138/0002120465</guid>
-            <pubDate>Fri, 11 Mar 2022 05:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120465.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 블록체인 기업 오지스 '오르빗 브릿지'에 검증인으로 합류]]></title>
-            <link>https://n.news.naver.com/article/138/0002120423</link>
-            <guid>https://n.news.naver.com/article/138/0002120423</guid>
-            <pubDate>Thu, 10 Mar 2022 08:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120423.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

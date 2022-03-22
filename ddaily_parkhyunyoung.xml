@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-21T23:03:35.164Z</updated>
+    <updated>2022-03-22T00:26:14.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[GDC 2022] 홍채 혈관까지 구현한 ‘디지털 인류’ 탄생…유니티, ‘에너미’ 공개]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233781</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233781"/>
+        <updated>2022-03-22T00:26:03.977Z</updated>
+        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 게임 엔진 개발사 유니티가 GDC 2022를 맞아 디지털 인류 구현 기술 ‘에너미(Enemies)’의 데모 버전을 공개했다. GDC 2022는 세계 최대 게임 개발자 컨퍼런스로, 21일(현지시간)부터 25일까지 미국 샌프란시스코 모스콘센터에서 열린다.21일(현지시간) 유니티는 에너미 티저 영상을 공개하…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[GDC 2022] 닻 올린 GDC…게임 업계, 3년 만에 오프라인서 모였다]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233780</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233780"/>
+        <updated>2022-03-22T00:26:03.982Z</updated>
+        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스 GDC 2022가 현지시간으로 21일 미국 샌프란시스코 모스콘센터에서 개막했다. 올해로 36회째를 맞는 GDC 2022는 3년 만에 오프라인으로 열렸으며, 전시 기업 200여개, 강연자 1000여명, 그리고 강연 600여개가 함께 한다. GDC 2022는 21일과 22일 이틀 간 열리는…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’ 개막…‘블록체인‧웹 3.0’에 초점]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=233729</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=233399"/>
         <updated>2022-03-16T11:02:41.062Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 기업 네오플라이 자회사인 네오핀이 트래블룰 준수를 위해 람다256의 ‘베리파이바스프(Verify VASP)’ 솔루션을 사용한다.16일 네오핀은 베리파이바스프와 트래블룰 솔루션 사용에 대한 업무협약을 체결했다고 밝혔다. 베리파이바스트는 두나무의 블록체인 기술 자회사 람다256이 개발한 트래블룰 솔루션…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISA-과기부, 지역 블록체인 지원센터 구축 사업 공모]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233401</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233401"/>
-        <updated>2022-03-16T11:02:41.064Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 한국인터넷진흥원(KISA)이 과학기술정보통신부와 함께 ‘지역 블록체인 기술혁신지원센터 구축 사업’에 참여할 광역지방자치단체를 모집한다고 16일 밝혔다. 해당 사업은 블록체인 산업의 지역 균형발전 및 기술활용 지원을 위해 추진된다. KISA는 지역 블록체인 기술혁신지원센터를 통해 지역 특화산업과 연계한 블…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주총시즌 키워드 된 블록체인‧NFT…유행처럼 번진 ‘사업목적 추가’]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233370</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233370"/>
-        <updated>2022-03-16T11:02:41.064Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 상장사들이 주주총회를 여는 ‘주총 시즌’이 도래한 가운데, 다수의 기업들이 사업목적에 블록체인 개발, 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업을 추가하고 있다. 그동안 사업 진출을 예고해왔던 게임사나 미디어 기업들은 물론 철강업체, 조명업체까지 업종에 상관없이 블록체인 산업에 뛰…]]></content>
     </entry>
 </feed>
