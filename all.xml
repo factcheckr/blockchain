@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 00:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 02:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 간송 전형필 후손인 전인건 간송미술관장이 지난 1월 경매에 내놓은 국보 ‘금동삼존불감’이 탈중앙화자율조직 ‘헤리티지DAO(Decentralized Autonomous Organization)’에 팔렸다. 이에 헤리티지DAO가 어떤 조직인지, 나아가 최근 각광받고 있는 DAO는 어떤 조직 형태인지에도 관심이 쏠린다…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사진으로 보는 GDC] 위메이드‧블록체인‧NFT 세션에 인파 몰려 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121274</link>
+            <guid>https://n.news.naver.com/article/138/0002121274</guid>
+            <pubDate>Wed, 23 Mar 2022 02:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121274.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[GDC 2022] 게임 개발자 이목 집중시킨 장현국 발표…위메이드, 내년 오픈 SDK 출시 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121244</link>
             <guid>https://n.news.naver.com/article/138/0002121244</guid>
             <pubDate>Tue, 22 Mar 2022 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121244.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002121243</link>
             <guid>https://n.news.naver.com/article/138/0002121243</guid>
             <pubDate>Tue, 22 Mar 2022 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -189,7 +197,7 @@
             <link>https://n.news.naver.com/article/138/0002120885</link>
             <guid>https://n.news.naver.com/article/138/0002120885</guid>
             <pubDate>Thu, 17 Mar 2022 04:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120885.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -197,7 +205,7 @@
             <link>https://n.news.naver.com/article/138/0002120883</link>
             <guid>https://n.news.naver.com/article/138/0002120883</guid>
             <pubDate>Sun, 20 Mar 2022 21:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120883.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -237,7 +245,7 @@
             <link>https://n.news.naver.com/article/138/0002120776</link>
             <guid>https://n.news.naver.com/article/138/0002120776</guid>
             <pubDate>Wed, 16 Mar 2022 09:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120776.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,14 +303,6 @@
             <pubDate>Mon, 14 Mar 2022 05:29:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120591.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선발주자 넘어선 후발주자…BAYC는 어떻게 크립토펑크를 인수했을까 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120590</link>
-            <guid>https://n.news.naver.com/article/138/0002120590</guid>
-            <pubDate>Mon, 14 Mar 2022 05:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
