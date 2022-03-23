@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 23:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 윤석열 대통령 당선인의 대통령직인수위원회(인수위)에 디지털 경제 전문가가 포함됐다. 김은혜 당선인 대변인은 17일 서울 여의도 국민의힘 중앙당사에서 브리핑을 열고 “인수위원 인선이 마무리됨에 따라 내일(18일) 오전 현판식을 하는 것을 목표로 하고 있다”고 말했다. 윤 당선인은 이날 인수위원 24명의 인선을 마…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[위메이드, 스테이블코인 ‘위믹스달러’ 만든다… 'NFT DAO' 올해 구축 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121334</link>
+            <guid>https://n.news.naver.com/article/138/0002121334</guid>
+            <pubDate>Wed, 23 Mar 2022 23:03:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>32분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121334.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[GDC 2022] F2P(부분유료화) 게임 세션서 ‘블록체인’이 핫 키워드 된 이유 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121282</link>
             <guid>https://n.news.naver.com/article/138/0002121282</guid>
             <pubDate>Wed, 23 Mar 2022 04:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121282.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002121274</link>
             <guid>https://n.news.naver.com/article/138/0002121274</guid>
             <pubDate>Wed, 23 Mar 2022 02:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121274.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002121244</link>
             <guid>https://n.news.naver.com/article/138/0002121244</guid>
             <pubDate>Tue, 22 Mar 2022 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121244.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002121243</link>
             <guid>https://n.news.naver.com/article/138/0002121243</guid>
             <pubDate>Tue, 22 Mar 2022 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,14 +303,6 @@
             <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120613.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다날핀테크, 금융투자본부 신설…"페이코인 가치 상승 이끈다" (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120608</link>
-            <guid>https://n.news.naver.com/article/138/0002120608</guid>
-            <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120608.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
