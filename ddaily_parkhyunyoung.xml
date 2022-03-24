@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-23T23:03:41.308Z</updated>
+    <updated>2022-03-24T00:24:40.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 장현국 “메인넷 구축 후 클레이튼과 ‘브릿지’로 연결” [GDC 2022]]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233994</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233994"/>
+        <updated>2022-03-24T00:24:28.800Z</updated>
+        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 자체 블록체인 플랫폼 메인넷을 구축하고, 이를 현재 기반 플랫폼인 ‘클레이튼’과 브릿지 기술로 연결할 예정이다. 브릿지 기술은 서로 다른 블록체인 플랫폼 간 자산 이동을 가능하게 해주는 연결 솔루션을 말한다.장현국 위메이드 대표는 23일(현지시간) 미국 샌프란시스코에서 열린 GD…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위메이드, 스테이블코인 ‘위믹스달러’ 만든다… 'NFT DAO' 올해 구축]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=233989</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=233989"/>
+        <updated>2022-03-24T00:24:28.803Z</updated>
+        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 올해 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 중심의 탈중앙화자율조직(DAO)을 만든다. 또 상반기 내에는 탈중앙화금융(De-fi, 디파이) 서비스를 위한 스테이블코인 ‘위믹스 달러’를 출시한다. 장현국 위메이드 대표는 23일(현지시간) 미국 샌프란시스코에서 열…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사진으로 보는 GDC] 위메이드‧블록체인‧NFT 세션에 인파 몰려]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=233916</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=233540"/>
         <updated>2022-03-17T13:14:55.667Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 넷마블이 가상자산 지갑 'MBX 월렛' 서비스를 정식 출시하고 가상자산 MBX 유통을 시작했다고 17일 밝혔다. MBX는 카카오의 퍼블릭 블록체인 플랫폼 '클레이튼'을 기반으로 하는 플랫폼이다. MBX 플랫폼 내 기축통화는 가상자산 MBX다. 이용자들은 이날부터 탈중앙화금융(De-fi, 디파이) 서비스이자 탈중앙화거래소…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아카마이 "진화하는 API 공격, AAP로 대응해야"]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233537</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233537"/>
-        <updated>2022-03-17T08:07:20.801Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 최근 웹 애플리케이션에 대한 공격이 진화하는 가운데, API 공격은 가장 흔한 유형의 웹 애플리케이션 공격으로 간주되고 있다. 이에 API 공격에 대응할 수 있는 솔루션의 중요도도 높아지는 추세다. 17일 디지털데일리 웨비나 플랫폼 DD튜브에서 열린 ‘아카마이 엣지 클라우드 보안 전략’ 웨비나에서 강상진 아카마이 코…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“가상자산‧메타버스 중요”…인수위원회에 ‘디지털경제’ 전문가 포함]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233494</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233494"/>
-        <updated>2022-03-17T06:07:55.611Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 윤석열 대통령 당선인의 대통령직인수위원회(인수위)에 디지털 경제 전문가가 포함됐다. 김은혜 당선인 대변인은 17일 서울 여의도 국민의힘 중앙당사에서 브리핑을 열고 “인수위원 인선이 마무리됨에 따라 내일(18일) 오전 현판식을 하는 것을 목표로 하고 있다”고 말했다. 윤 당선인은 이날 인수위원 24명의 인선을 마…]]></content>
     </entry>
 </feed>
