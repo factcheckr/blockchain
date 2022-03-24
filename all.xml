@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] B2B‧B2C 다 담은 GDC…게임 업계에 부는 웹 3.0 바람 [GDC 2022] (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234011</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234011</guid>
+            <pubDate>Thu, 24 Mar 2022 05:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스인 GDC(Game Developer Conference)는 본래 기업 대 기업(B2B)과 기업 대 소비자(B2C) 부스가 모두 마련된 행사로 알려져있다. 일반 이용자를 대상으로 게임을 선보이는 기업부터, 게임사를 대상으로 클라우드 등 소프트웨어를 서비스하는 업체까지. 게…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 장현국 “메인넷 구축 후 클레이튼과 ‘브릿지’로 연결” [GDC 2022] (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=233994</link>
@@ -104,13 +111,6 @@
             <guid>https://www.ddaily.co.kr/news/article.html?no=233541</guid>
             <pubDate>Thu, 17 Mar 2022 13:14:55 GMT</pubDate>
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 업비트 애플리케이션 안에 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 거래 기능이 추가된다.17일 업비트 운영사 두나무는 안드로이드 업비트 앱에 NFT 거래 플랫폼인 ‘업비트 NFT’ 기능을 추가한다고 밝혔다. 안드로이드 업비트 앱을 이용하는 회원들은 앱을 업데이트하면 해당 기능을 이용할…]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['넷마블 토큰' MBX, 오늘부터 유통…전용 지갑도 출시 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233540</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233540</guid>
-            <pubDate>Thu, 17 Mar 2022 13:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 넷마블이 가상자산 지갑 'MBX 월렛' 서비스를 정식 출시하고 가상자산 MBX 유통을 시작했다고 17일 밝혔다. MBX는 카카오의 퍼블릭 블록체인 플랫폼 '클레이튼'을 기반으로 하는 플랫폼이다. MBX 플랫폼 내 기축통화는 가상자산 MBX다. 이용자들은 이날부터 탈중앙화금융(De-fi, 디파이) 서비스이자 탈중앙화거래소…]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[르포] B2B‧B2C 다 담은 GDC…게임 업계에 부는 웹 3.0 바람 [GDC 2022] (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
