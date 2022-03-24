@@ -4,15 +4,31 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 00:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] B2B‧B2C 다 담은 GDC…게임 업계에 부는 웹 3.0 바람 [GDC 2022]]]></title>
+            <link>https://n.news.naver.com/article/138/0002121353</link>
+            <guid>https://n.news.naver.com/article/138/0002121353</guid>
+            <pubDate>Thu, 24 Mar 2022 02:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121353.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 장현국 “메인넷 구축 후 클레이튼과 ‘브릿지’로 연결” [GDC 2022]]]></title>
+            <link>https://n.news.naver.com/article/138/0002121339</link>
+            <guid>https://n.news.naver.com/article/138/0002121339</guid>
+            <pubDate>Thu, 24 Mar 2022 02:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121339.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 스테이블코인 ‘위믹스달러’ 만든다… 'NFT DAO' 올해 구축]]></title>
             <link>https://n.news.naver.com/article/138/0002121334</link>
             <guid>https://n.news.naver.com/article/138/0002121334</guid>
             <pubDate>Wed, 23 Mar 2022 23:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002121282</link>
             <guid>https://n.news.naver.com/article/138/0002121282</guid>
             <pubDate>Wed, 23 Mar 2022 04:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121282.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002121274</link>
             <guid>https://n.news.naver.com/article/138/0002121274</guid>
             <pubDate>Wed, 23 Mar 2022 02:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121274.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +124,7 @@
             <link>https://n.news.naver.com/article/138/0002120885</link>
             <guid>https://n.news.naver.com/article/138/0002120885</guid>
             <pubDate>Thu, 17 Mar 2022 04:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120885.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +132,7 @@
             <link>https://n.news.naver.com/article/138/0002120883</link>
             <guid>https://n.news.naver.com/article/138/0002120883</guid>
             <pubDate>Sun, 20 Mar 2022 21:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120883.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +172,7 @@
             <link>https://n.news.naver.com/article/138/0002120776</link>
             <guid>https://n.news.naver.com/article/138/0002120776</guid>
             <pubDate>Wed, 16 Mar 2022 09:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120776.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120626.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, 클레이에이프클럽과 메타버스 구축]]></title>
-            <link>https://n.news.naver.com/article/138/0002120621</link>
-            <guid>https://n.news.naver.com/article/138/0002120621</guid>
-            <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120621.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, 지난해 매출 1조 넘었다…비덴트 기업가치까지 ‘껑충’]]></title>
-            <link>https://n.news.naver.com/article/138/0002120613</link>
-            <guid>https://n.news.naver.com/article/138/0002120613</guid>
-            <pubDate>Mon, 14 Mar 2022 11:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
