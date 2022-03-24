@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-24T22:04:52.650Z</updated>
+    <updated>2022-03-24T23:03:07.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[인터뷰] 더 샌드박스 대표 “NFT에 열린 사람들 크게 늘었다”]]></title>
+        <title type="html"><![CDATA[[GDC 2022] 샌프란시스코 총영사, 위메이드 부스 찾았다]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234115</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234115"/>
+        <updated>2022-03-24T23:02:57.895Z</updated>
+        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 윤상수 샌프란시스코 총영사가 GDC 2022의 위메이드 부스를 방문, 한국 기업의 선전을 격려했다.24일(현지시간) 세계 최대 게임 개발자 컨퍼런스 GDC 2022에서 위메이드 부스를 찾은 윤 총영사는 “팬데믹 이후 한동안 멈췄던 오프라인 컨퍼런스가 올해 초 CES를 계기로 다시 활성화되기 시작했다…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 더 샌드박스 대표 “NFT에 열린 사람들 크게 늘었다” [GDC 2022]]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234112</id>
         <link href="https://www.ddaily.co.kr/news/article.html?no=234112"/>
         <updated>2022-03-24T22:04:42.882Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=233617"/>
         <updated>2022-03-18T08:03:57.672Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 한국뇌연구원이 블록체인 기반 전자연구노트를 활용한다.블록체인 기반 전자연구노트 개발 기업 레드윗은 한국뇌연구원에 전자연구노트 솔루션 '구노'를 도입한다고 18일 밝혔다.'구노'는 블록체인 기반의 이중암호화 기술을 적용해 보안성을 보장한다. Docs, hwp, PDF 등 다양한 문서 포맷을 지원하며 관리자 모드…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넷마블 토큰' MBX, 클레이스왑 상장 하루만에 190억원치 거래]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233610</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233610"/>
-        <updated>2022-03-18T08:03:57.673Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 넷마블의 가상자산 MBX가 탈중앙화거래소(DEX) 클레이스왑에서 거래된 지 하루만에 거래량 약 190억원을 달성했다. 넷마블은 지난 17일 공식적으로 MBX 유통을 시작했다. 카카오의 퍼블릭 블록체인 플랫폼 '클레이튼'을 기반으로 하는 DEX 클레이스왑에서 거래를 시작했으며, 거래 시작 당일 최고가는 약 6만원을 기…]]></content>
     </entry>
 </feed>
