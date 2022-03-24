@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 21:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 22:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 더 샌드박스 대표 “NFT에 열린 사람들 크게 늘었다” (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234112</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234112</guid>
+            <pubDate>Thu, 24 Mar 2022 22:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] “GDC는 개인적으로 가장 좋아하는 게임 행사입니다. 2012년부터 매년 참여했는데, 올해는 NFT와 블록체인에 대한 참가자들의 이해도가 매우 높아졌고, NFT에 열려있는 사람들도 많아졌습니다”.세바스티앙 보르제(Sebastien Borget) 더 샌드박스 대표는 24일(현지시간) 미국 샌프란시…]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[GDC 2022] 개발자들 주목, " '위믹스' 기반 게임 개발해야 하는 이유는?" (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234111</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234111</guid>
+            <pubDate>Thu, 24 Mar 2022 22:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에 참가한 위메이드가 개발자 관점에서 블록체인 플랫폼 ‘위믹스’를 기반으로 게임을 개발해야 하는 이유를 강조했다. 김석환 위메이드 부사장은 지난 23일(현지시간) 미국 샌프란시스코 모스콘센터에서 열린 GDC 2022에서 ‘미르 4와 위믹스를 중심…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[르포] B2B‧B2C 다 담은 GDC…게임 업계에 부는 웹 3.0 바람 [GDC 2022] (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=234011</link>
@@ -99,25 +113,11 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 넷마블의 가상자산 MBX가 탈중앙화거래소(DEX) 클레이스왑에서 거래된 지 하루만에 거래량 약 190억원을 달성했다. 넷마블은 지난 17일 공식적으로 MBX 유통을 시작했다. 카카오의 퍼블릭 블록체인 플랫폼 '클레이튼'을 기반으로 하는 DEX 클레이스왑에서 거래를 시작했으며, 거래 시작 당일 최고가는 약 6만원을 기…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가상자산 ‘트래블룰’ D-7…5대 거래소, 솔루션 연동 합의 완료 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233594</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233594</guid>
-            <pubDate>Fri, 18 Mar 2022 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 ‘트래블룰’ 시행이 일주일 앞으로 다가온 가운데, 원화마켓을 운영하거나 운영할 예정인 ‘5대 거래소’는 트래블룰 솔루션 연동에 합의한 것으로 확인됐다. 당초 빗썸, 코인원, 코빗 3사와 업비트가 쓰는 트래블룰 솔루션이 달라 원활한 정보 교환이 어려울 수 있다는 지적이 있었으나, 최근 솔루션 개발사들끼…]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[업비트 앱에서 NFT 거래한다 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233541</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233541</guid>
-            <pubDate>Thu, 17 Mar 2022 13:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 업비트 애플리케이션 안에 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 거래 기능이 추가된다.17일 업비트 운영사 두나무는 안드로이드 업비트 앱에 NFT 거래 플랫폼인 ‘업비트 NFT’ 기능을 추가한다고 밝혔다. 안드로이드 업비트 앱을 이용하는 회원들은 앱을 업데이트하면 해당 기능을 이용할…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[르포] B2B‧B2C 다 담은 GDC…게임 업계에 부는 웹 3.0 바람 [GDC 2022] (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121353</link>
             <guid>https://n.news.naver.com/article/138/0002121353</guid>
             <pubDate>Thu, 24 Mar 2022 02:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121353.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +125,7 @@
             <link>https://n.news.naver.com/article/138/0002121339</link>
             <guid>https://n.news.naver.com/article/138/0002121339</guid>
             <pubDate>Thu, 24 Mar 2022 02:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121339.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -149,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002121244</link>
             <guid>https://n.news.naver.com/article/138/0002121244</guid>
             <pubDate>Tue, 22 Mar 2022 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121244.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -157,7 +157,7 @@
             <link>https://n.news.naver.com/article/138/0002121243</link>
             <guid>https://n.news.naver.com/article/138/0002121243</guid>
             <pubDate>Tue, 22 Mar 2022 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
