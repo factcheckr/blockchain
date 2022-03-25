@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 23:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 00:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 한국뇌연구원이 블록체인 기반 전자연구노트를 활용한다.블록체인 기반 전자연구노트 개발 기업 레드윗은 한국뇌연구원에 전자연구노트 솔루션 '구노'를 도입한다고 18일 밝혔다.'구노'는 블록체인 기반의 이중암호화 기술을 적용해 보안성을 보장한다. Docs, hwp, PDF 등 다양한 문서 포맷을 지원하며 관리자 모드…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[GDC 2022] 샌프란시스코 총영사, 위메이드 부스 찾았다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121448</link>
+            <guid>https://n.news.naver.com/article/138/0002121448</guid>
+            <pubDate>Fri, 25 Mar 2022 00:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/25/2121448.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] 더 샌드박스 대표 “NFT에 열린 사람들 크게 늘었다” [GDC 2022] (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121447</link>
             <guid>https://n.news.naver.com/article/138/0002121447</guid>
             <pubDate>Thu, 24 Mar 2022 23:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>46분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/25/2121447.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002121446</link>
             <guid>https://n.news.naver.com/article/138/0002121446</guid>
             <pubDate>Thu, 24 Mar 2022 23:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>48분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/25/2121446.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002121353</link>
             <guid>https://n.news.naver.com/article/138/0002121353</guid>
             <pubDate>Thu, 24 Mar 2022 02:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121353.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002121339</link>
             <guid>https://n.news.naver.com/article/138/0002121339</guid>
             <pubDate>Thu, 24 Mar 2022 02:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121339.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -189,7 +197,7 @@
             <link>https://n.news.naver.com/article/138/0002121143</link>
             <guid>https://n.news.naver.com/article/138/0002121143</guid>
             <pubDate>Tue, 22 Mar 2022 00:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/22/2121143.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,14 +303,6 @@
             <pubDate>Wed, 16 Mar 2022 09:03:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120776.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자회사부터 관계사까지…'메타버스 왕국' 세우는 빗썸 패밀리 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120711</link>
-            <guid>https://n.news.naver.com/article/138/0002120711</guid>
-            <pubDate>Tue, 15 Mar 2022 14:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/15/2120711.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
