@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 세계 최대 블록체인 게임 길드 ‘YGG’는 어떻게 운영될까? [GDC 2022] (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234140</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234140</guid>
+            <pubDate>Fri, 25 Mar 2022 07:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 블록체인 기반 게임을 논할 때 가장 먼저 등장하는 게임은 단연 엑시인피니티다. 블록체인 기반 게임 중에선 처음으로 전 세계적 유행을 불러일으켰을뿐더러, ‘플레이 투 언(Play to Earn)’이라는 표현이 나오는 계기를 만들었기 때문이다.엑시인피니티가 성공한 배경에는 장학금 제도가 있다. 엑시…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[GDC 2022] 샌프란시스코 총영사, 위메이드 부스 찾았다 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=234115</link>
@@ -104,13 +111,6 @@
             <guid>https://www.ddaily.co.kr/news/article.html?no=233670</guid>
             <pubDate>Sun, 20 Mar 2022 04:07:21 GMT</pubDate>
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.본격적인 ‘주총 시즌’이 도래했습니다. 상장사들이 일제히 주주총회를 열고 앞으로 기업이 나아갈 방향을 제시하고 있죠. 이번주에는 여러 기업의 주총 안건이 발표됐습니다.그런데 업종에 상관없이 여러 상장사들이 제시하는 안건이 있습니…]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국뇌연구원, 블록체인 기반 전자연구노트 '구노' 도입 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233617</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233617</guid>
-            <pubDate>Fri, 18 Mar 2022 08:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 한국뇌연구원이 블록체인 기반 전자연구노트를 활용한다.블록체인 기반 전자연구노트 개발 기업 레드윗은 한국뇌연구원에 전자연구노트 솔루션 '구노'를 도입한다고 18일 밝혔다.'구노'는 블록체인 기반의 이중암호화 기술을 적용해 보안성을 보장한다. Docs, hwp, PDF 등 다양한 문서 포맷을 지원하며 관리자 모드…]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 세계 최대 블록체인 게임 길드 ‘YGG’는 어떻게 운영될까? [GDC 2022] (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
