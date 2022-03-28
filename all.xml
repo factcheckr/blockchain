@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 07:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,19 @@
             <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에 참석한 가운데, 발표를 맡은 장현국 위메이드 대표는 블록체인 경제 시스템을 적용한 게임을 ‘플레이 앤 언(Play and Earn)’ 게임으로 정의하는 이유를 재차 강조했다. 돈을 벌기 위해 플레이하는 ‘플레이 투 언(Play to Earn)’…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[가상자산 불법행위 근절한다…두나무, 서울경찰청과 업무 협의 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121628</link>
+            <guid>https://n.news.naver.com/article/138/0002121628</guid>
+            <pubDate>Mon, 28 Mar 2022 08:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121628.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[F&B 업계도 ‘NFT’ 바람…맘스터치, NFT 시장 진출 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121592</link>
             <guid>https://n.news.naver.com/article/138/0002121592</guid>
             <pubDate>Mon, 28 Mar 2022 05:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002121591</link>
             <guid>https://n.news.naver.com/article/138/0002121591</guid>
             <pubDate>Mon, 28 Mar 2022 05:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002121579</link>
             <guid>https://n.news.naver.com/article/138/0002121579</guid>
             <pubDate>Mon, 28 Mar 2022 03:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121579.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -287,14 +295,6 @@
             <pubDate>Thu, 17 Mar 2022 04:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120885.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["블록체인 게임에 대규모 투자금 유입…전망 밝다"-코빗·메사리 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120883</link>
-            <guid>https://n.news.naver.com/article/138/0002120883</guid>
-            <pubDate>Sun, 20 Mar 2022 21:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120883.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
