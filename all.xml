@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 불법행위 근절한다…두나무, 서울경찰청과 업무 협의 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234312</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234312</guid>
+            <pubDate>Mon, 28 Mar 2022 07:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 업비트 운영사 두나무가 서울경찰청과 가상자산 관련 불법행위 근절을 위한 업무 협의회를 개최했다고 28일 밝혔다. 김형년 두나무 부회장, 정민석 최고운영책임자는 지난 25일 서울 종로구 서울경찰청에서 최관호 서울경찰청장과 가상자산 관련 불법행위 근절을 위한 협력체계를 논의했다.양 기관은 이날 업무 협의회에서…]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싸이월드, 가상자산 '도토리' 발행…‘제 2의 클링’ 우려 극복할까 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234271</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234271</guid>
+            <pubDate>Mon, 28 Mar 2022 07:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[싸이월드가 자체 가상자산 '도토리'를 출시하며 웹 3.0 시장 진출을 선언했다. 싸이월드의 예전 가상자산인 '클링'의 전철을 밟을 수 있다는 우려도 뒤따르는 만큼, 신뢰도를 높이는 데 주력해야 할 것으로 보인다.28일 싸이월드 운영사 싸이월드제트는 공식 가상자산 '도토리'를 출시하고 오는 4월 2일 싸이월드를 정식 오픈한다고 밝혔다. 싸이월드의 새…]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[F&B 업계도 ‘NFT’ 바람…맘스터치, NFT 시장 진출 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234280</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234280</guid>
+            <pubDate>Mon, 28 Mar 2022 07:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 버거‧치킨 브랜드 맘스터치가 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 시장에 진출한다. 28일 블록체인 서비스 플랫폼 플레이댑은 맘스터치와 NFT 개발을 위한 업무협약을 체결했다고 밝혔다. 양사는 플레이댑의 NFT 기술을 활용해 맘스터치의 디지털 콘텐츠를 개발한다. 맘스터치 관계자는…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[주간 블록체인] 세계 최대 게임 행사서 주인공 된 블록체인…‘GDC 2022’ 총정리 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=234234</link>
@@ -90,27 +111,6 @@
             <guid>https://www.ddaily.co.kr/news/article.html?no=233890</guid>
             <pubDate>Tue, 22 Mar 2022 22:02:47 GMT</pubDate>
             <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에 참석한 가운데, 발표를 맡은 장현국 위메이드 대표는 블록체인 경제 시스템을 적용한 게임을 ‘플레이 앤 언(Play and Earn)’ 게임으로 정의하는 이유를 재차 강조했다. 돈을 벌기 위해 플레이하는 ‘플레이 투 언(Play to Earn)’…]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 2022] 홍채 혈관까지 구현한 ‘디지털 인류’ 탄생…유니티, ‘에너미즈’ 공개 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233781</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233781</guid>
-            <pubDate>Tue, 22 Mar 2022 00:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 게임 엔진 개발사 유니티가 GDC 2022를 맞아 디지털 인류 구현 기술 ‘에너미즈(Enemies)’의 데모 버전을 공개했다. GDC 2022는 세계 최대 게임 개발자 컨퍼런스로, 21일(현지시간)부터 25일까지 미국 샌프란시스코 모스콘센터에서 열린다.21일(현지시간) 유니티는 에너미즈 티저 영상을 공…]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 2022] 닻 올린 GDC…게임 업계, 3년 만에 오프라인서 모였다 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233780</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233780</guid>
-            <pubDate>Tue, 22 Mar 2022 00:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스 GDC 2022가 현지시간으로 21일 미국 샌프란시스코 모스콘센터에서 개막했다. 올해로 36회째를 맞는 GDC 2022는 3년 만에 오프라인으로 열렸으며, 전시 기업 200여개, 강연자 1000여명, 그리고 강연 600여개가 함께 한다. GDC 2022는 21일과 22일 이틀 간 열리는…]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’ 개막…‘블록체인‧웹 3.0’에 초점 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233729</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233729</guid>
-            <pubDate>Mon, 21 Mar 2022 05:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스 ‘GDC(Game Developer Conference 2022’가 21일(현지시간)부터 25일까지 미국 샌프란시스코에서 개최된다. 지난 2년은 온라인으로 열렸으나, 올해는 오프라인과 온라인을 병행해 열린다. 올해 GDC에서 가장 두드러지는 점은 블록체인 및 대체불가…]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[F&B 업계도 ‘NFT’ 바람…맘스터치, NFT 시장 진출 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
