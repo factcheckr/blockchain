@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 04:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 05:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] “블록체인‧웹 3.0, 주류 모멘텀 됐다”…GDC 찾은 플라네타리움 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234381</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234381</guid>
+            <pubDate>Tue, 29 Mar 2022 05:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] “그동안 게임 시장에선 블록체인 기술이나 NFT를 향한 안 좋은 시선이 많았는데, 이번 GDC에선 블록체인이 펀더멘털 기술로 뜨고 있다는 것을 확인했습니다. 블록체인, 플레이 투 언(Play to Earn)이 주류 모멘텀이 된 듯 합니다.”세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’가 열린 미국 샌프란시스코에서 서기…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘IPO 준비’ 블로코, 삼성전자 블록체인 사업부 출신 박성훈 부사장 영입 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=234349</link>
@@ -106,18 +113,11 @@
             <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] “블록체인 기반 게임의 성장으로 가장 먼저 타격을 받는 존재는 ‘F2P(부분 유료화)’게임이 될 것입니다”.22일(현지시간) 미국 샌프란시스코 모스콘센터에서 열린 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에서 조던 블랙맨(Jordan Blackman) 브라잇블랙(Bright Black) 창업자는…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[GDC 2022] 게임 개발자 이목 집중시킨 장현국 발표…위메이드, 내년 오픈 SDK 출시 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233891</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233891</guid>
-            <pubDate>Tue, 22 Mar 2022 22:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 장현국 위메이드 대표의 발표 세션이 열린 미국 샌프란시스코 모스콘센터 웨스트홀은 전 세계에서 모인 게임 개발자들로 가득 찼다. 장 대표는 22일(현지시간) 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에서 연사로 나섰다. 장 대표는 ‘미르4’를 비롯한 위메이드의 블록체인 기반 게임을 소개하…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[‘IPO 준비’ 블로코, 삼성전자 블록체인 사업부 출신 박성훈 부사장 영입 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121662</link>
             <guid>https://n.news.naver.com/article/138/0002121662</guid>
             <pubDate>Tue, 29 Mar 2022 02:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121662.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
