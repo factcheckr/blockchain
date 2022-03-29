@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 06:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 07:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,19 @@
             <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] “블록체인 기반 게임의 성장으로 가장 먼저 타격을 받는 존재는 ‘F2P(부분 유료화)’게임이 될 것입니다”.22일(현지시간) 미국 샌프란시스코 모스콘센터에서 열린 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에서 조던 블랙맨(Jordan Blackman) 브라잇블랙(Bright Black) 창업자는…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[큐브엔터, NFT 사업 속도…블록체인 기업 '네스트리' 유상증자 참여 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121713</link>
+            <guid>https://n.news.naver.com/article/138/0002121713</guid>
+            <pubDate>Tue, 29 Mar 2022 07:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>38분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121713.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] “블록체인‧웹 3.0, 주류 모멘텀 됐다”…GDC 찾은 플라네타리움 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121696</link>
             <guid>https://n.news.naver.com/article/138/0002121696</guid>
             <pubDate>Tue, 29 Mar 2022 06:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002121628</link>
             <guid>https://n.news.naver.com/article/138/0002121628</guid>
             <pubDate>Mon, 28 Mar 2022 08:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121628.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -287,14 +295,6 @@
             <pubDate>Thu, 17 Mar 2022 10:03:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120932.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['넷마블 토큰' MBX, 오늘부터 유통…전용 지갑도 출시 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120930</link>
-            <guid>https://n.news.naver.com/article/138/0002120930</guid>
-            <pubDate>Thu, 17 Mar 2022 10:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
