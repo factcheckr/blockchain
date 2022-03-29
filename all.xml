@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 02:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘IPO 준비’ 블로코, 삼성전자 블록체인 사업부 출신 박성훈 부사장 영입 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234349</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234349</guid>
+            <pubDate>Tue, 29 Mar 2022 03:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 블록체인 기술기업 블로코가 삼성전자 블록체인 사업부 출신의 박성훈 부사장을 영입했다고 29일 밝혔다. 기업공개(IPO) 및 신규 서비스 출시에 박차를 가하기 위함이다. 박 부사장은 삼성전자에서 서유럽 모바일 기업대기업(B2B) 세일즈 총괄을 맡아 사업자 파트너십을 담당했다. 또 삼성페이의 신규 부가 서비스를 기획…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[가상자산 불법행위 근절한다…두나무, 서울경찰청과 업무 협의 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=234312</link>
@@ -106,18 +113,11 @@
             <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 장현국 위메이드 대표의 발표 세션이 열린 미국 샌프란시스코 모스콘센터 웨스트홀은 전 세계에서 모인 게임 개발자들로 가득 찼다. 장 대표는 22일(현지시간) 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에서 연사로 나섰다. 장 대표는 ‘미르4’를 비롯한 위메이드의 블록체인 기반 게임을 소개하…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[GDC 2022] 글로벌 무대 나선 위메이드 장현국의 일성은? (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=233890</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=233890</guid>
-            <pubDate>Tue, 22 Mar 2022 22:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에 참석한 가운데, 발표를 맡은 장현국 위메이드 대표는 블록체인 경제 시스템을 적용한 게임을 ‘플레이 앤 언(Play and Earn)’ 게임으로 정의하는 이유를 재차 강조했다. 돈을 벌기 위해 플레이하는 ‘플레이 투 언(Play to Earn)’…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[‘IPO 준비’ 블로코, 삼성전자 블록체인 사업부 출신 박성훈 부사장 영입 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121662</link>
             <guid>https://n.news.naver.com/article/138/0002121662</guid>
             <pubDate>Tue, 29 Mar 2022 02:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121662.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +125,7 @@
             <link>https://n.news.naver.com/article/138/0002121628</link>
             <guid>https://n.news.naver.com/article/138/0002121628</guid>
             <pubDate>Mon, 28 Mar 2022 08:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121628.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002121592</link>
             <guid>https://n.news.naver.com/article/138/0002121592</guid>
             <pubDate>Mon, 28 Mar 2022 05:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

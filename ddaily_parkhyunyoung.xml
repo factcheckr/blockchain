@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-29T02:25:37.240Z</updated>
+    <updated>2022-03-29T03:23:13.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘IPO 준비’ 블로코, 삼성전자 블록체인 사업부 출신 박성훈 부사장 영입]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234349</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234349"/>
+        <updated>2022-03-29T03:23:03.012Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 기술기업 블로코가 삼성전자 블록체인 사업부 출신의 박성훈 부사장을 영입했다고 29일 밝혔다. 기업공개(IPO) 및 신규 서비스 출시에 박차를 가하기 위함이다. 박 부사장은 삼성전자에서 서유럽 모바일 기업대기업(B2B) 세일즈 총괄을 맡아 사업자 파트너십을 담당했다. 또 삼성페이의 신규 부가 서비스를 기획…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상자산 불법행위 근절한다…두나무, 서울경찰청과 업무 협의]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234312</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=233891"/>
         <updated>2022-03-22T22:02:47.453Z</updated>
         <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 장현국 위메이드 대표의 발표 세션이 열린 미국 샌프란시스코 모스콘센터 웨스트홀은 전 세계에서 모인 게임 개발자들로 가득 찼다. 장 대표는 22일(현지시간) 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에서 연사로 나섰다. 장 대표는 ‘미르4’를 비롯한 위메이드의 블록체인 기반 게임을 소개하…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[GDC 2022] 글로벌 무대 나선 위메이드 장현국의 일성은?]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233890</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233890"/>
-        <updated>2022-03-22T22:02:47.455Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에 참석한 가운데, 발표를 맡은 장현국 위메이드 대표는 블록체인 경제 시스템을 적용한 게임을 ‘플레이 앤 언(Play and Earn)’ 게임으로 정의하는 이유를 재차 강조했다. 돈을 벌기 위해 플레이하는 ‘플레이 투 언(Play to Earn)’…]]></content>
     </entry>
 </feed>
