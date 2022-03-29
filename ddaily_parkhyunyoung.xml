@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-29T08:09:08.019Z</updated>
+    <updated>2022-03-29T09:03:50.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위메이드, 현대백화점과 손잡고 '호랑이 NFT' 증정 마케팅 진행]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234412</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234412"/>
+        <updated>2022-03-29T09:03:42.010Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 위메이드가 현대백화점과 손잡고 대체불가능한 토큰(Non-Fungible Token, 이하 NFT)을 활용한 마케팅에 나선다.29일 위메이드는 이벤트 기간 중 현대백화점 카드를 발급받은 신규 회원 1000명에게 NFT를 전달한다고 밝혔다. 전달 예정인 NFT는 2022년 호랑이해를 기념하는 ‘기운찬 호랑이’ NFT로,…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큐브엔터, NFT 사업 속도…블록체인 기업 '네스트리' 유상증자 참여]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234407</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234407"/>
+        <updated>2022-03-29T09:03:42.012Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 큐브엔터테인먼트가 블록체인 기술기업 네스트리미디어그룹(네스트리) 유상증자에 참여한다고 29일 밝혔다. 큐브엔터는 네스트리의 지분을 인수해 블록체인 및 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 전문 기술을 확보할 계획이다. 또 세계 최대 블록체인 게임사 애니모카브랜즈와 설립한 합작…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] “블록체인‧웹 3.0, 주류 모멘텀 됐다”…GDC 찾은 플라네타리움]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234381</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=233989"/>
         <updated>2022-03-24T00:24:28.803Z</updated>
         <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 올해 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 중심의 탈중앙화자율조직(DAO)을 만든다. 또 상반기 내에는 탈중앙화금융(De-fi, 디파이) 서비스를 위한 스테이블코인 ‘위믹스 달러’를 출시한다. 장현국 위메이드 대표는 23일(현지시간) 미국 샌프란시스코에서 열…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진으로 보는 GDC] 위메이드‧블록체인‧NFT 세션에 인파 몰려]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233916</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233916"/>
-        <updated>2022-03-23T04:04:45.304Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 지난 21일(현지시간) 개막한 세계 최대 게임 개발자 컨퍼런스 'GDC 2022'에서 눈에 띈 건 단연 블록체인과 대체불가능한 토큰(Non-Fungible Token, 이하 NFT)이었다. 주요 발표 세션은 오는 23일과 24일에 몰려있지만, 21일과 22일 양일 간 진행된 발표 세션 중엔 블록체인 및 NFT 관련…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[GDC 2022] F2P(부분유료화) 게임 세션서 ‘블록체인’이 핫 키워드 된 이유]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233905</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233905"/>
-        <updated>2022-03-23T04:04:45.307Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] “블록체인 기반 게임의 성장으로 가장 먼저 타격을 받는 존재는 ‘F2P(부분 유료화)’게임이 될 것입니다”.22일(현지시간) 미국 샌프란시스코 모스콘센터에서 열린 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에서 조던 블랙맨(Jordan Blackman) 브라잇블랙(Bright Black) 창업자는…]]></content>
     </entry>
 </feed>
