@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-30T12:10:17.253Z</updated>
+    <updated>2022-03-30T13:18:41.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펄어비스 자회사 넷텐션, 블록체인 게임 엔진 개발…플레이댑과 협약]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234512</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234512"/>
+        <updated>2022-03-30T13:18:32.943Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 서비스 플랫폼 플레이댑이 펄어비스의 자회사 넷텐션과 전략적 업무협약(MOU)을 체결했다고 30일 밝혔다. 양사는 플레이댑의 블록체인 기술과 넷텐션의 개인 간 거래(P2P) 서버 엔진 기술을 결합, 이용자 중심의 탈중앙화 게임을 개발할 계획이다. 넷텐션은 실시간 멀티플레이에 특화된 P2P 서버 엔진 ‘프라우…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헥슬란트, 미레에셋·카카오인베 등으로부터 65억 투자 유치]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234506</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234506"/>
+        <updated>2022-03-30T13:18:32.943Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 기술기업 헥슬란트가 미래에셋캐피탈, 카카오인베스트먼트, 에이벤처스 등 벤처캐피탈로부터 65억 규모 시리즈 A 투자를 유치했다고 30일 밝혔다. 헥슬란트는 블록체인 기술 도입을 돕는 ‘옥텟’ 솔루션을 시장에 제공하고 있다. 옥텟은 대체불가능한 토큰(Non-Fungible Token, NFT), 플레이 투 언…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샌드박스네트워크, 카카오게임즈‧보라와 협업해 P2E 게임 개발]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234493</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234112"/>
         <updated>2022-03-24T22:04:42.882Z</updated>
         <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] “GDC는 개인적으로 가장 좋아하는 게임 행사입니다. 2012년부터 매년 참여했는데, 올해는 NFT와 블록체인에 대한 참가자들의 이해도가 매우 높아졌고, NFT에 열려있는 사람들도 많아졌습니다”.세바스티앙 보르제(Sebastien Borget) 더 샌드박스 대표는 24일(현지시간) 미국 샌프란시…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[GDC 2022] 개발자들 주목, " '위믹스' 기반 게임 개발해야 하는 이유는?"]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234111</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234111"/>
-        <updated>2022-03-24T22:04:42.883Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’에 참가한 위메이드가 개발자 관점에서 블록체인 플랫폼 ‘위믹스’를 기반으로 게임을 개발해야 하는 이유를 강조했다. 김석환 위메이드 부사장은 지난 23일(현지시간) 미국 샌프란시스코 모스콘센터에서 열린 GDC 2022에서 ‘미르 4와 위믹스를 중심…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포] B2B‧B2C 다 담은 GDC…게임 업계에 부는 웹 3.0 바람 [GDC 2022]]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234011</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234011"/>
-        <updated>2022-03-24T05:03:23.364Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스인 GDC(Game Developer Conference)는 본래 기업 대 기업(B2B)과 기업 대 소비자(B2C) 부스가 모두 마련된 행사로 알려져있다. 일반 이용자를 대상으로 게임을 선보이는 기업부터, 게임사를 대상으로 클라우드 등 소프트웨어를 서비스하는 업체까지. 게…]]></content>
     </entry>
 </feed>
