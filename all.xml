@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,27 @@
             <content:encoded><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스인 GDC(Game Developer Conference)는 본래 기업 대 기업(B2B)과 기업 대 소비자(B2C) 부스가 모두 마련된 행사로 알려져있다. 일반 이용자를 대상으로 게임을 선보이는 기업부터, 게임사를 대상으로 클라우드 등 소프트웨어를 서비스하는 업체까지. 게…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[펄어비스 자회사 넷텐션, 블록체인 게임 엔진 개발…플레이댑과 협약 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121807</link>
+            <guid>https://n.news.naver.com/article/138/0002121807</guid>
+            <pubDate>Wed, 30 Mar 2022 07:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>13분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121807.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헥슬란트, 미레에셋·카카오인베 등으로부터 65억 투자 유치 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121801</link>
+            <guid>https://n.news.naver.com/article/138/0002121801</guid>
+            <pubDate>Wed, 30 Mar 2022 07:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>44분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121801.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샌드박스네트워크, 카카오게임즈‧보라와 협업해 P2E 게임 개발 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121794</link>
             <guid>https://n.news.naver.com/article/138/0002121794</guid>
             <pubDate>Wed, 30 Mar 2022 06:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121794.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +157,7 @@
             <link>https://n.news.naver.com/article/138/0002121713</link>
             <guid>https://n.news.naver.com/article/138/0002121713</guid>
             <pubDate>Tue, 29 Mar 2022 07:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -247,22 +263,6 @@
             <pubDate>Wed, 23 Mar 2022 02:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121274.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 2022] 게임 개발자 이목 집중시킨 장현국 발표…위메이드, 내년 오픈 SDK 출시 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121244</link>
-            <guid>https://n.news.naver.com/article/138/0002121244</guid>
-            <pubDate>Tue, 22 Mar 2022 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121244.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 2022] 글로벌 무대 나선 위메이드 장현국의 일성은? (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121243</link>
-            <guid>https://n.news.naver.com/article/138/0002121243</guid>
-            <pubDate>Tue, 22 Mar 2022 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
