@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-30T03:23:12.322Z</updated>
+    <updated>2022-03-30T04:05:28.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샌드박스네트워크, 카카오게임즈‧보라와 협업해 P2E 게임 개발]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234493</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234493"/>
+        <updated>2022-03-30T04:05:18.384Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 샌드박스네트워크가 연내 3종의 ‘플레이 투 언(Play to Earn, P2E)’ 게임을 출시한다. 이 과정에서 카카오게임즈 및 메타보라와 협업할 예정이다.한장겸 샌드박스네트워크 NFT 사업총괄 이사는 30일 서울 강남구 e스포츠 복합문화공간에서 열린 기자간담회에서 “올해 ‘메타토이드래곤즈’ IP(지식재산권)를 활…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수장 바뀐 샌드박스게이밍(SBXG), 장학금 포함된 ‘P2E 게임 길드’ 만든다]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234490</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234490"/>
+        <updated>2022-03-30T04:05:18.384Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 샌드박스네트워크의 E스포츠 자회사인 샌드박스게이밍이 ‘SBXG’로 사명을 바꾸고, 기존 이필성 최고경영자(CEO)에서 정인모 CEO로 수장을 변경한다. 이와 함께 ‘플레이 투 언(Play to Earn, P2E)’ 게임 길드를 직접 구축한다. SBXG는 30일 서울 강남구 e스포츠 복합문화공간에서 개최한 기자간담회에서 정…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위메이드, 현대백화점과 손잡고 '호랑이 NFT' 증정 마케팅 진행]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234412</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234011"/>
         <updated>2022-03-24T05:03:23.364Z</updated>
         <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 세계 최대 게임 개발자 컨퍼런스인 GDC(Game Developer Conference)는 본래 기업 대 기업(B2B)과 기업 대 소비자(B2C) 부스가 모두 마련된 행사로 알려져있다. 일반 이용자를 대상으로 게임을 선보이는 기업부터, 게임사를 대상으로 클라우드 등 소프트웨어를 서비스하는 업체까지. 게…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 장현국 “메인넷 구축 후 클레이튼과 ‘브릿지’로 연결” [GDC 2022]]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233994</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233994"/>
-        <updated>2022-03-24T00:24:28.800Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 자체 블록체인 플랫폼 메인넷을 구축하고, 이를 현재 기반 플랫폼인 ‘클레이튼’과 브릿지 기술로 연결할 예정이다. 브릿지 기술은 서로 다른 블록체인 플랫폼 간 자산 이동을 가능하게 해주는 연결 솔루션을 말한다.장현국 위메이드 대표는 23일(현지시간) 미국 샌프란시스코에서 열린 GD…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위메이드, 스테이블코인 ‘위믹스달러’ 만든다… 'NFT DAO' 올해 구축]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=233989</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=233989"/>
-        <updated>2022-03-24T00:24:28.803Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 위메이드가 올해 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 중심의 탈중앙화자율조직(DAO)을 만든다. 또 상반기 내에는 탈중앙화금융(De-fi, 디파이) 서비스를 위한 스테이블코인 ‘위믹스 달러’를 출시한다. 장현국 위메이드 대표는 23일(현지시간) 미국 샌프란시스코에서 열…]]></content>
     </entry>
 </feed>
