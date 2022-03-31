@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-31T03:20:59.287Z</updated>
+    <updated>2022-03-31T04:05:58.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 타임지, 영향력 있는 100대 기업에 ‘하이브’ 선정…NFT 사업 언급]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234588</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234588"/>
+        <updated>2022-03-31T04:05:48.452Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 미국 시사주간지 타임(TIME)이 ‘세계에서 가장 영향력 있는 100대 기업’에 2년 연속으로 하이브(HYBE)를 선정했다. 이와 함께 하이브가 업비트 운영사 두나무와 함께 추진 중인 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업을 주목했다. 31일 하이브는 타임지의 100대 기업 리스트 중 ‘팝 파…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주주 만난 장현국 “위믹스 활용한 투자, 유동화 없이 가능”]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234580</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234580"/>
+        <updated>2022-03-31T04:05:48.453Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 위메이드가 더 이상 가상자산 위믹스(WEMIX)를 유동화하지 않겠다고 밝힌 가운데, 유동화 없이도 위믹스를 활용해 투자할 수 있는 방안을 밝혔다. 장현국 위메이드 대표는 31일 주주총회 이후 열린 ‘주주와의 대화’에서 “위믹스를 활용한 투자와 관련, 작년엔 방안이 많지 않아서 시장을 통해 유동화를 했는데, 지금은…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이미 주요 은행급…두나무, 작년 영업익 3조 2700억원]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234562</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234234"/>
         <updated>2022-03-28T02:24:44.700Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.이번주는 주간 블록체인이 ‘GDC 2022’ 출장으로 하루 늦었습니다. 지난주 미국 샌프란시스코에서는 세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’가 개최됐는데요. GDC는 전 세계 게임 업계 종사자들이 가장 주목하는 행사인데, 올해는…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 세계 최대 블록체인 게임 길드 ‘YGG’는 어떻게 운영될까? [GDC 2022]]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234140</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234140"/>
-        <updated>2022-03-25T07:03:43.921Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 블록체인 기반 게임을 논할 때 가장 먼저 등장하는 게임은 단연 엑시인피니티다. 블록체인 기반 게임 중에선 처음으로 전 세계적 유행을 불러일으켰을뿐더러, ‘플레이 투 언(Play to Earn)’이라는 표현이 나오는 계기를 만들었기 때문이다.엑시인피니티가 성공한 배경에는 장학금 제도가 있다. 엑시…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[GDC 2022] 샌프란시스코 총영사, 위메이드 부스 찾았다]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234115</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234115"/>
-        <updated>2022-03-24T23:02:57.895Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 윤상수 샌프란시스코 총영사가 GDC 2022의 위메이드 부스를 방문, 한국 기업의 선전을 격려했다.24일(현지시간) 세계 최대 게임 개발자 컨퍼런스 GDC 2022에서 위메이드 부스를 찾은 윤 총영사는 “팬데믹 이후 한동안 멈췄던 오프라인 컨퍼런스가 올해 초 CES를 계기로 다시 활성화되기 시작했다…]]></content>
     </entry>
 </feed>

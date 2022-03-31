@@ -4,15 +4,31 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 03:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 04:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 타임지, 영향력 있는 100대 기업에 ‘하이브’ 선정…NFT 사업 언급]]></title>
+            <link>https://n.news.naver.com/article/138/0002121878</link>
+            <guid>https://n.news.naver.com/article/138/0002121878</guid>
+            <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121878.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주주 만난 장현국 “위믹스 활용한 투자, 유동화 없이 가능”]]></title>
+            <link>https://n.news.naver.com/article/138/0002121875</link>
+            <guid>https://n.news.naver.com/article/138/0002121875</guid>
+            <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121875.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이미 주요 은행급…두나무, 작년 영업익 3조 2700억원]]></title>
             <link>https://n.news.naver.com/article/138/0002121858</link>
             <guid>https://n.news.naver.com/article/138/0002121858</guid>
             <pubDate>Thu, 31 Mar 2022 02:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121858.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002121807</link>
             <guid>https://n.news.naver.com/article/138/0002121807</guid>
             <pubDate>Wed, 30 Mar 2022 07:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121807.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002121801</link>
             <guid>https://n.news.naver.com/article/138/0002121801</guid>
             <pubDate>Wed, 30 Mar 2022 07:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121801.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002121792</link>
             <guid>https://n.news.naver.com/article/138/0002121792</guid>
             <pubDate>Wed, 30 Mar 2022 04:05:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -142,22 +158,6 @@
             <pubDate>Thu, 24 Mar 2022 02:18:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121339.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 스테이블코인 ‘위믹스달러’ 만든다… 'NFT DAO' 올해 구축]]></title>
-            <link>https://n.news.naver.com/article/138/0002121334</link>
-            <guid>https://n.news.naver.com/article/138/0002121334</guid>
-            <pubDate>Wed, 30 Mar 2022 16:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121334.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 2022] F2P(부분유료화) 게임 세션서 ‘블록체인’이 핫 키워드 된 이유]]></title>
-            <link>https://n.news.naver.com/article/138/0002121282</link>
-            <guid>https://n.news.naver.com/article/138/0002121282</guid>
-            <pubDate>Wed, 23 Mar 2022 04:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121282.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
