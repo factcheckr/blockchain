@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 09:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 10:06:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송치형 두나무 의장, 배당금 513억 받는다…작년 연봉은 98억]]></title>
+            <link>https://n.news.naver.com/article/138/0002121937</link>
+            <guid>https://n.news.naver.com/article/138/0002121937</guid>
+            <pubDate>Thu, 31 Mar 2022 10:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>44분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121937.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“웹 3.0 엔터 기업 되겠다” 큐브의 행보…‘리퍼블릭’과도 협업]]></title>
             <link>https://n.news.naver.com/article/138/0002121909</link>
             <guid>https://n.news.naver.com/article/138/0002121909</guid>
             <pubDate>Thu, 31 Mar 2022 08:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121909.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002121901</link>
             <guid>https://n.news.naver.com/article/138/0002121901</guid>
             <pubDate>Thu, 31 Mar 2022 07:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121901.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002121878</link>
             <guid>https://n.news.naver.com/article/138/0002121878</guid>
             <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121878.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002121875</link>
             <guid>https://n.news.naver.com/article/138/0002121875</guid>
             <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002121858</link>
             <guid>https://n.news.naver.com/article/138/0002121858</guid>
             <pubDate>Thu, 31 Mar 2022 02:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121858.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -150,14 +158,6 @@
             <pubDate>Fri, 25 Mar 2022 00:24:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/25/2121448.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 더 샌드박스 대표 “NFT에 열린 사람들 크게 늘었다” [GDC 2022]]]></title>
-            <link>https://n.news.naver.com/article/138/0002121447</link>
-            <guid>https://n.news.naver.com/article/138/0002121447</guid>
-            <pubDate>Thu, 24 Mar 2022 23:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/25/2121447.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
