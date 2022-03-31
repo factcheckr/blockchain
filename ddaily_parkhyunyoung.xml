@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-03-31T00:25:13.950Z</updated>
+    <updated>2022-03-31T02:20:18.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이미 주요 은행급…두나무, 작년 영업익 3조 2700억원]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234562</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234562"/>
+        <updated>2022-03-31T02:20:07.997Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영] 업비트 운영사 두나무가 지난해 영업이익 3조 2714억원, 당기순이익 2조 2411억원을 기록했다. 두나무는 31일 정기 주주총회를 열고 2021년도 재무제표 승인 등 총 4가지 안건이 상정돼 주주총회를 통과했다고 밝혔다. 지난해 가상자산 시장 규모가 크게 성장하면서 영업이익은 3조 2714억원으로 전년 대비 무려 3600% 가량…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펄어비스 자회사 넷텐션, 블록체인 게임 엔진 개발…플레이댑과 협약]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234512</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234115"/>
         <updated>2022-03-24T23:02:57.895Z</updated>
         <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] 윤상수 샌프란시스코 총영사가 GDC 2022의 위메이드 부스를 방문, 한국 기업의 선전을 격려했다.24일(현지시간) 세계 최대 게임 개발자 컨퍼런스 GDC 2022에서 위메이드 부스를 찾은 윤 총영사는 “팬데믹 이후 한동안 멈췄던 오프라인 컨퍼런스가 올해 초 CES를 계기로 다시 활성화되기 시작했다…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 더 샌드박스 대표 “NFT에 열린 사람들 크게 늘었다” [GDC 2022]]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234112</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234112"/>
-        <updated>2022-03-24T22:04:42.882Z</updated>
-        <content type="html"><![CDATA[[미국 샌프란시스코=디지털데일리 박현영기자] “GDC는 개인적으로 가장 좋아하는 게임 행사입니다. 2012년부터 매년 참여했는데, 올해는 NFT와 블록체인에 대한 참가자들의 이해도가 매우 높아졌고, NFT에 열려있는 사람들도 많아졌습니다”.세바스티앙 보르제(Sebastien Borget) 더 샌드박스 대표는 24일(현지시간) 미국 샌프란시…]]></content>
     </entry>
 </feed>
