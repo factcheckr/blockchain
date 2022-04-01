@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 02:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 03:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] “그동안 게임 시장에선 블록체인 기술이나 NFT를 향한 안 좋은 시선이 많았는데, 이번 GDC에선 블록체인이 펀더멘털 기술로 뜨고 있다는 것을 확인했습니다. 블록체인, 플레이 투 언(Play to Earn)이 주류 모멘텀이 된 듯 합니다.”세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’가 열린 미국 샌프란시스코에서 서기…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[서울옥션블루, PFP NFT 발행…'글루와'와 협업 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121977</link>
+            <guid>https://n.news.naver.com/article/138/0002121977</guid>
+            <pubDate>Fri, 01 Apr 2022 03:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>49분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121977.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빗썸, 작년 매출 1조원대…영업익 7800억원 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121970</link>
             <guid>https://n.news.naver.com/article/138/0002121970</guid>
             <pubDate>Fri, 01 Apr 2022 02:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>43분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121970.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002121937</link>
             <guid>https://n.news.naver.com/article/138/0002121937</guid>
             <pubDate>Thu, 31 Mar 2022 10:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002121909</link>
             <guid>https://n.news.naver.com/article/138/0002121909</guid>
             <pubDate>Thu, 31 Mar 2022 08:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121909.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002121901</link>
             <guid>https://n.news.naver.com/article/138/0002121901</guid>
             <pubDate>Thu, 31 Mar 2022 07:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121901.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -149,7 +157,7 @@
             <link>https://n.news.naver.com/article/138/0002121878</link>
             <guid>https://n.news.naver.com/article/138/0002121878</guid>
             <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121878.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -197,7 +205,7 @@
             <link>https://n.news.naver.com/article/138/0002121792</link>
             <guid>https://n.news.naver.com/article/138/0002121792</guid>
             <pubDate>Wed, 30 Mar 2022 04:05:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 25 Mar 2022 03:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/25/2121476.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GDC 2022] 샌프란시스코 총영사, 위메이드 부스 찾았다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121448</link>
-            <guid>https://n.news.naver.com/article/138/0002121448</guid>
-            <pubDate>Fri, 25 Mar 2022 00:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/25/2121448.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
