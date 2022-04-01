@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-04-01T05:04:04.708Z</updated>
+    <updated>2022-04-01T06:09:03.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위메이드, ‘위믹스’ 중심 조직개편…게임 플랫폼‧퍼블릭 체인 부문 신설]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234699</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234699"/>
+        <updated>2022-04-01T06:08:54.263Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 위메이드가 글로벌 경쟁력 확보를 위한 조직개편을 실시했다고 1일 밝혔다. 우선 위메이드는 블록체인 플랫폼 ‘위믹스’가 글로벌 플랫폼으로 자리매김하기 위한 전략을 실행하고자 ‘게임 플랫폼’ 부문을 신설했다. 해당 부문은 송모헌 부사장이 총괄하며, 위믹스에 온보딩되는 게임들이 안정적으로 서비스를 제공하도…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코빗, 11번가 고객 대상 출석체크 이벤트 진행]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234691</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234691"/>
+        <updated>2022-04-01T06:08:54.265Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 국내 가상자산 거래소 코빗이 4월 한 달간 11번가 고객을 대상으로 출석체크 이벤트를 진행한다고 1일 밝혔다.11번가 사용자는 이달 내내 11번가 애플리케이션(앱)에 출석하면 1000원 상당의 비트코인(BTC) 쿠폰을 받을 수 있다. 다운로드한 쿠폰은 다음달 31일까지 코빗 거래소 앱에 등록할 수 있다.사용자는 11번가 앱…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울옥션블루, PFP NFT 발행…'글루와'와 협업]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234685</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234412"/>
         <updated>2022-03-29T09:03:42.010Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 위메이드가 현대백화점과 손잡고 대체불가능한 토큰(Non-Fungible Token, 이하 NFT)을 활용한 마케팅에 나선다.29일 위메이드는 이벤트 기간 중 현대백화점 카드를 발급받은 신규 회원 1000명에게 NFT를 전달한다고 밝혔다. 전달 예정인 NFT는 2022년 호랑이해를 기념하는 ‘기운찬 호랑이’ NFT로,…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐브엔터, NFT 사업 속도…블록체인 기업 '네스트리' 유상증자 참여]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234407</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234407"/>
-        <updated>2022-03-29T09:03:42.012Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 큐브엔터테인먼트가 블록체인 기술기업 네스트리미디어그룹(네스트리) 유상증자에 참여한다고 29일 밝혔다. 큐브엔터는 네스트리의 지분을 인수해 블록체인 및 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 전문 기술을 확보할 계획이다. 또 세계 최대 블록체인 게임사 애니모카브랜즈와 설립한 합작…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] “블록체인‧웹 3.0, 주류 모멘텀 됐다”…GDC 찾은 플라네타리움]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234381</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234381"/>
-        <updated>2022-03-29T05:05:01.960Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] “그동안 게임 시장에선 블록체인 기술이나 NFT를 향한 안 좋은 시선이 많았는데, 이번 GDC에선 블록체인이 펀더멘털 기술로 뜨고 있다는 것을 확인했습니다. 블록체인, 플레이 투 언(Play to Earn)이 주류 모멘텀이 된 듯 합니다.”세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’가 열린 미국 샌프란시스코에서 서기…]]></content>
     </entry>
 </feed>
