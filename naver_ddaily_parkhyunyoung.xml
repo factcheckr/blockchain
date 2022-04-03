@@ -4,17 +4,9 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 14:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 15:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[주간 블록체인] 은행·증권사 넘어섰다? ‘탑2 거래소’ 실적으로 보는 코인시장 성장세]]></title>
-            <link>https://n.news.naver.com/article/138/0002122042</link>
-            <guid>https://n.news.naver.com/article/138/0002122042</guid>
-            <pubDate>Sun, 03 Apr 2022 03:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/03/2122042.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[위메이드, ‘위믹스’ 중심 조직개편…게임 플랫폼‧퍼블릭 체인 부문 신설]]></title>
             <link>https://n.news.naver.com/article/138/0002121992</link>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 28 Mar 2022 08:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121628.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[F&B 업계도 ‘NFT’ 바람…맘스터치, NFT 시장 진출]]></title>
+            <link>https://n.news.naver.com/article/138/0002121592</link>
+            <guid>https://n.news.naver.com/article/138/0002121592</guid>
+            <pubDate>Sun, 03 Apr 2022 15:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
