@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 15:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 16:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,14 +225,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위메이드, 현대백화점과 손잡고 '호랑이 NFT' 증정 마케팅 진행 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121722</link>
-            <guid>https://n.news.naver.com/article/138/0002121722</guid>
-            <pubDate>Sun, 03 Apr 2022 11:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121722.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[큐브엔터, NFT 사업 속도…블록체인 기업 '네스트리' 유상증자 참여 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121713</link>
             <guid>https://n.news.naver.com/article/138/0002121713</guid>
@@ -271,6 +263,14 @@
             <pubDate>Sun, 03 Apr 2022 15:04:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121592.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싸이월드, 가상자산 '도토리' 발행…‘제 2의 클링’ 우려 극복할까 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121591</link>
+            <guid>https://n.news.naver.com/article/138/0002121591</guid>
+            <pubDate>Sun, 03 Apr 2022 16:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
