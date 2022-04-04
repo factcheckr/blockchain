@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-04-04T11:03:22.282Z</updated>
+    <updated>2022-04-04T12:09:25.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클레이튼 DEX '클레이스왑', 폴리곤 기반으로 확장된다]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234863</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234863"/>
+        <updated>2022-04-04T12:09:16.596Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 탈중앙화 거래소(DEX) 클레이스왑이 블록체인 플랫폼 '폴리곤' 버전으로 출시됐다. 4일 클레이스왑 개발사 오지스는 클레이스왑의 폴리곤 버전 '메시스왑'을 선공개했다고 밝혔다. 정식 출시 시점은 이달 말이다.본래 클레이스왑은 카카오의 퍼블릭 블록체인 플랫폼 '클레이튼'을 기반으로 하는 DEX다. 오지스는 글로벌 시…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드디어 문 연 싸이월드, 가상자산 ‘도토리·코넌' 어떻게 활용되나]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234857</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234857"/>
+        <updated>2022-04-04T12:09:16.603Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 싸이월드가 지난 2일 모바일 애플리케이션(앱) 서비스를 오픈한 가운데, 싸이월드가 발행하는 가상자산 도토리(DTR)와 싸이월드가 ‘패밀리 가상자산’으로 택한 코넌(CON)이 각각 어떻게 활용될 것인지에 대해서도 관심이 집중되고 있다.◆가상자산 도토리(DTR) 쓰임새는?현재 싸이월드 모바일 앱에선 앱 내 결제로…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["UI·UX에 집중"…코빗, 아이패드 전용 앱 출시]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234823</id>
@@ -95,19 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234562"/>
         <updated>2022-03-31T02:20:07.997Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영] 업비트 운영사 두나무가 지난해 영업이익 3조 2714억원, 당기순이익 2조 2411억원을 기록했다. 두나무는 31일 정기 주주총회를 열고 2021년도 재무제표 승인 등 총 4가지 안건이 상정돼 주주총회를 통과했다고 밝혔다. 지난해 가상자산 시장 규모가 크게 성장하면서 영업이익은 3조 2714억원으로 전년 대비 무려 3600% 가량…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펄어비스 자회사 넷텐션, 블록체인 게임 엔진 개발…플레이댑과 협약]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234512</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234512"/>
-        <updated>2022-03-30T13:18:32.943Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 서비스 플랫폼 플레이댑이 펄어비스의 자회사 넷텐션과 전략적 업무협약(MOU)을 체결했다고 30일 밝혔다. 양사는 플레이댑의 블록체인 기술과 넷텐션의 개인 간 거래(P2P) 서버 엔진 기술을 결합, 이용자 중심의 탈중앙화 게임을 개발할 계획이다. 넷텐션은 실시간 멀티플레이에 특화된 P2P 서버 엔진 ‘프라우…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헥슬란트, 미레에셋·카카오인베 등으로부터 65억 투자 유치]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234506</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234506"/>
-        <updated>2022-03-30T13:18:32.943Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 기술기업 헥슬란트가 미래에셋캐피탈, 카카오인베스트먼트, 에이벤처스 등 벤처캐피탈로부터 65억 규모 시리즈 A 투자를 유치했다고 30일 밝혔다. 헥슬란트는 블록체인 기술 도입을 돕는 ‘옥텟’ 솔루션을 시장에 제공하고 있다. 옥텟은 대체불가능한 토큰(Non-Fungible Token, NFT), 플레이 투 언…]]></content>
     </entry>
 </feed>

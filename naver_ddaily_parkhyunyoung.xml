@@ -4,7 +4,7 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 11:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 12:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,23 +12,15 @@
             <link>https://n.news.naver.com/article/138/0002122115</link>
             <guid>https://n.news.naver.com/article/138/0002122115</guid>
             <pubDate>Mon, 04 Apr 2022 08:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122115.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 문 연 싸이월드, 가상자산 ‘도토리·코넌' 어떻게 활용되나]]></title>
-            <link>https://n.news.naver.com/article/138/0002122113</link>
-            <guid>https://n.news.naver.com/article/138/0002122113</guid>
-            <pubDate>Mon, 04 Apr 2022 08:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["UI·UX에 집중"…코빗, 아이패드 전용 앱 출시]]></title>
             <link>https://n.news.naver.com/article/138/0002122072</link>
             <guid>https://n.news.naver.com/article/138/0002122072</guid>
             <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002122068</link>
             <guid>https://n.news.naver.com/article/138/0002122068</guid>
             <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122068.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 30 Mar 2022 04:05:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121792.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위메이드, 현대백화점과 손잡고 '호랑이 NFT' 증정 마케팅 진행]]></title>
+            <link>https://n.news.naver.com/article/138/0002121722</link>
+            <guid>https://n.news.naver.com/article/138/0002121722</guid>
+            <pubDate>Mon, 04 Apr 2022 12:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121722.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[큐브엔터, NFT 사업 속도…블록체인 기업 '네스트리' 유상증자 참여]]></title>
