@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 00:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 VC부터 위메이드까지, ‘라인 출신’ 이홍규의 블록체인 게임사에 투자 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=234900</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=234900</guid>
+            <pubDate>Tue, 05 Apr 2022 02:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 블록체인 게임 개발사 ‘이스크라’가 420억 규모 시드 투자를 유치했다고 5일 밝혔다. 이스크라는 라인의 블록체인 사업을 이끌었던 이홍규 전 언체인 대표가 창업한 기업이다. 투자에는 국내 게임사 및 벤처캐피탈(VC)이 여럿 참여했다. 카카오의 블록체인 자회사인 크러스트, 위메이드, NHN빅풋, 네오위즈, 메타보라 등…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[클레이튼 DEX '클레이스왑', 폴리곤 기반으로 확장된다 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=234863</link>
@@ -106,18 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 위메이드가 더 이상 가상자산 위믹스(WEMIX)를 유동화하지 않겠다고 밝힌 가운데, 유동화 없이도 위믹스를 활용해 투자할 수 있는 방안을 밝혔다. 장현국 위메이드 대표는 31일 주주총회 이후 열린 ‘주주와의 대화’에서 “위믹스를 활용한 투자와 관련, 작년엔 방안이 많지 않아서 시장을 통해 유동화를 했는데, 지금은…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이미 주요 은행급…두나무, 작년 영업익 3조 2700억원 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=234562</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=234562</guid>
-            <pubDate>Thu, 31 Mar 2022 02:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영] 업비트 운영사 두나무가 지난해 영업이익 3조 2714억원, 당기순이익 2조 2411억원을 기록했다. 두나무는 31일 정기 주주총회를 열고 2021년도 재무제표 승인 등 총 4가지 안건이 상정돼 주주총회를 통과했다고 밝혔다. 지난해 가상자산 시장 규모가 크게 성장하면서 영업이익은 3조 2714억원으로 전년 대비 무려 3600% 가량…]]></content:encoded>
+            <title><![CDATA[카카오 VC부터 위메이드까지, ‘라인 출신’ 이홍규의 블록체인 게임사에 투자 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122152</link>
+            <guid>https://n.news.naver.com/article/138/0002122152</guid>
+            <pubDate>Tue, 05 Apr 2022 02:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이튼 DEX '클레이스왑', 폴리곤 기반으로 확장된다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122115</link>
             <guid>https://n.news.naver.com/article/138/0002122115</guid>
             <pubDate>Mon, 04 Apr 2022 08:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122115.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002122072</link>
             <guid>https://n.news.naver.com/article/138/0002122072</guid>
             <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002122068</link>
             <guid>https://n.news.naver.com/article/138/0002122068</guid>
             <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122068.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -165,7 +173,7 @@
             <link>https://n.news.naver.com/article/138/0002121970</link>
             <guid>https://n.news.naver.com/article/138/0002121970</guid>
             <pubDate>Fri, 01 Apr 2022 02:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121970.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -213,7 +221,7 @@
             <link>https://n.news.naver.com/article/138/0002121858</link>
             <guid>https://n.news.naver.com/article/138/0002121858</guid>
             <pubDate>Thu, 31 Mar 2022 02:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121858.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -263,14 +271,6 @@
             <pubDate>Tue, 29 Mar 2022 07:04:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121713.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] “블록체인‧웹 3.0, 주류 모멘텀 됐다”…GDC 찾은 플라네타리움 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121696</link>
-            <guid>https://n.news.naver.com/article/138/0002121696</guid>
-            <pubDate>Tue, 29 Mar 2022 06:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

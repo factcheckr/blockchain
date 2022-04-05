@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-04-05T00:25:56.112Z</updated>
+    <updated>2022-04-05T02:20:02.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오 VC부터 위메이드까지, ‘라인 출신’ 이홍규의 블록체인 게임사에 투자]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=234900</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=234900"/>
+        <updated>2022-04-05T02:19:52.634Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 게임 개발사 ‘이스크라’가 420억 규모 시드 투자를 유치했다고 5일 밝혔다. 이스크라는 라인의 블록체인 사업을 이끌었던 이홍규 전 언체인 대표가 창업한 기업이다. 투자에는 국내 게임사 및 벤처캐피탈(VC)이 여럿 참여했다. 카카오의 블록체인 자회사인 크러스트, 위메이드, NHN빅풋, 네오위즈, 메타보라 등…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클레이튼 DEX '클레이스왑', 폴리곤 기반으로 확장된다]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234863</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234580"/>
         <updated>2022-03-31T04:05:48.453Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 위메이드가 더 이상 가상자산 위믹스(WEMIX)를 유동화하지 않겠다고 밝힌 가운데, 유동화 없이도 위믹스를 활용해 투자할 수 있는 방안을 밝혔다. 장현국 위메이드 대표는 31일 주주총회 이후 열린 ‘주주와의 대화’에서 “위믹스를 활용한 투자와 관련, 작년엔 방안이 많지 않아서 시장을 통해 유동화를 했는데, 지금은…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미 주요 은행급…두나무, 작년 영업익 3조 2700억원]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234562</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234562"/>
-        <updated>2022-03-31T02:20:07.997Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영] 업비트 운영사 두나무가 지난해 영업이익 3조 2714억원, 당기순이익 2조 2411억원을 기록했다. 두나무는 31일 정기 주주총회를 열고 2021년도 재무제표 승인 등 총 4가지 안건이 상정돼 주주총회를 통과했다고 밝혔다. 지난해 가상자산 시장 규모가 크게 성장하면서 영업이익은 3조 2714억원으로 전년 대비 무려 3600% 가량…]]></content>
     </entry>
 </feed>
