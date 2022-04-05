@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 03:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 04:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 미국 시사주간지 타임(TIME)이 ‘세계에서 가장 영향력 있는 100대 기업’에 2년 연속으로 하이브(HYBE)를 선정했다. 이와 함께 하이브가 업비트 운영사 두나무와 함께 추진 중인 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업을 주목했다. 31일 하이브는 타임지의 100대 기업 리스트 중 ‘팝 파…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[“너도 나도 민팅” PFP NFT 난립…주의해야 할 점은? (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122168</link>
+            <guid>https://n.news.naver.com/article/138/0002122168</guid>
+            <pubDate>Tue, 05 Apr 2022 04:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122168.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오 VC부터 위메이드까지, ‘라인 출신’ 이홍규의 블록체인 게임사에 투자 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122152</link>
             <guid>https://n.news.naver.com/article/138/0002122152</guid>
             <pubDate>Tue, 05 Apr 2022 02:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002122115</link>
             <guid>https://n.news.naver.com/article/138/0002122115</guid>
             <pubDate>Mon, 04 Apr 2022 08:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122115.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -165,7 +173,7 @@
             <link>https://n.news.naver.com/article/138/0002121977</link>
             <guid>https://n.news.naver.com/article/138/0002121977</guid>
             <pubDate>Fri, 01 Apr 2022 03:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121977.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -205,7 +213,7 @@
             <link>https://n.news.naver.com/article/138/0002121878</link>
             <guid>https://n.news.naver.com/article/138/0002121878</guid>
             <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121878.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -213,7 +221,7 @@
             <link>https://n.news.naver.com/article/138/0002121875</link>
             <guid>https://n.news.naver.com/article/138/0002121875</guid>
             <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -253,7 +261,7 @@
             <link>https://n.news.naver.com/article/138/0002121792</link>
             <guid>https://n.news.naver.com/article/138/0002121792</guid>
             <pubDate>Wed, 30 Mar 2022 04:05:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -263,14 +271,6 @@
             <pubDate>Mon, 04 Apr 2022 12:09:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121722.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐브엔터, NFT 사업 속도…블록체인 기업 '네스트리' 유상증자 참여 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121713</link>
-            <guid>https://n.news.naver.com/article/138/0002121713</guid>
-            <pubDate>Tue, 29 Mar 2022 07:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
