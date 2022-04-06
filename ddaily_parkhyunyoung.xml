@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-04-06T02:22:35.318Z</updated>
+    <updated>2022-04-06T03:21:39.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들부터 아이즈원 출신 사쿠라까지…엔터사 NFT 본격 가동]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=235017</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=235017"/>
+        <updated>2022-04-06T03:21:29.172Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 대형 엔터테인먼트 기업들이 일제히 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업 진출을 선언한 가운데, 로드맵만 나와있던 엔터사들의 NFT 사업이 본격적으로 가동되기 시작했다. 6일 업계에 따르면 하이브, 큐브엔터테인먼트 등 굵직한 엔터사들이 최근 NFT 민팅(발행)에 나섰다. 그동안 NF…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헥슬란트, 지갑 솔루션 ‘옥텟’서 KYC 기능 지원]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=234930</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234622"/>
         <updated>2022-03-31T09:07:30.589Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 큐브엔터테인먼트가 글로벌 블록체인 투자기업인 리퍼블릭(Republic)과 업무협약(MOU)을 체결했다고 31일 밝혔다. 큐브엔터는 최근 블록체인 기업 ‘네스트리’에 지분 투자를 진행한 데 이어 리퍼블릭과의 업무협약을 통해 애니큐브의 메타버스 사업을 가속화한다. 애니큐브는 큐브엔터가 세계 최대 블록체인 게…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센트비, 리브랜딩 진행…"글로벌 핀테크 기업으로 도약"]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234613</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234613"/>
-        <updated>2022-03-31T06:07:58.092Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 핀테크 기업 센트비가 리브랜딩을 통해 상징 로고와 컬러를 전면 교체했다고 31일 밝혔다. 센트비는 이번 리브랜딩을 기점으로 북미 등 글로벌 시장에 진출할 예정이다. 단순 해외송금 기업이 아닌 외환 분야 솔루션을 선도하는 글로벌 핀테크 기업으로 도약하고자 리브랜딩을 진행했다고 센트비 측은 설명했다. 센트비의 새…]]></content>
     </entry>
 </feed>
