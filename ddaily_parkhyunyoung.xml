@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-04-07T06:08:17.957Z</updated>
+    <updated>2022-04-07T07:03:52.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이두희표 P2E 게임 실타래, 베트남 대표 MCN과 협업]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=235129</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=235129"/>
+        <updated>2022-04-07T07:03:42.960Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 트레이딩 카드게임 '실타래'가 베트남 대표 다중채널네트워크(MCN) ‘크리에이토리’와 손을 잡았다. 7일 실타래 운영사인 라이크라이온은 크리에이토리와 업무협약(MOU)을 체결하고 베트남 이용자 확보를 위한 협력체계를 구축했다고 밝혔다. 라이크…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클레이튼‧솔라나‧테라 ‘3파전’…국내 게임사들이 택한 블록체인 플랫폼 전략 비교]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=235103</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234699"/>
         <updated>2022-04-01T06:08:54.263Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 위메이드가 글로벌 경쟁력 확보를 위한 조직개편을 실시했다고 1일 밝혔다. 우선 위메이드는 블록체인 플랫폼 ‘위믹스’가 글로벌 플랫폼으로 자리매김하기 위한 전략을 실행하고자 ‘게임 플랫폼’ 부문을 신설했다. 해당 부문은 송모헌 부사장이 총괄하며, 위믹스에 온보딩되는 게임들이 안정적으로 서비스를 제공하도…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코빗, 11번가 고객 대상 출석체크 이벤트 진행]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234691</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234691"/>
-        <updated>2022-04-01T06:08:54.265Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 국내 가상자산 거래소 코빗이 4월 한 달간 11번가 고객을 대상으로 출석체크 이벤트를 진행한다고 1일 밝혔다.11번가 사용자는 이달 내내 11번가 애플리케이션(앱)에 출석하면 1000원 상당의 비트코인(BTC) 쿠폰을 받을 수 있다. 다운로드한 쿠폰은 다음달 31일까지 코빗 거래소 앱에 등록할 수 있다.사용자는 11번가 앱…]]></content>
     </entry>
 </feed>

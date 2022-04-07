@@ -4,9 +4,17 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 06:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 07:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이두희표 P2E 게임 실타래, 베트남 대표 MCN과 협업]]></title>
+            <link>https://n.news.naver.com/article/138/0002122358</link>
+            <guid>https://n.news.naver.com/article/138/0002122358</guid>
+            <pubDate>Thu, 07 Apr 2022 07:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>16분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클레이튼‧솔라나‧테라 ‘3파전’…국내 게임사들이 택한 블록체인 플랫폼 전략 비교]]></title>
             <link>https://n.news.naver.com/article/138/0002122335</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121878.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주주 만난 장현국 “위믹스 활용한 투자, 유동화 없이 가능”]]></title>
-            <link>https://n.news.naver.com/article/138/0002121875</link>
-            <guid>https://n.news.naver.com/article/138/0002121875</guid>
-            <pubDate>Thu, 31 Mar 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
