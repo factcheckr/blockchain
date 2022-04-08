@@ -4,7 +4,7 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002122412</link>
             <guid>https://n.news.naver.com/article/138/0002122412</guid>
             <pubDate>Fri, 08 Apr 2022 03:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/08/2122412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002122298</link>
             <guid>https://n.news.naver.com/article/138/0002122298</guid>
             <pubDate>Wed, 06 Apr 2022 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122298.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +148,7 @@
             <link>https://n.news.naver.com/article/138/0002121937</link>
             <guid>https://n.news.naver.com/article/138/0002121937</guid>
             <pubDate>Thu, 31 Mar 2022 10:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
