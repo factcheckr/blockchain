@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 23:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 00:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,16 +117,8 @@
             <link>https://n.news.naver.com/article/138/0002122358</link>
             <guid>https://n.news.naver.com/article/138/0002122358</guid>
             <pubDate>Thu, 07 Apr 2022 07:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레이튼‧솔라나‧테라 ‘3파전’…국내 게임사들이 택한 블록체인 플랫폼 전략 비교 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002122335</link>
-            <guid>https://n.news.naver.com/article/138/0002122335</guid>
-            <pubDate>Thu, 07 Apr 2022 05:03:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122335.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트 성장세 덕…송치형, 세계 가상자산 억만장자 ‘8위’‧김형년 16위 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -207,6 +199,14 @@
             <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122068.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 은행·증권사 넘어섰다? ‘탑2 거래소’ 실적으로 보는 코인시장 성장세 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122042</link>
+            <guid>https://n.news.naver.com/article/138/0002122042</guid>
+            <pubDate>Fri, 08 Apr 2022 00:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/03/2122042.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드, ‘위믹스’ 중심 조직개편…게임 플랫폼‧퍼블릭 체인 부문 신설 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
