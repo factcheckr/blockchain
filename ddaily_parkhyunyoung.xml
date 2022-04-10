@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-04-10T02:23:47.583Z</updated>
+    <updated>2022-04-10T03:21:35.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 블록체인] ‘ㄱ나니?’…부활한 싸이월드의 코인·NFT 사업, 성공 가능성은?]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=235253</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=235253"/>
+        <updated>2022-04-10T03:21:27.147Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.지난해에 이어 올해도 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 유행이 이어지는 듯합니다. 이번주 국내 블록체인·가상자산 업계에서 주목할 만했던 소식은 대부분 NFT 관련 소식이었습니다.우선 부활한 싸이월드 이…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이두희표 P2E 게임 실타래, 베트남 대표 MCN과 협업]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=235129</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234815"/>
         <updated>2022-04-04T05:03:18.221Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 빗썸이 자금세탁방지(AML) 제도에 대한 임직원의 인식을 제고하기 위해 사내 캠페인 ‘제1회 자금세탁방지의 날’을 시행했다고 4일 밝혔다.빗썸 자금세탁방지센터가 진행한 이번 캠페인은 가상자산 거래소 임직원이 준수해야 하는 자금세탁방지제도를 임직원에게 쉽게 소개하는 캠페인이다. 자금세탁…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 블록체인] 은행·증권사 넘어섰다? ‘탑2 거래소’ 실적으로 보는 코인시장 성장세]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234780</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234780"/>
-        <updated>2022-04-03T02:21:30.621Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.이번주에는 국내 ‘탑2’ 가상자산 거래소의 지난해 사업보고서가 공개됐습니다. 매출, 영업이익 등 실적부터 임원 보수, 배당금까지 확인할 수 있었는데요. 가상자산 거래소의 실적은 국내 가상자산 시장이 얼마나 성장했는지 보여주는 지표이…]]></content>
     </entry>
 </feed>

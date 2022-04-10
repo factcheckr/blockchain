@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 02:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 03:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 블록체인] ‘ㄱ나니?’…부활한 싸이월드의 코인·NFT 사업, 성공 가능성은? (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=235253</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=235253</guid>
+            <pubDate>Sun, 10 Apr 2022 03:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.지난해에 이어 올해도 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 유행이 이어지는 듯합니다. 이번주 국내 블록체인·가상자산 업계에서 주목할 만했던 소식은 대부분 NFT 관련 소식이었습니다.우선 부활한 싸이월드 이…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이두희표 P2E 게임 실타래, 베트남 대표 MCN과 협업 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=235129</link>
@@ -106,13 +113,6 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 가상자산 거래소 빗썸이 자금세탁방지(AML) 제도에 대한 임직원의 인식을 제고하기 위해 사내 캠페인 ‘제1회 자금세탁방지의 날’을 시행했다고 4일 밝혔다.빗썸 자금세탁방지센터가 진행한 이번 캠페인은 가상자산 거래소 임직원이 준수해야 하는 자금세탁방지제도를 임직원에게 쉽게 소개하는 캠페인이다. 자금세탁…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[주간 블록체인] 은행·증권사 넘어섰다? ‘탑2 거래소’ 실적으로 보는 코인시장 성장세 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=234780</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=234780</guid>
-            <pubDate>Sun, 03 Apr 2022 02:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.이번주에는 국내 ‘탑2’ 가상자산 거래소의 지난해 사업보고서가 공개됐습니다. 매출, 영업이익 등 실적부터 임원 보수, 배당금까지 확인할 수 있었는데요. 가상자산 거래소의 실적은 국내 가상자산 시장이 얼마나 성장했는지 보여주는 지표이…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[주간 블록체인] ‘ㄱ나니?’…부활한 싸이월드의 코인·NFT 사업, 성공 가능성은? (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122477</link>
             <guid>https://n.news.naver.com/article/138/0002122477</guid>
@@ -165,7 +165,7 @@
             <link>https://n.news.naver.com/article/138/0002122255</link>
             <guid>https://n.news.naver.com/article/138/0002122255</guid>
             <pubDate>Wed, 06 Apr 2022 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
