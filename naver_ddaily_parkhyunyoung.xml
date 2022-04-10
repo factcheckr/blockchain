@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 00:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 02:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 블록체인] ‘ㄱ나니?’…부활한 싸이월드의 코인·NFT 사업, 성공 가능성은?]]></title>
+            <link>https://n.news.naver.com/article/138/0002122477</link>
+            <guid>https://n.news.naver.com/article/138/0002122477</guid>
+            <pubDate>Sun, 10 Apr 2022 02:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/10/2122477.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옐런 美 재무장관, 가상자산 첫 연설…'중립' 입장 고수]]></title>
             <link>https://n.news.naver.com/article/138/0002122412</link>
             <guid>https://n.news.naver.com/article/138/0002122412</guid>
             <pubDate>Fri, 08 Apr 2022 03:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/08/2122412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/138/0002122152</link>
             <guid>https://n.news.naver.com/article/138/0002122152</guid>
             <pubDate>Tue, 05 Apr 2022 02:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002122072</link>
             <guid>https://n.news.naver.com/article/138/0002122072</guid>
             <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002122068</link>
             <guid>https://n.news.naver.com/article/138/0002122068</guid>
             <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122068.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://n.news.naver.com/article/138/0002122042</link>
             <guid>https://n.news.naver.com/article/138/0002122042</guid>
             <pubDate>Fri, 08 Apr 2022 00:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/03/2122042.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Mar 2022 08:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121909.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[센트비, 리브랜딩 진행…"글로벌 핀테크 기업으로 도약"]]></title>
-            <link>https://n.news.naver.com/article/138/0002121901</link>
-            <guid>https://n.news.naver.com/article/138/0002121901</guid>
-            <pubDate>Thu, 31 Mar 2022 07:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121901.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
