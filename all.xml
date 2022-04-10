@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 16:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,14 +129,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클레이튼‧솔라나‧테라 ‘3파전’…국내 게임사들이 택한 블록체인 플랫폼 전략 비교 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002122335</link>
-            <guid>https://n.news.naver.com/article/138/0002122335</guid>
-            <pubDate>Sun, 10 Apr 2022 14:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122335.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[업비트 성장세 덕…송치형, 세계 가상자산 억만장자 ‘8위’‧김형년 16위 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122298</link>
             <guid>https://n.news.naver.com/article/138/0002122298</guid>
@@ -199,6 +191,14 @@
             <pubDate>Mon, 04 Apr 2022 08:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122115.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 문 연 싸이월드, 가상자산 ‘도토리·코넌' 어떻게 활용되나 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122113</link>
+            <guid>https://n.news.naver.com/article/138/0002122113</guid>
+            <pubDate>Sun, 10 Apr 2022 16:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["UI·UX에 집중"…코빗, 아이패드 전용 앱 출시 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
