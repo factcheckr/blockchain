@@ -4,9 +4,17 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코빗, 작년 매출 8배 뛰었다…영업적자는 지속]]></title>
+            <link>https://n.news.naver.com/article/138/0002122562</link>
+            <guid>https://n.news.naver.com/article/138/0002122562</guid>
+            <pubDate>Mon, 11 Apr 2022 09:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>53분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122562.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이더리움 가격에 단기 호재?…“PoS 전환, 6월 이전 이뤄질 것” 전망 나와]]></title>
             <link>https://n.news.naver.com/article/138/0002122528</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Apr 2022 06:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121982.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울옥션블루, PFP NFT 발행…'글루와'와 협업]]></title>
-            <link>https://n.news.naver.com/article/138/0002121977</link>
-            <guid>https://n.news.naver.com/article/138/0002121977</guid>
-            <pubDate>Fri, 01 Apr 2022 03:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121977.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
