@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 02:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이더리움 가격에 단기 호재?…“PoS 전환, 6월 이전 이뤄질 것” 전망 나와]]></title>
+            <link>https://n.news.naver.com/article/138/0002122528</link>
+            <guid>https://n.news.naver.com/article/138/0002122528</guid>
+            <pubDate>Mon, 11 Apr 2022 03:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>53분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122528.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[증권플러스 앱에서 업비트 코인 시세 본다]]></title>
             <link>https://n.news.naver.com/article/138/0002122512</link>
             <guid>https://n.news.naver.com/article/138/0002122512</guid>
             <pubDate>Mon, 11 Apr 2022 02:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>30분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122512.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002122507</link>
             <guid>https://n.news.naver.com/article/138/0002122507</guid>
             <pubDate>Mon, 11 Apr 2022 02:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002122412</link>
             <guid>https://n.news.naver.com/article/138/0002122412</guid>
             <pubDate>Fri, 08 Apr 2022 03:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/08/2122412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/138/0002122255</link>
             <guid>https://n.news.naver.com/article/138/0002122255</guid>
             <pubDate>Wed, 06 Apr 2022 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002122168</link>
             <guid>https://n.news.naver.com/article/138/0002122168</guid>
             <pubDate>Tue, 05 Apr 2022 04:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122168.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Apr 2022 03:36:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121977.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, 작년 매출 1조원대…영업익 7800억원]]></title>
-            <link>https://n.news.naver.com/article/138/0002121970</link>
-            <guid>https://n.news.naver.com/article/138/0002121970</guid>
-            <pubDate>Fri, 01 Apr 2022 02:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121970.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
