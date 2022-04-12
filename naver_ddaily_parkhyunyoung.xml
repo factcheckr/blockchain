@@ -4,15 +4,23 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 02:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 03:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 '클립 드롭스' 속 NFT, 신용카드로 구매한다]]></title>
+            <link>https://n.news.naver.com/article/138/0002122613</link>
+            <guid>https://n.news.naver.com/article/138/0002122613</guid>
+            <pubDate>Tue, 12 Apr 2022 03:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122613.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코빗, 작년 매출 8배 뛰었다…영업적자는 지속]]></title>
             <link>https://n.news.naver.com/article/138/0002122562</link>
             <guid>https://n.news.naver.com/article/138/0002122562</guid>
             <pubDate>Mon, 11 Apr 2022 09:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122562.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002122528</link>
             <guid>https://n.news.naver.com/article/138/0002122528</guid>
             <pubDate>Mon, 11 Apr 2022 03:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122528.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002122255</link>
             <guid>https://n.news.naver.com/article/138/0002122255</guid>
             <pubDate>Wed, 06 Apr 2022 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002122168</link>
             <guid>https://n.news.naver.com/article/138/0002122168</guid>
             <pubDate>Tue, 05 Apr 2022 04:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122168.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Apr 2022 08:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121992.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗, 11번가 고객 대상 출석체크 이벤트 진행]]></title>
-            <link>https://n.news.naver.com/article/138/0002121982</link>
-            <guid>https://n.news.naver.com/article/138/0002121982</guid>
-            <pubDate>Fri, 01 Apr 2022 06:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121982.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
