@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 '클립 드롭스' 속 NFT, 신용카드로 구매한다 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=235405</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=235405</guid>
+            <pubDate>Tue, 12 Apr 2022 06:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] ’카카오 표‘ 대체불가능한 토큰(Non-Fungible Token, 이하 NFT)을 카드결제로 구매할 수 있게 된다.12일 카카오의 블록체인 기술 계열사 그라운드X는 NFT 유통 서비스 ’클립 드롭스‘에 카드결제 기능을 도입한다고 밝혔다. 카드결제 도입으로 이용자들은 기존 결제수단인 가상자산 ‘클레이(KLAY)’…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[코빗, 작년 매출 8배 뛰었다…영업적자는 지속 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=235337</link>
@@ -106,18 +113,11 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에 뛰어드는 기업들이 늘면서 프로필사진(PFP)용 NFT 프로젝트가 대유행하고 있다. 보어드에이프요트클럽(BAYC), 메타콩즈 등 일부 성공 사례만 보고 구매하기엔 위험이 따를 수 있어 투자자들의 주의가 요구된다.◆'PFP NFT' 범람하는 이유는?지…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오 VC부터 위메이드까지, ‘라인 출신’ 이홍규의 블록체인 게임사에 투자 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=234900</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=234900</guid>
-            <pubDate>Tue, 05 Apr 2022 02:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 블록체인 게임 개발사 ‘이스크라’가 420억 규모 시드 투자를 유치했다고 5일 밝혔다. 이스크라는 라인의 블록체인 사업을 이끌었던 이홍규 전 언체인 대표가 창업한 기업이다. 투자에는 국내 게임사 및 벤처캐피탈(VC)이 여럿 참여했다. 카카오의 블록체인 자회사인 크러스트, 위메이드, NHN빅풋, 네오위즈, 메타보라 등…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오 '클립 드롭스' 속 NFT, 신용카드로 구매한다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122613</link>
             <guid>https://n.news.naver.com/article/138/0002122613</guid>
             <pubDate>Tue, 12 Apr 2022 03:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +125,7 @@
             <link>https://n.news.naver.com/article/138/0002122562</link>
             <guid>https://n.news.naver.com/article/138/0002122562</guid>
             <pubDate>Mon, 11 Apr 2022 09:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122562.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -189,7 +189,7 @@
             <link>https://n.news.naver.com/article/138/0002122265</link>
             <guid>https://n.news.naver.com/article/138/0002122265</guid>
             <pubDate>Wed, 06 Apr 2022 06:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
