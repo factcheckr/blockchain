@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 11:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 12:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트서 NFT '첫 구매'하면 이더리움 받는다 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=235441</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=235441</guid>
+            <pubDate>Tue, 12 Apr 2022 12:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 업비트에서 대체불가능한 토큰(Non-Fungible Token, 이하 NFT)을 처음 구매하는 회원은 이더리움(ETH)을 받을 수 있게 된다. 12일 업비트 운영사 두나무는 NFT 최초 구매자를 대상으로 이더리움(ETH) 증정 이벤트를 진행한다고 밝혔다. 이번 증정 이벤트는 업비트 NFT 출시 이후 첫 번째 이벤트다. 기간…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[크립토 어벤져스] “NFT 테마코인 뭐야?”…코인원이 없애준 ‘흔한 불만’ (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=235437</link>
@@ -106,18 +113,11 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 대형 엔터테인먼트 기업들이 일제히 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업 진출을 선언한 가운데, 로드맵만 나와있던 엔터사들의 NFT 사업이 본격적으로 가동되기 시작했다. 6일 업계에 따르면 하이브, 큐브엔터테인먼트 등 굵직한 엔터사들이 최근 NFT 민팅(발행)에 나섰다. 그동안 NF…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[헥슬란트, 지갑 솔루션 ‘옥텟’서 KYC 기능 지원 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=234930</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=234930</guid>
-            <pubDate>Tue, 05 Apr 2022 08:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 블록체인 기술기업 헥슬란트가 지갑 구축 솔루션 ‘옥텟’에서 고객확인제도(KYC) 기능 연동을 지원한다고 5일 밝혔다. 해당 기능은 비대면 본인인증 서비스 기업 유스비 솔루션과 협력해 지원한다.옥텟은 기업이 다중서명(멀티시그) 가상자산 지갑을 구축할 수 있도록 각종 기능을 제공한다. 나아가 트래블룰 준수를 위…]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[업비트서 NFT '첫 구매'하면 이더리움 받는다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122643</link>
             <guid>https://n.news.naver.com/article/138/0002122643</guid>
             <pubDate>Tue, 12 Apr 2022 09:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -125,7 +125,7 @@
             <link>https://n.news.naver.com/article/138/0002122642</link>
             <guid>https://n.news.naver.com/article/138/0002122642</guid>
             <pubDate>Tue, 12 Apr 2022 09:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122642.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -133,7 +133,7 @@
             <link>https://n.news.naver.com/article/138/0002122613</link>
             <guid>https://n.news.naver.com/article/138/0002122613</guid>
             <pubDate>Tue, 12 Apr 2022 03:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
