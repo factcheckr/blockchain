@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-04-12T06:07:57.960Z</updated>
+    <updated>2022-04-12T07:03:02.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[크립토 어벤져스] “NFT 테마코인 뭐야?”…코인원이 없애준 ‘흔한 불만’]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=235437</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=235437"/>
+        <updated>2022-04-12T07:02:54.598Z</updated>
+        <content type="html"><![CDATA[2018년 말 ‘크립토 겨울’을 거치며 유행하던 ‘탈블(脫블록체인, 블록체인 업계에서 탈출한다는 뜻)’은 완전히 옛날 말이 됐다. 지난해 가상자산 시장이 크게 성장하면서 가상자산‧블록체인 업계는 내로라하는 인재들이 모이는 산업군으로 자리 잡았다. 이에 디지털데일리는 가상자산 산업을 움직이는 업계 리더들을 마블 캐릭터에 빗대 ‘크립토 어…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오 '클립 드롭스' 속 NFT, 신용카드로 구매한다]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=235405</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=234930"/>
         <updated>2022-04-05T08:08:16.936Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 블록체인 기술기업 헥슬란트가 지갑 구축 솔루션 ‘옥텟’에서 고객확인제도(KYC) 기능 연동을 지원한다고 5일 밝혔다. 해당 기능은 비대면 본인인증 서비스 기업 유스비 솔루션과 협력해 지원한다.옥텟은 기업이 다중서명(멀티시그) 가상자산 지갑을 구축할 수 있도록 각종 기능을 제공한다. 나아가 트래블룰 준수를 위…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“너도 나도 민팅” PFP NFT 난립…주의해야 할 점은?]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=234912</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=234912"/>
-        <updated>2022-04-05T03:20:34.405Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에 뛰어드는 기업들이 늘면서 프로필사진(PFP)용 NFT 프로젝트가 대유행하고 있다. 보어드에이프요트클럽(BAYC), 메타콩즈 등 일부 성공 사례만 보고 구매하기엔 위험이 따를 수 있어 투자자들의 주의가 요구된다.◆'PFP NFT' 범람하는 이유는?지…]]></content>
     </entry>
 </feed>
