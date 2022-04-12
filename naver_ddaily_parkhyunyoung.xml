@@ -4,15 +4,31 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 08:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 09:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트서 NFT '첫 구매'하면 이더리움 받는다]]></title>
+            <link>https://n.news.naver.com/article/138/0002122643</link>
+            <guid>https://n.news.naver.com/article/138/0002122643</guid>
+            <pubDate>Tue, 12 Apr 2022 09:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>53분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122643.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 어벤져스] “NFT 테마코인 뭐야?”…코인원이 없애준 ‘흔한 불만’]]></title>
+            <link>https://n.news.naver.com/article/138/0002122642</link>
+            <guid>https://n.news.naver.com/article/138/0002122642</guid>
+            <pubDate>Tue, 12 Apr 2022 09:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122642.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오 '클립 드롭스' 속 NFT, 신용카드로 구매한다]]></title>
             <link>https://n.news.naver.com/article/138/0002122613</link>
             <guid>https://n.news.naver.com/article/138/0002122613</guid>
             <pubDate>Tue, 12 Apr 2022 03:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002122562</link>
             <guid>https://n.news.naver.com/article/138/0002122562</guid>
             <pubDate>Mon, 11 Apr 2022 09:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122562.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002122287</link>
             <guid>https://n.news.naver.com/article/138/0002122287</guid>
             <pubDate>Wed, 06 Apr 2022 09:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122287.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122068.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 은행·증권사 넘어섰다? ‘탑2 거래소’ 실적으로 보는 코인시장 성장세]]></title>
-            <link>https://n.news.naver.com/article/138/0002122042</link>
-            <guid>https://n.news.naver.com/article/138/0002122042</guid>
-            <pubDate>Fri, 08 Apr 2022 00:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/03/2122042.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, ‘위믹스’ 중심 조직개편…게임 플랫폼‧퍼블릭 체인 부문 신설]]></title>
-            <link>https://n.news.naver.com/article/138/0002121992</link>
-            <guid>https://n.news.naver.com/article/138/0002121992</guid>
-            <pubDate>Fri, 01 Apr 2022 08:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121992.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
