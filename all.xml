@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 02:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:31:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,11 +113,19 @@
             <content:encoded><![CDATA[[디지털데일리 박현영기자] 지식 커뮤니티 플랫폼 '아하'가 새 경영고문을 영입하고 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에 진출한다. 아하 운영사 더코퍼레이션은 6일 블록체인·NFT 사업 역량을 강화하기 위해 박재현 람다256 대표와 이정환 법무법인 마스트 대표 변호사를 경영 고문으로 위촉했다고 밝혔다.박재…]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[가상자산 재테크 서비스 헤이비트, 헥슬란트 '옥텟' 지갑 도입 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122770</link>
+            <guid>https://n.news.naver.com/article/138/0002122770</guid>
+            <pubDate>Thu, 14 Apr 2022 03:31:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>31분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/14/2122770.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 어벤져스] ‘가보지 않은 길’을 같이 가는 사람들, 코인 거래소의 인재 채용법 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122716</link>
             <guid>https://n.news.naver.com/article/138/0002122716</guid>
             <pubDate>Wed, 13 Apr 2022 08:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/13/2122716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002122613</link>
             <guid>https://n.news.naver.com/article/138/0002122613</guid>
             <pubDate>Tue, 12 Apr 2022 03:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -157,7 +165,7 @@
             <link>https://n.news.naver.com/article/138/0002122528</link>
             <guid>https://n.news.naver.com/article/138/0002122528</guid>
             <pubDate>Mon, 11 Apr 2022 03:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122528.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -173,7 +181,7 @@
             <link>https://n.news.naver.com/article/138/0002122412</link>
             <guid>https://n.news.naver.com/article/138/0002122412</guid>
             <pubDate>Fri, 08 Apr 2022 03:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/08/2122412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,7 +229,7 @@
             <link>https://n.news.naver.com/article/138/0002122255</link>
             <guid>https://n.news.naver.com/article/138/0002122255</guid>
             <pubDate>Wed, 06 Apr 2022 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.04.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -263,14 +271,6 @@
             <pubDate>Sun, 10 Apr 2022 16:05:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122113.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["UI·UX에 집중"…코빗, 아이패드 전용 앱 출시 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002122072</link>
-            <guid>https://n.news.naver.com/article/138/0002122072</guid>
-            <pubDate>Mon, 04 Apr 2022 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
