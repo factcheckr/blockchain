@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ddaily.co.kr/news/article_list_writer.html?name=%EB%B0%95%ED%98%84%EC%98%81</id>
     <title>디지털데일리 ─ 박현영 기자</title>
-    <updated>2022-04-15T10:06:01.700Z</updated>
+    <updated>2022-04-15T11:02:54.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ddaily.co.kr/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카겜 IP 기반 '프렌즈샷', 보라 블록체인 기반 P2E 게임으로 나온다]]></title>
+        <id>https://www.ddaily.co.kr/news/article.html?no=235681</id>
+        <link href="https://www.ddaily.co.kr/news/article.html?no=235681"/>
+        <updated>2022-04-15T11:02:44.225Z</updated>
+        <content type="html"><![CDATA[[디지털데일리 박현영기자] ‘프렌즈샷: 누구나 골프’가 보라 블록체인 기반 ‘플레이 투 언(Play to Earn, P2E)’ 게임으로 나온다.15일 카카오게임즈 자회사 메타보라는 ‘프렌즈샷: 누구나 골프’의 P2E 버전인 ‘버디샷’을 보라 블록체인 상에 온보딩한다고 밝혔다. 메타보라는 카카오게임즈의 게임 전문 개발 계열사로, 지난해 웨이투…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐셔레스트, 크라우드펀딩 기업 세토웍스와 사업협력]]></title>
         <id>https://www.ddaily.co.kr/news/article.html?no=235604</id>
@@ -102,12 +109,5 @@
         <link href="https://www.ddaily.co.kr/news/article.html?no=235103"/>
         <updated>2022-04-07T04:05:12.159Z</updated>
         <content type="html"><![CDATA[[디지털데일리 박현영기자] 국내 게임사들이 일제히 블록체인 기반 게임을 개발 중인 가운데, 게임사들이 선택한 블록체인 플랫폼이 크게 클레이튼, 테라, 솔라나 세 가지로 나뉘는 추세다. 세 플랫폼 모두 이더리움을 대체할 퍼블릭 블록체인 플랫폼으로 주목받고 있는 만큼, 게임사들이 각 플랫폼에서 어떤 이점을 얻을 수 있을지 귀추가 주목된다. ◆…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업비트 성장세 덕…송치형, 세계 가상자산 억만장자 ‘8위’‧김형년 16위]]></title>
-        <id>https://www.ddaily.co.kr/news/article.html?no=235068</id>
-        <link href="https://www.ddaily.co.kr/news/article.html?no=235068"/>
-        <updated>2022-04-06T18:07:32.218Z</updated>
-        <content type="html"><![CDATA[[디지털데일리 박현영기자] 업비트 운영사 두나무의 송치형 의장이 전 세계 가상자산 억만장자 순위에서 8위에 이름을 올렸다.포브스가 5일(현지시간) 발표한 전 세계 가상자산 및 블록체인 억만장자 순위에 따르면 송 의장의 순자산 가치(Networth)는37억달러로 추정된다. 우리 돈 약 4조 5000에 달하는 금액이다.포브스는 방탄소년단(BTS) 소…]]></content>
     </entry>
 </feed>
