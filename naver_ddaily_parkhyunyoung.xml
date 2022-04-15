@@ -4,9 +4,17 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 06:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카겜 IP 기반 '프렌즈샷', 보라 블록체인 기반 P2E 게임으로 나온다]]></title>
+            <link>https://n.news.naver.com/article/138/0002122852</link>
+            <guid>https://n.news.naver.com/article/138/0002122852</guid>
+            <pubDate>Fri, 15 Apr 2022 06:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>27분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/15/2122852.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐셔레스트, 크라우드펀딩 기업 세토웍스와 사업협력]]></title>
             <link>https://n.news.naver.com/article/138/0002122779</link>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002122358</link>
             <guid>https://n.news.naver.com/article/138/0002122358</guid>
             <pubDate>Thu, 07 Apr 2022 07:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.04.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Apr 2022 02:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122152.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레이튼 DEX '클레이스왑', 폴리곤 기반으로 확장된다]]></title>
-            <link>https://n.news.naver.com/article/138/0002122115</link>
-            <guid>https://n.news.naver.com/article/138/0002122115</guid>
-            <pubDate>Mon, 04 Apr 2022 08:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122115.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
