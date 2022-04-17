@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 00:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 02:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 블록체인] 사기 같았던 블록체인 서비스들의 진화, ‘스테픈’으로 보는 진화과정 (디지털데일리 ─ 박현영 기자)]]></title>
+            <link>https://www.ddaily.co.kr/news/article.html?no=235726</link>
+            <guid>https://www.ddaily.co.kr/news/article.html?no=235726</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[[디지털데일리 박현영기자] 한 주간 블록체인‧가상자산 업계 소식을 소개하는 ‘주간 블록체인’입니다.이번주에는 ‘스테픈(STEP’N)’이라는 블록체인 기반 서비스에 대한 기사가 많았습니다. 최근 한 달 새 스테픈의 유틸리티토큰인 GST 가격이 60% 가량 올랐고, 거버넌스토큰인 GMT의 가격은 200% 넘게 올랐습니다. 최근 솔라나 블록체…]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[카겜 IP 기반 '프렌즈샷', 보라 블록체인 기반 P2E 게임으로 나온다 (디지털데일리 ─ 박현영 기자)]]></title>
             <link>https://www.ddaily.co.kr/news/article.html?no=235681</link>
@@ -106,11 +113,12 @@
             <content:encoded><![CDATA[[디지텋데일리 박현영기자] 재닛 옐런 미국 재무장관이 가상자산 규제에 관한 첫 연설에 나섰다. 그는 리스크를 관리하면서 혁신 기술은 지원해야 한다는 중립적인 입장을 고수했다. 7일(현지시간) 재닛 옐런 장관은 아메리칸 대학교에서 열린 강연에서 "규제 프레임워크는 금융시스템을 붕괴시킬 수 있는 리스크를 관리하면서도, 혁신은 지원할 수 있…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[클레이튼‧솔라나‧테라 ‘3파전’…국내 게임사들이 택한 블록체인 플랫폼 전략 비교 (디지털데일리 ─ 박현영 기자)]]></title>
-            <link>https://www.ddaily.co.kr/news/article.html?no=235103</link>
-            <guid>https://www.ddaily.co.kr/news/article.html?no=235103</guid>
-            <pubDate>Thu, 07 Apr 2022 04:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[[디지털데일리 박현영기자] 국내 게임사들이 일제히 블록체인 기반 게임을 개발 중인 가운데, 게임사들이 선택한 블록체인 플랫폼이 크게 클레이튼, 테라, 솔라나 세 가지로 나뉘는 추세다. 세 플랫폼 모두 이더리움을 대체할 퍼블릭 블록체인 플랫폼으로 주목받고 있는 만큼, 게임사들이 각 플랫폼에서 어떤 이점을 얻을 수 있을지 귀추가 주목된다. ◆…]]></content:encoded>
+            <title><![CDATA[[주간 블록체인] 사기 같았던 블록체인 서비스들의 진화, ‘스테픈’으로 보는 진화과정 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122896</link>
+            <guid>https://n.news.naver.com/article/138/0002122896</guid>
+            <pubDate>Sun, 17 Apr 2022 02:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/17/2122896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카겜 IP 기반 '프렌즈샷', 보라 블록체인 기반 P2E 게임으로 나온다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -133,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002122770</link>
             <guid>https://n.news.naver.com/article/138/0002122770</guid>
             <pubDate>Thu, 14 Apr 2022 03:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/14/2122770.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -165,7 +173,7 @@
             <link>https://n.news.naver.com/article/138/0002122613</link>
             <guid>https://n.news.naver.com/article/138/0002122613</guid>
             <pubDate>Tue, 12 Apr 2022 03:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -181,7 +189,7 @@
             <link>https://n.news.naver.com/article/138/0002122512</link>
             <guid>https://n.news.naver.com/article/138/0002122512</guid>
             <pubDate>Mon, 11 Apr 2022 02:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122512.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -189,7 +197,7 @@
             <link>https://n.news.naver.com/article/138/0002122477</link>
             <guid>https://n.news.naver.com/article/138/0002122477</guid>
             <pubDate>Sat, 16 Apr 2022 16:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/10/2122477.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -263,14 +271,6 @@
             <pubDate>Tue, 05 Apr 2022 04:05:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122168.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 VC부터 위메이드까지, ‘라인 출신’ 이홍규의 블록체인 게임사에 투자 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002122152</link>
-            <guid>https://n.news.naver.com/article/138/0002122152</guid>
-            <pubDate>Tue, 05 Apr 2022 02:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
