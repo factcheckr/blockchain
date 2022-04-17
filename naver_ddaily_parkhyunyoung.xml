@@ -4,7 +4,7 @@
         <title>디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 15:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 16:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[크립토 어벤져스] “NFT 테마코인 뭐야?”…코인원이 없애준 ‘흔한 불만’]]></title>
-            <link>https://n.news.naver.com/article/138/0002122642</link>
-            <guid>https://n.news.naver.com/article/138/0002122642</guid>
-            <pubDate>Tue, 12 Apr 2022 09:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122642.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[카카오 '클립 드롭스' 속 NFT, 신용카드로 구매한다]]></title>
             <link>https://n.news.naver.com/article/138/0002122613</link>
             <guid>https://n.news.naver.com/article/138/0002122613</guid>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 11 Apr 2022 02:39:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122512.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빗썸 자회사 빗썸메타, 작곡가 김형석과 맞손…메타버스 콘텐츠 만든다]]></title>
+            <link>https://n.news.naver.com/article/138/0002122507</link>
+            <guid>https://n.news.naver.com/article/138/0002122507</guid>
+            <pubDate>Sun, 17 Apr 2022 16:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] ‘ㄱ나니?’…부활한 싸이월드의 코인·NFT 사업, 성공 가능성은?]]></title>
