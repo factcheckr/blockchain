@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,7 +141,7 @@
             <link>https://n.news.naver.com/article/138/0002122716</link>
             <guid>https://n.news.naver.com/article/138/0002122716</guid>
             <pubDate>Wed, 13 Apr 2022 08:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/13/2122716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -149,7 +149,7 @@
             <link>https://n.news.naver.com/article/138/0002122643</link>
             <guid>https://n.news.naver.com/article/138/0002122643</guid>
             <pubDate>Tue, 12 Apr 2022 09:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -165,7 +165,7 @@
             <link>https://n.news.naver.com/article/138/0002122562</link>
             <guid>https://n.news.naver.com/article/138/0002122562</guid>
             <pubDate>Mon, 11 Apr 2022 09:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122562.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
