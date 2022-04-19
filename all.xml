@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 15:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 16:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,14 +113,6 @@
             <content:encoded><![CDATA[[디지텋데일리 박현영기자] 재닛 옐런 미국 재무장관이 가상자산 규제에 관한 첫 연설에 나섰다. 그는 리스크를 관리하면서 혁신 기술은 지원해야 한다는 중립적인 입장을 고수했다. 7일(현지시간) 재닛 옐런 장관은 아메리칸 대학교에서 열린 강연에서 "규제 프레임워크는 금융시스템을 붕괴시킬 수 있는 리스크를 관리하면서도, 혁신은 지원할 수 있…]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카겜 IP 기반 '프렌즈샷', 보라 블록체인 기반 P2E 게임으로 나온다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002122852</link>
-            <guid>https://n.news.naver.com/article/138/0002122852</guid>
-            <pubDate>Fri, 15 Apr 2022 06:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/15/2122852.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[캐셔레스트, 크라우드펀딩 기업 세토웍스와 사업협력 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122779</link>
             <guid>https://n.news.naver.com/article/138/0002122779</guid>
@@ -135,6 +127,14 @@
             <pubDate>Thu, 14 Apr 2022 03:31:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/14/2122770.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크립토 어벤져스] ‘가보지 않은 길’을 같이 가는 사람들, 코인 거래소의 인재 채용법 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122716</link>
+            <guid>https://n.news.naver.com/article/138/0002122716</guid>
+            <pubDate>Tue, 19 Apr 2022 16:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/13/2122716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트서 NFT '첫 구매'하면 이더리움 받는다 (디지털데일리 ─ 박현영 기자 ─ 네이버 뉴스)]]></title>
